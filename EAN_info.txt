@@ -1,0 +1,10 @@
+=== EAN file info ===
+Size: 3,754,144 bytes (3.58 MB)
+First 64 bytes hex: 7f454c46010101030000000000000000020028000100000075a506003400000060423900020400053400200008002800280025000100007040e22d0040e22e00
+Format: ELF binary
+  Class: 32-bit
+  Endian: little
+  Machine: 0x28 = ARM
+
+Entropy: 6.500 bits/byte (code should be ~5-6)
+Byte diversity: 256/256
