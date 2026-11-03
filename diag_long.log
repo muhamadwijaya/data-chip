@@ -1,0 +1,64 @@
+﻿py : O:\tij gt 1000\ethernet\diag.py:6: SyntaxWarning: "\d" is an invalid escape sequence. Such sequences will not 
+work in the future. Did you mean "\\d"? A raw string is also an option.
+At line:1 char:333
++ ... NG="utf-8"; py -I "O:\tij gt 1000\ethernet\diag.py" 1800 *> "O:\tij g ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (O:\tij gt 1000\...also an option.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  Pemakaian: py ethernet\diag.py [durasi_detik] [ip] [port]
+# poll 192.168.1.8:8010 selama 1800s � picu cek tinta sekarang
+   0.0s work=Print  error=0 = No error  raw=241301000042004200091c0200
+   1.2s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=24130003614b004b00091c0200
+   1.9s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=241300036151005100091c0200
+   5.1s (no-parse) 4552523a74696d6564206f7574
+   5.7s work=Ready  error=0 = No error  raw=241300000000000000091c0200
+   8.3s (no-parse) 4552523a74696d6564206f7574
+   8.9s work=Ready  error=0 = No error  raw=241300000000000000091c0200
+  11.4s work=Print  error=0 = No error  raw=241301000000000000001c0200
+  16.9s work=Print  error=0 = No error  raw=241301000000000000091c0200
+  18.2s work=Print  error=0 = No error  raw=241301000009000900091c0200
+  18.8s work=Print  error=0 = No error  raw=24130100000d000d00091c0200
+  19.4s work=Print  error=0 = No error  raw=241301000011001100091c0200
+  20.0s work=Print  error=0 = No error  raw=24130100001b001b00091c0200
+  21.2s work=Print  error=0 = No error  raw=241301000023002300091c0200
+  22.5s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=24130003612f002f00091c0200
+  24.4s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=241300036100000000091c0200
+  45.8s work=Ready  error=0 = No error  raw=241300000000000000091c0200
+  48.2s (no-parse) cc5595
+  53.4s work=Ready  error=0 = No error  raw=241300000000000000091c0200
+  57.7s work=Print  error=0 = No error  raw=241301000000000000001c0200
+  62.7s work=Print  error=0 = No error  raw=241301000000000000091c0200
+  64.5s work=Print  error=0 = No error  raw=241301000009000900091c0200
+  65.1s work=Print  error=0 = No error  raw=24130100000d000d00091c0200
+  65.7s work=Print  error=0 = No error  raw=241301000011001100091c0200
+  66.3s work=Print  error=0 = No error  raw=24130100001d001d00091c0200
+  67.6s work=Print  error=0 = No error  raw=241301000026002600091c0200
+  68.8s work=Print  error=0 = No error  raw=24130100002d002d00091c0200
+  69.4s work=Print  error=0 = No error  raw=241301000036003600091c0200
+  70.7s work=Print  error=0 = No error  raw=24130100003c003c00091c0200
+  71.3s work=Print  error=0 = No error  raw=241301000043004300091c0200
+  72.5s work=Print  error=0 = No error  raw=24130100004d004d00091c0200
+  73.1s work=Print  error=0 = No error  raw=241301000051005100091c0200
+  73.8s work=Print  error=0 = No error  raw=241301000055005500091c0200
+  74.4s work=Print  error=0 = No error  raw=24130100005e005e00091c0200
+  75.6s work=Print  error=0 = No error  raw=241301000067006700091c0200
+  76.3s work=Print  error=0 = No error  raw=241301000070007000091c0200
+  77.5s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=241300036174007400091c0200
+  78.1s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=24130003617a007a00091c0200
+  79.4s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=241300036100000000091c0200
+  80.6s work=Ready  error=0 = No error  raw=241300000000000000091c0200
+  97.2s work=Print  error=0 = No error  raw=241301000000000000001c0200
+ 102.8s work=Print  error=0 = No error  raw=241301000000000000091c0200
+ 103.4s work=Print  error=0 = No error  raw=241301000005000500091c0200
+ 104.0s work=Print  error=0 = No error  raw=24130100000d000d00091c0200
+ 105.2s work=Print  error=0 = No error  raw=241301000016001600091c0200
+ 106.4s work=Print  error=0 = No error  raw=24130100001e001e00091c0200
+ 107.1s work=Print  error=0 = No error  raw=241301000026002600091c0200
+ 108.3s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=241300036131003100091c0200
+ 110.8s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=241300036100000000091c0200
+ 165.4s work=Ready  error=0 = No error  raw=241300000000000000091c0200
+ 196.8s work=Ready  error=0 = No error  raw=241300000000000000091c0000
+ 199.9s work=Ready  error=0 = No error  raw=241300000000000000091c0063
+ 662.7s (no-parse) 4552523a5b57696e4572726f722031303035345d20416e206578697374696e6720636f6e6e656374696f6e2077617320666f726369626c7920636c6f736564206279207468652072656d6f746520686f7374
+ 665.3s (no-parse) 4552523a74696d6564206f7574

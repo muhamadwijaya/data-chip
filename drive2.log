@@ -1,0 +1,12 @@
+﻿py : O:\tij gt 1000\ethernet\drive.py:6: SyntaxWarning: "\d" is an invalid escape sequence. Such sequences will not 
+work in the future. Did you mean "\\d"? A raw string is also an option.
+At line:1 char:357
++ ... NG="utf-8"; py -I "O:\tij gt 1000\ethernet\drive.py" 180 *> "O:\tij g ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (O:\tij gt 1000\...also an option.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  17-byte (CC A8 0D ... CRC). Pemakaian: py ethernet\drive.py [durasi_detik]
+[ok] terhubung; STOP lalu START sekali, biarkan mencetak sampai re-verify
+   3.9s work=Print err=none count=4
+[ok] selesai (error terlihat: False)

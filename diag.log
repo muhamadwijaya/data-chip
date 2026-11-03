@@ -1,0 +1,126 @@
+﻿py : O:\tij gt 1000\ethernet\diag.py:6: SyntaxWarning: "\d" is an invalid escape sequence. Such sequences will not 
+work in the future. Did you mean "\\d"? A raw string is also an option.
+At line:1 char:333
++ ... NG="utf-8"; py -I "O:\tij gt 1000\ethernet\diag.py" 300 *> "O:\tij gt ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (O:\tij gt 1000\...also an option.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  Pemakaian: py ethernet\diag.py [durasi_detik] [ip] [port]
+# poll 192.168.1.8:8010 selama 300s � picu cek tinta sekarang
+   0.4s work=Print  error=0 = No error  raw=241301000063016301091c0062
+   1.0s work=Print  error=0 = No error  raw=24130100006c016c01091c0062
+   1.6s work=Print  error=0 = No error  raw=241301000076017601091c0062
+   2.8s work=Print  error=0 = No error  raw=24130100007f017f01091c0062
+   4.1s work=Print  error=0 = No error  raw=241301000087018701091c0062
+   4.7s work=Print  error=0 = No error  raw=24130100008f018f01091c0062
+   5.9s work=Print  error=0 = No error  raw=241301000098019801091c0062
+   6.5s work=Print  error=0 = No error  raw=24130100009e019e01091c0062
+   7.8s work=Print  error=0 = No error  raw=2413010000a601a601091c0062
+   9.0s work=Print  error=0 = No error  raw=2413010000af01af01091c0062
+   9.6s work=Print  error=0 = No error  raw=2413010000b401b401091c0062
+  10.2s work=Print  error=0 = No error  raw=2413010000b801b801091c0062
+  10.8s work=Print  error=0 = No error  raw=2413010000bf01bf01091c0062
+  12.1s work=Print  error=0 = No error  raw=2413010000c601c601091c0062
+  12.7s work=Print  error=0 = No error  raw=2413010000ce01ce01091c0062
+  13.9s work=Print  error=0 = No error  raw=2413010000d801d801091c0062
+  14.5s work=Print  error=0 = No error  raw=2413010000e101e101091c0062
+  15.8s work=Print  error=0 = No error  raw=2413010000e901e901091c0062
+  16.4s work=Print  error=0 = No error  raw=2413010000f201f201091c0062
+  17.6s work=Print  error=0 = No error  raw=2413010000fc01fc01091c0062
+  18.9s work=Print  error=0 = No error  raw=241301000000020002091c0062
+  19.5s work=Print  error=0 = No error  raw=24130100000a020a02091c0062
+  20.7s work=Print  error=0 = No error  raw=241301000012021202091c0062
+  21.9s work=Print  error=0 = No error  raw=24130100001e021e02091c0062
+  22.5s work=Print  error=0 = No error  raw=241301000021022102091c0062
+  23.8s work=Print  error=0 = No error  raw=24130100002d022d02091c0062
+  25.0s work=Print  error=0 = No error  raw=241301000031023102091c0062
+  25.6s work=Print  error=0 = No error  raw=24130100003d023d02091c0062
+  26.8s work=Print  error=0 = No error  raw=241301000046024602091c0062
+  28.0s work=Print  error=0 = No error  raw=24130100004a024a02091c0062
+  28.7s work=Print  error=0 = No error  raw=241301000054025402091c0062
+  29.9s work=Print  error=0 = No error  raw=24130100005d025d02091c0062
+  31.1s work=Print  error=0 = No error  raw=241301000066026602091c0062
+  31.8s work=Print  error=0 = No error  raw=241301000072027202091c0062
+  33.0s work=Print  error=0 = No error  raw=241301000076027602091c0062
+  33.6s work=Print  error=0 = No error  raw=24130100007e027e02091c0062
+  34.2s work=Print  error=0 = No error  raw=241301000082028202091c0062
+  34.8s work=Print  error=0 = No error  raw=24130100008a028a02091c0062
+  36.1s work=Print  error=0 = No error  raw=241301000091029102091c0062
+  36.7s work=Print  error=0 = No error  raw=24130100009a029a02091c0062
+  37.9s work=Print  error=0 = No error  raw=24130100009f029f02091c0062
+  39.1s work=Print  error=0 = No error  raw=2413010000ac02ac02091c0062
+  39.7s work=Print  error=0 = No error  raw=2413010000b002b002091c0062
+  41.0s work=Print  error=0 = No error  raw=2413010000b902b902091c0062
+  41.6s work=Print  error=0 = No error  raw=2413010000c102c102091c0062
+  42.9s work=Print  error=0 = No error  raw=2413010000ca02ca02091c0062
+  44.2s work=Print  error=0 = No error  raw=2413010000d502d502091c0062
+  44.8s work=Print  error=0 = No error  raw=2413010000dc02dc02091c0062
+  45.4s work=Print  error=0 = No error  raw=2413010000e002e002091c0062
+  46.0s work=Print  error=0 = No error  raw=2413010000e502e502091c0062
+  47.3s work=Print  error=0 = No error  raw=2413010000ed02ed02091c0062
+  47.9s work=Print  error=0 = No error  raw=2413010000f402f402091c0062
+  49.1s work=Ready  error=0 = No error  raw=2413000000fd02fd02091c0062
+  49.7s work=Ready  error=0 = No error  raw=241300000004030403091c0062
+  51.0s work=Ready  error=0 = No error  raw=241300000000000000091c0062
+  60.8s work=Ready  error=0 = No error  raw=241300000000000000091c0262
+  90.8s work=Ready  error=0 = No error  raw=241300000000000000001c0262
+  91.4s work=Print  error=0 = No error  raw=241301000000000000001c0262
+  96.9s work=Print  error=0 = No error  raw=241301000000000000091c0200
+  98.2s work=Print  error=0 = No error  raw=241301000007000700091c0200
+  98.8s work=Print  error=0 = No error  raw=241301000010001000091c0200
+ 100.0s work=Print  error=0 = No error  raw=241301000018001800091c0200
+ 101.3s work=Print  error=0 = No error  raw=241301000020002000091c0200
+ 101.9s work=Print  error=0 = No error  raw=241301000028002800091c0200
+ 103.1s work=Print  error=0 = No error  raw=241301000030003000091c0200
+ 103.7s work=Print  error=0 = No error  raw=241301000038003800091c0200
+ 105.0s work=Print  error=0 = No error  raw=241301000042004200091c0200
+ 106.2s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=24130003614b004b00091c0200
+ 106.8s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=241300036151005100091c0200
+ 108.1s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=241300036100000000091c0200
+ 108.7s work=Ready  error=0 = No error  raw=241300000000000000091c0200
+ 116.7s work=Print  error=0 = No error  raw=241301000000000000001c0200
+ 121.7s work=Print  error=0 = No error  raw=241301000000000000091c0200
+ 122.9s work=Print  error=0 = No error  raw=241301000009000900091c0200
+ 123.5s work=Print  error=0 = No error  raw=24130100000d000d00091c0200
+ 124.1s work=Print  error=0 = No error  raw=241301000011001100091c0200
+ 125.3s work=Print  error=0 = No error  raw=24130100001b001b00091c0200
+ 126.0s work=Print  error=0 = No error  raw=241301000023002300091c0200
+ 127.2s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=24130003612f002f00091c0200
+ 129.0s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=241300036100000000091c0200
+ 151.2s work=Ready  error=0 = No error  raw=241300000000000000091c0200
+ 153.5s (no-parse) cc5595
+ 157.9s work=Ready  error=0 = No error  raw=241300000000000000091c0200
+ 162.4s work=Print  error=0 = No error  raw=241301000000000000001c0200
+ 168.0s work=Print  error=0 = No error  raw=241301000000000000091c0200
+ 169.2s work=Print  error=0 = No error  raw=241301000009000900091c0200
+ 169.8s work=Print  error=0 = No error  raw=24130100000d000d00091c0200
+ 170.4s work=Print  error=0 = No error  raw=241301000011001100091c0200
+ 171.6s work=Print  error=0 = No error  raw=24130100001d001d00091c0200
+ 172.3s work=Print  error=0 = No error  raw=241301000026002600091c0200
+ 173.5s work=Print  error=0 = No error  raw=24130100002d002d00091c0200
+ 174.7s work=Print  error=0 = No error  raw=241301000036003600091c0200
+ 175.3s work=Print  error=0 = No error  raw=24130100003c003c00091c0200
+ 176.5s work=Print  error=0 = No error  raw=241301000043004300091c0200
+ 177.2s work=Print  error=0 = No error  raw=24130100004d004d00091c0200
+ 177.8s work=Print  error=0 = No error  raw=241301000051005100091c0200
+ 178.4s work=Print  error=0 = No error  raw=241301000055005500091c0200
+ 179.6s work=Print  error=0 = No error  raw=24130100005e005e00091c0200
+ 180.2s work=Print  error=0 = No error  raw=241301000067006700091c0200
+ 181.5s work=Print  error=0 = No error  raw=241301000070007000091c0200
+ 182.1s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=241300036174007400091c0200
+ 182.7s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=24130003617a007a00091c0200
+ 183.9s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=241300036100000000091c0200
+ 185.8s work=Ready  error=0 = No error  raw=241300000000000000091c0200
+ 202.4s work=Print  error=0 = No error  raw=241301000000000000001c0200
+ 207.3s work=Print  error=0 = No error  raw=241301000000000000091c0200
+ 208.0s work=Print  error=0 = No error  raw=241301000005000500091c0200
+ 209.2s work=Print  error=0 = No error  raw=24130100000d000d00091c0200
+ 210.5s work=Print  error=0 = No error  raw=241301000016001600091c0200
+ 211.1s work=Print  error=0 = No error  raw=24130100001e001e00091c0200
+ 212.4s work=Print  error=0 = No error  raw=241301000026002600091c0200
+ 213.0s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=24130003612e002e00091c0200
+ 213.6s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=241300036131003100091c0200
+ 215.5s work=Ready  error=0x6103 CARTRIDGE chip DAMAGED  raw=241300036100000000091c0200
+ 270.0s work=Ready  error=0 = No error  raw=241300000000000000091c0200
+# selesai
