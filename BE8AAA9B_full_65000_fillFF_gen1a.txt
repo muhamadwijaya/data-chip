@@ -1,0 +1,7 @@
+# Script Proxmark3 - GTInk
+# Backend: gen1a
+# Clone : BE8AAA9B_full_65000_fillFF.bin
+# Jalankan dari client Proxmark3, contoh:
+#   proxmark3 -p COM11 -s "BE8AAA9B_full_65000_fillFF_gen1a.txt"
+
+hf mf cload -f "O:/tij gt 1000/clones/BE8AAA9B_full_65000_fillFF.bin" --1k

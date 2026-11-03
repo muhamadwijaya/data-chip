@@ -1,0 +1,7 @@
+# Script Proxmark3 - GTInk
+# Backend: gen4
+# Clone : FE7EA17E_full_65000.bin
+# Jalankan dari client Proxmark3, contoh:
+#   proxmark3 -p COM11 -s "FE7EA17E_full_65000_gen4.txt"
+
+hf mf gload -f "O:/tij gt 1000/clones/FE7EA17E_full_65000.bin" --1k

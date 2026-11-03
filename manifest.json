@@ -1,0 +1,226 @@
+{
+  "tool": "gtink",
+  "generated_at": "2026-10-26T06:26:18.401178+00:00",
+  "clones": [
+    {
+      "label": "exact_64016",
+      "description": "Kontrol: clone persis dari dump sumber. Uji dulu apakah printer menerima kartu magic/UID hasil clone.",
+      "source": "tij gt1000 CHIP INK\\hf-mf-1EB75C2C-dump.bin",
+      "source_uid": "1EB75C2C",
+      "source_counter": 64016,
+      "counter": 64016,
+      "counter_hex": "FA10",
+      "fill": null,
+      "uid": "1EB75C2C",
+      "uid_changed": false,
+      "file": "1EB75C2C_exact_64016.bin",
+      "sha256": "2b153ff0190e8b3709514cac903fc6c36a078cb31ec7e1d9ff259b0413079cc7",
+      "valid": true,
+      "scripts": {
+        "gen1a": "1EB75C2C_exact_64016_gen1a.txt",
+        "gen2": "1EB75C2C_exact_64016_gen2.txt",
+        "gen4": "1EB75C2C_exact_64016_gen4.txt"
+      }
+    },
+    {
+      "label": "full_65000",
+      "description": "Kandidat utama: counter nominal penuh 65000, fill dan payload dipertahankan dari chip penuh.",
+      "source": "tij gt1000 CHIP INK\\hf-mf-1EB75C2C-dump.bin",
+      "source_uid": "1EB75C2C",
+      "source_counter": 64016,
+      "counter": 65000,
+      "counter_hex": "FDE8",
+      "fill": null,
+      "uid": "1EB75C2C",
+      "uid_changed": false,
+      "file": "1EB75C2C_full_65000.bin",
+      "sha256": "86889a3adeccab35efb3fd68fd430fba135c0b74fc8d69402945b412a22ab54b",
+      "valid": true,
+      "scripts": {
+        "gen1a": "1EB75C2C_full_65000_gen1a.txt",
+        "gen2": "1EB75C2C_full_65000_gen2.txt",
+        "gen4": "1EB75C2C_full_65000_gen4.txt"
+      }
+    },
+    {
+      "label": "max_65535",
+      "description": "Kandidat cadangan: counter maksimum 16-bit 65535.",
+      "source": "tij gt1000 CHIP INK\\hf-mf-1EB75C2C-dump.bin",
+      "source_uid": "1EB75C2C",
+      "source_counter": 64016,
+      "counter": 65535,
+      "counter_hex": "FFFF",
+      "fill": null,
+      "uid": "1EB75C2C",
+      "uid_changed": false,
+      "file": "1EB75C2C_max_65535.bin",
+      "sha256": "bd7b8244c3e4ce98b14f3dd577ce24718da6034cc07955bdbac9ca7ee2f18cc5",
+      "valid": true,
+      "scripts": {
+        "gen1a": "1EB75C2C_max_65535_gen1a.txt",
+        "gen2": "1EB75C2C_max_65535_gen2.txt",
+        "gen4": "1EB75C2C_max_65535_gen4.txt"
+      }
+    },
+    {
+      "label": "full_65000_newuid_92A7CC05",
+      "description": "UID baru yang diturunkan dari payload, counter 65000. Untuk menguji apakah printer menolak UID yang sudah dikenal atau mendeteksi rollback counter.",
+      "source": "tij gt1000 CHIP INK\\hf-mf-1EB75C2C-dump.bin",
+      "source_uid": "1EB75C2C",
+      "source_counter": 64016,
+      "counter": 65000,
+      "counter_hex": "FDE8",
+      "fill": null,
+      "uid": "92A7CC05",
+      "uid_changed": true,
+      "file": "1EB75C2C_full_65000_newuid_92A7CC05.bin",
+      "sha256": "25dfc598dfa4fc8b43c2225ea6692eb7ba58d585f7df00b4b92f889ce9778634",
+      "valid": true,
+      "scripts": {
+        "gen1a": "1EB75C2C_full_65000_newuid_92A7CC05_gen1a.txt",
+        "gen2": "1EB75C2C_full_65000_newuid_92A7CC05_gen2.txt",
+        "gen4": "1EB75C2C_full_65000_newuid_92A7CC05_gen4.txt"
+      }
+    },
+    {
+      "label": "exact_64606",
+      "description": "Kontrol sumber 5EEFAB9B: clone persis, payload dan counter asli dipertahankan.",
+      "source": "tij gt1000 CHIP INK\\hf-mf-5EEFAB9B-dump.bin",
+      "source_uid": "5EEFAB9B",
+      "source_counter": 64606,
+      "counter": 64606,
+      "counter_hex": "FC5E",
+      "fill": null,
+      "uid": "5EEFAB9B",
+      "uid_changed": false,
+      "file": "5EEFAB9B_exact_64606.bin",
+      "sha256": "992f72976b9e2cfdef9560bfee299fa8184afc3ae2356d3070f136a97c133dc6",
+      "valid": true,
+      "scripts": {
+        "gen1a": "5EEFAB9B_exact_64606_gen1a.txt",
+        "gen2": "5EEFAB9B_exact_64606_gen2.txt",
+        "gen4": "5EEFAB9B_exact_64606_gen4.txt"
+      }
+    },
+    {
+      "label": "full_65000",
+      "description": "Kandidat sumber 5EEFAB9B: counter 65000, payload sumber dipertahankan.",
+      "source": "tij gt1000 CHIP INK\\hf-mf-5EEFAB9B-dump.bin",
+      "source_uid": "5EEFAB9B",
+      "source_counter": 64606,
+      "counter": 65000,
+      "counter_hex": "FDE8",
+      "fill": null,
+      "uid": "5EEFAB9B",
+      "uid_changed": false,
+      "file": "5EEFAB9B_full_65000.bin",
+      "sha256": "b95c9c7bc616f40c0be7c0311660089cce66132ee3250ca20e68113b883c20b8",
+      "valid": true,
+      "scripts": {
+        "gen1a": "5EEFAB9B_full_65000_gen1a.txt",
+        "gen2": "5EEFAB9B_full_65000_gen2.txt",
+        "gen4": "5EEFAB9B_full_65000_gen4.txt"
+      }
+    },
+    {
+      "label": "exact_64516",
+      "description": "Kontrol sumber FE7EA17E: clone persis, payload dan counter asli dipertahankan.",
+      "source": "tij gt1000 CHIP INK\\hf-mf-FE7EA17E-dump.bin",
+      "source_uid": "FE7EA17E",
+      "source_counter": 64516,
+      "counter": 64516,
+      "counter_hex": "FC04",
+      "fill": null,
+      "uid": "FE7EA17E",
+      "uid_changed": false,
+      "file": "FE7EA17E_exact_64516.bin",
+      "sha256": "20604a30ccdeb6a6adb8bc6e0a7989f2084f987fdc50b097f96dd63483c2046a",
+      "valid": true,
+      "scripts": {
+        "gen1a": "FE7EA17E_exact_64516_gen1a.txt",
+        "gen2": "FE7EA17E_exact_64516_gen2.txt",
+        "gen4": "FE7EA17E_exact_64516_gen4.txt"
+      }
+    },
+    {
+      "label": "full_65000",
+      "description": "Kandidat sumber FE7EA17E: counter 65000, payload sumber dipertahankan.",
+      "source": "tij gt1000 CHIP INK\\hf-mf-FE7EA17E-dump.bin",
+      "source_uid": "FE7EA17E",
+      "source_counter": 64516,
+      "counter": 65000,
+      "counter_hex": "FDE8",
+      "fill": null,
+      "uid": "FE7EA17E",
+      "uid_changed": false,
+      "file": "FE7EA17E_full_65000.bin",
+      "sha256": "be524cec47a785046830d5a68af29acb77cafce3fb28556e785590f9939c2226",
+      "valid": true,
+      "scripts": {
+        "gen1a": "FE7EA17E_full_65000_gen1a.txt",
+        "gen2": "FE7EA17E_full_65000_gen2.txt",
+        "gen4": "FE7EA17E_full_65000_gen4.txt"
+      }
+    },
+    {
+      "label": "exact_12107",
+      "description": "Kontrol chip low-ink: counter dan fill 00 dipertahankan.",
+      "source": "tij gt1000 CHIP INK\\hf-mf-BE8AAA9B-dump.bin",
+      "source_uid": "BE8AAA9B",
+      "source_counter": 12107,
+      "counter": 12107,
+      "counter_hex": "2F4B",
+      "fill": null,
+      "uid": "BE8AAA9B",
+      "uid_changed": false,
+      "file": "BE8AAA9B_exact_12107.bin",
+      "sha256": "91fc3a0c1c684d8c5a9e2b81dc8963f7b1bf96ce65b171ed2991d33f13699f0f",
+      "valid": true,
+      "scripts": {
+        "gen1a": "BE8AAA9B_exact_12107_gen1a.txt",
+        "gen2": "BE8AAA9B_exact_12107_gen2.txt",
+        "gen4": "BE8AAA9B_exact_12107_gen4.txt"
+      }
+    },
+    {
+      "label": "full_65000_keep00",
+      "description": "Chip low-ink dinaikkan ke 65000 dengan fill 00 asli. Payload low-ink dipertahankan.",
+      "source": "tij gt1000 CHIP INK\\hf-mf-BE8AAA9B-dump.bin",
+      "source_uid": "BE8AAA9B",
+      "source_counter": 12107,
+      "counter": 65000,
+      "counter_hex": "FDE8",
+      "fill": null,
+      "uid": "BE8AAA9B",
+      "uid_changed": false,
+      "file": "BE8AAA9B_full_65000_keep00.bin",
+      "sha256": "9bd9d497a91a77d8f450bec2afa117b865bc49c50d3c756fa1599679d0aa92c5",
+      "valid": true,
+      "scripts": {
+        "gen1a": "BE8AAA9B_full_65000_keep00_gen1a.txt",
+        "gen2": "BE8AAA9B_full_65000_keep00_gen2.txt",
+        "gen4": "BE8AAA9B_full_65000_keep00_gen4.txt"
+      }
+    },
+    {
+      "label": "full_65000_fillFF",
+      "description": "Chip low-ink dinaikkan ke 65000 dan tail dinormalisasi ke format chip penuh (FF).",
+      "source": "tij gt1000 CHIP INK\\hf-mf-BE8AAA9B-dump.bin",
+      "source_uid": "BE8AAA9B",
+      "source_counter": 12107,
+      "counter": 65000,
+      "counter_hex": "FDE8",
+      "fill": "FF",
+      "uid": "BE8AAA9B",
+      "uid_changed": false,
+      "file": "BE8AAA9B_full_65000_fillFF.bin",
+      "sha256": "853e0bc3b341006aa6e9e95ef9c83377097eaf984bca0e2ea5171e17f71ef172",
+      "valid": true,
+      "scripts": {
+        "gen1a": "BE8AAA9B_full_65000_fillFF_gen1a.txt",
+        "gen2": "BE8AAA9B_full_65000_fillFF_gen2.txt",
+        "gen4": "BE8AAA9B_full_65000_fillFF_gen4.txt"
+      }
+    }
+  ]
+}
