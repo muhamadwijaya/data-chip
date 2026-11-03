@@ -1,0 +1,47 @@
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] execute command from commandline: hf mf info; hf mf cgetblk --blk 0; hf mf cgetblk --blk 1; hf mf cgetblk --blk 29
+
+[+] Using UART port COM11
+[+] Communicating with PM3 over USB-CDC
+[+] Max frame size: 624 bytes
+[+] Emulator memory: 8192 bytes
+[usb|script] pm3 --> hf mf info
+
+[=] --- ISO14443-a Information -----------------------------
+[+]  UID: BE 6F C4 01 
+[+] ATQA: 00 04
+[+]  SAK: 08 [2]
+
+[=] --- Keys Information
+[+] loaded 2 user keys
+[+] loaded 64 hardcoded keys
+
+[=] --- Fingerprint
+[=] <n/a>
+
+[=] --- Magic Tag Information
+
+[+] Magic capabilities... Gen 1a
+
+[=] --- PRNG Information
+[#] Static nonce....... 01200145
+[+] Static nonce... yes
+
+[usb|script] pm3 --> hf mf cgetblk --blk 0
+
+[=]   # | sector 00 / 0x00                                | ascii
+[=] ----+-------------------------------------------------+-----------------
+[=]   0 | BE 6F C4 01 14 08 04 00 00 00 00 00 00 00 00 00 | .o..............
+
+[usb|script] pm3 --> hf mf cgetblk --blk 1
+
+[=]   # | sector 00 / 0x00                                | ascii
+[=] ----+-------------------------------------------------+-----------------
+[=]   1 | 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 | ................ 
+
+[usb|script] pm3 --> hf mf cgetblk --blk 29
+
+[=]   # | sector 07 / 0x07                                | ascii
+[=] ----+-------------------------------------------------+-----------------
+[=]  29 | 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 | ................ 
+

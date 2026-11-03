@@ -1,0 +1,28 @@
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] execute command from commandline: hf mf sim -h
+
+[+] Using UART port COM11
+[+] Communicating with PM3 over USB-CDC
+[+] Max frame size: 624 bytes
+[+] Emulator memory: 8192 bytes ( in use )
+[usb|script] pm3 --> hf mf sim -h
+
+Simulate MIFARE Classic family type based upon
+ISO/IEC 14443 type A tag with 4,7 or 10 byte UID
+from emulator memory.  See `hf mf eload` first.
+The UID from emulator memory will be used if not specified.
+
+usage:
+    hf mf simoptions:
+
+examples/notes:
+    hf mf sim --mini                          -> MIFARE Mini
+    hf mf sim --1k                            -> MIFARE Classic 1k (default)
+    hf mf sim --1k -u 0a0a0a0a                -> MIFARE Classic 1k with 4b UID
+    hf mf sim --1k -u 11223344556677          -> MIFARE Classic 1k with 7b UID
+    hf mf sim --1k -u 11223344 -i -x          -> Perform reader attack in interactive mode
+    hf mf sim --2k                            -> MIFARE 2k
+    hf mf sim --4k                            -> MIFARE 4k
+    hf mf sim --1k -x -e                      -> Keep simulation running and populate with found reader keys
+                                             
+

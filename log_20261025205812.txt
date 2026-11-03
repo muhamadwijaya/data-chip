@@ -1,0 +1,50 @@
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] execute command from commandline: hf search; hf mf cgetblk --blk 0; hf mf cgetblk --blk 29; hf mf cgetblk --blk 58
+
+[+] Using UART port COM11
+[+] Communicating with PM3 over USB-CDC
+[+] Max frame size: 624 bytes
+[+] Emulator memory: 8192 bytes
+[usb|script] pm3 --> hf search
+
+[=] ---------- ISO14443-A Information ----------
+[+]  UID: 1E B7 5C 2C   ( ONUID, re-used )
+[+] ATQA: 00 04
+[+]  SAK: 28 [2]
+[+] Possible types:
+[+]    SmartMX with MIFARE Classic 1K
+[+]    FM1208-10 with MIFARE Classic 1K
+[+]    FM1216-137 with MIFARE Classic 1K
+[=] 
+[=] Proprietary non iso14443-4 card found
+[=] RATS not supported
+[=] --> SAK incorrectly claims that card supports RATS <--
+
+[+] Magic capabilities... Gen 1a
+[#] Static nonce....... 01200145
+[+] Static nonce....... yes
+
+[?] Hint: Use `hf mf c*` magic commands
+[?] Hint: Try `hf mf info`
+
+
+[+] Valid ISO 14443-A tag found
+
+[usb|script] pm3 --> hf mf cgetblk --blk 0
+
+[=]   # | sector 00 / 0x00                                | ascii
+[=] ----+-------------------------------------------------+-----------------
+[=]   0 | 1E B7 5C 2C D9 28 04 00 90 10 15 01 00 00 00 00 | ..\,.(..........
+
+[usb|script] pm3 --> hf mf cgetblk --blk 29
+
+[=]   # | sector 07 / 0x07                                | ascii
+[=] ----+-------------------------------------------------+-----------------
+[=]  29 | FF FF FF FF FF FF FF FF FF FF 10 FA 00 00 00 00 | ................ 
+
+[usb|script] pm3 --> hf mf cgetblk --blk 58
+
+[=]   # | sector 14 / 0x0E                                | ascii
+[=] ----+-------------------------------------------------+-----------------
+[=]  58 | FF FF FF FF FF FF FF FF FF FF 10 FA 00 00 00 00 | ................ 
+

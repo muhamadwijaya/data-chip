@@ -1,0 +1,49 @@
+[+] execute command from commandline: hw version
+
+[+] Using UART port COM11
+[+] Communicating with PM3 over USB-CDC
+[+] Max frame size: 624 bytes
+[+] Emulator memory: 8192 bytes
+[=] Creating initial preferences file
+[+] Saved to json file O:/tij gt 1000/.proxmark3/preferences.json
+[=] No previous history could be loaded
+[usb|script] pm3 --> hw version
+
+ [ Proxmark3 ]
+
+ [ Client ]
+  Iceman/master/v4.23346-108-ga48ce253f-suspect 2026-10-10 03:52:32 18b0bb4e3
+  Compiler.................. MinGW-w64 13.2.0
+  Platform.................. Windows (64b) / x86_64
+  Readline support.......... present
+  QT GUI support............ present
+  Native BT support......... absent
+  Python script support..... present ( 3.11.5 )
+  Python SWIG support....... present
+  Lua script support........ present ( 5.4.6 )
+  Lua SWIG support.......... present
+
+ [ Model ]
+[-] fail reading from flashmemory
+  External flash............ absent
+  Smartcard reader.......... absent
+  FPC USART for BT add-on... absent
+
+ [ ARM ]
+  Bootrom.... Iceman/master/v4.23346-108-ga48ce253f-suspect 2026-10-10 03:49:23 18b0bb4e3
+  OS......... Iceman/master/v4.23346-108-ga48ce253f-suspect 2026-10-10 03:49:53 18b0bb4e3
+  Compiler... GCC 12.2.0
+
+ [ FPGA ] 
+ fpga_pm3_hf.ncd image 2s30vq100 10-10-2026 03:19:26
+ fpga_pm3_lf.ncd image 2s30vq100 10-10-2026 03:19:26
+ fpga_pm3_felica.ncd image 2s30vq100 10-10-2026 03:19:26
+ fpga_pm3_hf_15.ncd image 2s30vq100 10-10-2026 03:19:26
+
+ [ Hardware ]
+  --= uC: AT91SAM7S512 Rev A
+  --= Embedded Processor: ARM7TDMI
+  --= Internal SRAM size: 64K bytes
+  --= Architecture identifier: AT91SAM7Sxx Series
+  --= Embedded flash memory 512K bytes ( 94% used )
+

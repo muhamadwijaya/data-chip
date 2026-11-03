@@ -1,0 +1,10 @@
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] execute command from commandline: hf mf
+
+[+] Using UART port COM11
+[+] Communicating with PM3 over USB-CDC
+[+] Max frame size: 624 bytes
+[+] Emulator memory: 8192 bytes ( in use )
+[usb|script] pm3 --> hf mf
+
+

@@ -1,0 +1,14 @@
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] execute command from commandline: hf mf eload -f 'tij gt1000 CHIP INK/hf-mf-FE7EA17E-dump.bin'
+
+[+] Using UART port COM11
+[+] Communicating with PM3 over USB-CDC
+[+] Max frame size: 624 bytes
+[+] Emulator memory: 8192 bytes
+[usb|script] pm3 --> hf mf eload -f 'tij gt1000 CHIP INK/hf-mf-FE7EA17E-dump.bin'
+[=] Upload 64 blocks 1024 bytes
+[+] Loaded 1024 bytes from binary file `tij gt1000 CHIP INK/hf-mf-FE7EA17E-dump.bin`
+[=] Uploading to emulator memory
+[=] ...
+[?] Hint: You are ready to simulate. See `hf mf sim -h`
+[=] Done!

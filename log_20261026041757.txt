@@ -1,0 +1,8 @@
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] execute command from commandline: trace list -t mf
+
+[+] Using UART port COM11
+
+[!] ERROR: invalid serial port COM11
+
+[?] Hint: Try the shell script ``./pm3 --list` to get a list of possible serial ports

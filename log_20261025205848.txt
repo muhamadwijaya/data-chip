@@ -1,0 +1,9 @@
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] execute command from commandline: hf mf dump -f C:\Users\user\AppData\Local\Temp\opencode\readback --1k
+
+[+] Using UART port COM11
+[+] Communicating with PM3 over USB-CDC
+[+] Max frame size: 624 bytes
+[+] Emulator memory: 8192 bytes
+[usb|script] pm3 --> hf mf dump -f C:\Users\user\AppData\Local\Temp\opencode\readback --1k
+[-] Error - can't find `hf-mf-1EB75C2C-key.bin`

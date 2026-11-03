@@ -1,0 +1,11 @@
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] execute command from commandline: trace list -t mf
+
+[+] Using UART port COM11
+[#] ----------- BREAKING ----------
+[#] Emulator stopped. Tracing: 1  trace length: 0 
+[+] Communicating with PM3 over USB-CDC
+[+] Max frame size: 624 bytes
+[+] Emulator memory: 8192 bytes ( in use )
+[usb|script] pm3 --> trace list -t mf
+[+] Recorded activity ( 0 bytes )

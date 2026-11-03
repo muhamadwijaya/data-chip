@@ -1,0 +1,15 @@
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] execute command from commandline: hf mf sim --1k -u FE7EA17E -n 200 -v
+
+[+] Using UART port COM11
+[+] Communicating with PM3 over USB-CDC
+[+] Max frame size: 624 bytes
+[+] Emulator memory: 8192 bytes ( in use )
+[usb|script] pm3 --> hf mf sim --1k -u FE7EA17E -n 200 -v
+[=] MIFARE 1K | 4 bytes UID  FE 7E A1 7E 
+[=] Options [ numreads: 200, flags: 80 (0x0050) ]
+[=] Press pm3 button or send another cmd to abort simulation
+[#] Enforcing Mifare 1K ATQA/SAK
+[#] 4B UID: fe7ea17e
+[#] ATQA  : 00 04
+[#] SAK   : 08

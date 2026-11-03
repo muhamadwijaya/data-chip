@@ -1,0 +1,23 @@
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] execute command from commandline: hf mf gload --help
+
+[+] Using UART port COM11
+[+] Communicating with PM3 over USB-CDC
+[+] Max frame size: 624 bytes
+[+] Emulator memory: 8192 bytes
+[usb|script] pm3 --> hf mf gload --help
+
+Load magic gen4 gtu card with data from (bin/eml/json) dump file
+or from emulator memory.
+
+usage:
+    hf mf gloadoptions:
+
+examples/notes:
+    hf mf gload --emu             
+    hf mf gload -f hf-mf-01020304.eml
+    hf mf gload -p AABBCCDD --4k -v -f hf-mf-01020304-dump.bin
+                                  
+    Card must be configured beforehand with `script run hf_mf_ultimatecard`.
+    Blocks are 16 bytes long.     
+

@@ -1,0 +1,20 @@
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] execute command from commandline: hf mf cload --help
+
+[+] Using UART port COM11
+[+] Communicating with PM3 over USB-CDC
+[+] Max frame size: 624 bytes
+[+] Emulator memory: 8192 bytes
+[usb|script] pm3 --> hf mf cload --help
+
+Load magic gen1a card with data from (bin/eml/json) dump file
+or from emulator memory.
+
+usage:
+    hf mf cloadoptions:
+
+examples/notes:
+    hf mf cload --emu             
+    hf mf cload -f hf-mf-01020304.eml
+                                  
+
