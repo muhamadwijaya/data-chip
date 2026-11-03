@@ -1,0 +1,975 @@
+### ASCII
+!This program cannot be run in DOS mode.
+Rich3b
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+/1 P
+/1 P
+gfff
+P0@-
+COREDLL.dll
+commctrl.dll
+WSACleanup
+WSAStartup
+WS2.dll
+mfcce400.dll
+?afxData@@3UAUX_DATA@@A
+?classCArchiveException@CArchiveException@@2UCRuntimeClass@@B
+?classCAsyncSocket@CAsyncSocket@@2UCRuntimeClass@@B
+?classCBitmap@CBitmap@@2UCRuntimeClass@@B
+?classCBitmapButton@CBitmapButton@@2UCRuntimeClass@@B
+?classCBrush@CBrush@@2UCRuntimeClass@@B
+?classCButton@CButton@@2UCRuntimeClass@@B
+?classCByteArray@CByteArray@@2UCRuntimeClass@@A
+?classCCeCommandBar@CCeCommandBar@@2UCRuntimeClass@@B
+?classCCeSocket@CCeSocket@@2UCRuntimeClass@@B
+?classCClientDC@CClientDC@@2UCRuntimeClass@@B
+?classCCmdTarget@CCmdTarget@@2UCRuntimeClass@@B
+?classCColorDialog@CColorDialog@@2UCRuntimeClass@@B
+?classCComboBox@CComboBox@@2UCRuntimeClass@@B
+?classCCommonDialog@CCommonDialog@@2UCRuntimeClass@@B
+?classCControlBar@CControlBar@@2UCRuntimeClass@@B
+?classCCriticalSection@CCriticalSection@@2UCRuntimeClass@@B
+?classCCtrlView@CCtrlView@@2UCRuntimeClass@@B
+?classCDC@CDC@@2UCRuntimeClass@@B
+?classCDWordArray@CDWordArray@@2UCRuntimeClass@@A
+?classCDialog@CDialog@@2UCRuntimeClass@@B
+?classCDialogBar@CDialogBar@@2UCRuntimeClass@@B
+?classCDocManager@CDocManager@@2UCRuntimeClass@@B
+?classCDocTemplate@CDocTemplate@@2UCRuntimeClass@@B
+?classCDocument@CDocument@@2UCRuntimeClass@@B
+?classCDynLinkLibrary@CDynLinkLibrary@@2UCRuntimeClass@@B
+?classCEdit@CEdit@@2UCRuntimeClass@@B
+?classCEditView@CEditView@@2UCRuntimeClass@@B
+?classCEvent@CEvent@@2UCRuntimeClass@@B
+?classCException@CException@@2UCRuntimeClass@@B
+?classCFile@CFile@@2UCRuntimeClass@@B
+?classCFileDialog@CFileDialog@@2UCRuntimeClass@@B
+?classCFileException@CFileException@@2UCRuntimeClass@@B
+?classCFindReplaceDialog@CFindReplaceDialog@@2UCRuntimeClass@@B
+?classCFont@CFont@@2UCRuntimeClass@@B
+?classCFormView@CFormView@@2UCRuntimeClass@@B
+?classCFrameWnd@CFrameWnd@@2UCRuntimeClass@@B
+?classCGdiObject@CGdiObject@@2UCRuntimeClass@@B
+?classCHeaderCtrl@CHeaderCtrl@@2UCRuntimeClass@@B
+?classCHttpConnection@CHttpConnection@@2UCRuntimeClass@@B
+?classCHttpFile@CHttpFile@@2UCRuntimeClass@@B
+?classCImageList@CImageList@@2UCRuntimeClass@@B
+?classCInternetConnection@CInternetConnection@@2UCRuntimeClass@@B
+?classCInternetException@CInternetException@@2UCRuntimeClass@@B
+?classCInternetFile@CInternetFile@@2UCRuntimeClass@@B
+?classCInternetSession@CInternetSession@@2UCRuntimeClass@@B
+?classCListBox@CListBox@@2UCRuntimeClass@@B
+?classCListCtrl@CListCtrl@@2UCRuntimeClass@@B
+?classCListView@CListView@@2UCRuntimeClass@@B
+?classCMapPtrToPtr@CMapPtrToPtr@@2UCRuntimeClass@@B
+?classCMapPtrToWord@CMapPtrToWord@@2UCRuntimeClass@@B
+?classCMapStringToOb@CMapStringToOb@@2UCRuntimeClass@@A
+?classCMapStringToPtr@CMapStringToPtr@@2UCRuntimeClass@@B
+?classCMapStringToString@CMapStringToString@@2UCRuntimeClass@@A
+?classCMapWordToOb@CMapWordToOb@@2UCRuntimeClass@@A
+?classCMapWordToPtr@CMapWordToPtr@@2UCRuntimeClass@@B
+?classCMemFile@CMemFile@@2UCRuntimeClass@@B
+?classCMemoryException@CMemoryException@@2UCRuntimeClass@@B
+?classCMenu@CMenu@@2UCRuntimeClass@@B
+?classCMutex@CMutex@@2UCRuntimeClass@@B
+?classCNotSupportedException@CNotSupportedException@@2UCRuntimeClass@@B
+?classCObArray@CObArray@@2UCRuntimeClass@@A
+?classCObList@CObList@@2UCRuntimeClass@@A
+?classCObject@CObject@@2UCRuntimeClass@@B
+?classCPaintDC@CPaintDC@@2UCRuntimeClass@@B
+?classCPalette@CPalette@@2UCRuntimeClass@@B
+?classCPen@CPen@@2UCRuntimeClass@@B
+?classCPrintDialog@CPrintDialog@@2UCRuntimeClass@@B
+?classCProgressCtrl@CProgressCtrl@@2UCRuntimeClass@@B
+?classCPropertyPage@CPropertyPage@@2UCRuntimeClass@@B
+?classCPropertySheet@CPropertySheet@@2UCRuntimeClass@@B
+?classCPtrArray@CPtrArray@@2UCRuntimeClass@@B
+?classCPtrList@CPtrList@@2UCRuntimeClass@@B
+?classCReBar@CReBar@@2UCRuntimeClass@@B
+?classCReBarCtrl@CReBarCtrl@@2UCRuntimeClass@@B
+?classCResourceException@CResourceException@@2UCRuntimeClass@@B
+?classCRgn@CRgn@@2UCRuntimeClass@@B
+?classCScrollBar@CScrollBar@@2UCRuntimeClass@@B
+?classCScrollView@CScrollView@@2UCRuntimeClass@@B
+?classCSemaphore@CSemaphore@@2UCRuntimeClass@@B
+?classCSingleDocTemplate@CSingleDocTemplate@@2UCRuntimeClass@@B
+?classCSliderCtrl@CSliderCtrl@@2UCRuntimeClass@@B
+?classCSocket@CSocket@@2UCRuntimeClass@@B
+?classCSocketFile@CSocketFile@@2UCRuntimeClass@@B
+?classCSpinButtonCtrl@CSpinButtonCtrl@@2UCRuntimeClass@@B
+?classCSplitterWnd@CSplitterWnd@@2UCRuntimeClass@@B
+?classCStatic@CStatic@@2UCRuntimeClass@@B
+?classCStatusBar@CStatusBar@@2UCRuntimeClass@@B
+?classCStatusBarCtrl@CStatusBarCtrl@@2UCRuntimeClass@@B
+?classCStdioFile@CStdioFile@@2UCRuntimeClass@@B
+?classCStringArray@CStringArray@@2UCRuntimeClass@@A
+?classCStringList@CStringList@@2UCRuntimeClass@@A
+?classCSyncObject@CSyncObject@@2UCRuntimeClass@@B
+?classCTabCtrl@CTabCtrl@@2UCRuntimeClass@@B
+?classCToolBar@CToolBar@@2UCRuntimeClass@@B
+?classCToolBarCtrl@CToolBarCtrl@@2UCRuntimeClass@@B
+?classCTreeCtrl@CTreeCtrl@@2UCRuntimeClass@@B
+?classCTreeView@CTreeView@@2UCRuntimeClass@@B
+?classCUIntArray@CUIntArray@@2UCRuntimeClass@@B
+?classCUserException@CUserException@@2UCRuntimeClass@@B
+?classCView@CView@@2UCRuntimeClass@@B
+?classCWinApp@CWinApp@@2UCRuntimeClass@@B
+?classCWinThread@CWinThread@@2UCRuntimeClass@@B
+?classCWindowDC@CWindowDC@@2UCRuntimeClass@@B
+?classCWnd@CWnd@@2UCRuntimeClass@@B
+?classCWordArray@CWordArray@@2UCRuntimeClass@@A
+?connectionMap@CCmdTarget@@1UAFX_CONNECTIONMAP@@B
+?dispatchMap@CCmdTarget@@1UAFX_DISPMAP@@B
+?dwStyleDefault@CEditView@@2KB
+?eventsinkMap@CCmdTarget@@1UAFX_EVENTSINKMAP@@B
+?g_bUseDST@@3HA
+?interfaceMap@CCmdTarget@@1UAFX_INTERFACEMAP@@B
+?messageMap@CCmdTarget@@1UAFX_MSGMAP@@B
+?messageMap@CColorDialog@@1UAFX_MSGMAP@@B
+?messageMap@CCommonDialog@@1UAFX_MSGMAP@@B
+?messageMap@CControlBar@@1UAFX_MSGMAP@@B
+?messageMap@CCtrlView@@1UAFX_MSGMAP@@B
+?messageMap@CDialog@@1UAFX_MSGMAP@@B
+?messageMap@CDialogBar@@1UAFX_MSGMAP@@B
+?messageMap@CDocument@@1UAFX_MSGMAP@@B
+?messageMap@CEditView@@1UAFX_MSGMAP@@B
+?messageMap@CFindReplaceDialog@@1UAFX_MSGMAP@@B
+?messageMap@CFormView@@1UAFX_MSGMAP@@B
+?messageMap@CFrameWnd@@1UAFX_MSGMAP@@B
+?messageMap@CListCtrl@@1UAFX_MSGMAP@@B
+?messageMap@CListView@@1UAFX_MSGMAP@@B
+?messageMap@CPrintDialog@@1UAFX_MSGMAP@@B
+?messageMap@CPropertyPage@@1UAFX_MSGMAP@@B
+?messageMap@CPropertySheet@@1UAFX_MSGMAP@@B
+?messageMap@CReBar@@1UAFX_MSGMAP@@B
+?messageMap@CScrollView@@1UAFX_MSGMAP@@B
+?messageMap@CSocketWnd@@1UAFX_MSGMAP@@B
+?messageMap@CSplitterWnd@@1UAFX_MSGMAP@@B
+?messageMap@CStatusBar@@1UAFX_MSGMAP@@B
+?messageMap@CTabCtrl@@1UAFX_MSGMAP@@B
+?messageMap@CToolBar@@1UAFX_MSGMAP@@B
+?messageMap@CToolBarCtrl@@1UAFX_MSGMAP@@B
+?messageMap@CTreeCtrl@@1UAFX_MSGMAP@@B
+?messageMap@CTreeView@@1UAFX_MSGMAP@@B
+?messageMap@CView@@1UAFX_MSGMAP@@B
+?messageMap@CWinApp@@1UAFX_MSGMAP@@B
+?messageMap@CWnd@@1UAFX_MSGMAP@@B
+?nMaxSize@CEditView@@2IB
+?rectDefault@CFrameWnd@@2VCRect@@B
+?sizeDefault@CScrollView@@2UtagSIZE@@B
+?wndBottom@CWnd@@2V1@B
+?wndNoTopMost@CWnd@@2V1@B
+?wndTop@CWnd@@2V1@B
+?wndTopMost@CWnd@@2V1@B
+NB10
+D:\evt\EVT_Dev\Projects\WCE430\MFC_ATL\mfcdev\src\obj\armv4i\mfcdll\mfcce400.pdb
+CWinApp
+CArchiveException
+CByteArray
+CDWordArray
+CObArray
+CPtrArray
+CStringArray
+CUIntArray
+CWordArray
+CReBar
+CDialogBar
+CStatusBar
+CToolBar
+COMMCTRL.DLL
+CCmdTarget
+CColorDialog
+CCommonDialog
+CDialog
+CFileDialog
+CFindReplaceDialog
+CPropertySheet
+CPropertyPage
+CDynLinkLibrary
+\WINDOWS\MFCCE400I.DLL
+CDocument
+CDocManager
+CSingleDocTemplate
+CDocTemplate
+CNotSupportedException
+CMemoryException
+CException
+CFile
+DllGetClassObject
+CMemFile
+CStdioFile
+CFileException
+CHttpConnection
+CInternetConnection
+CInternetSession
+CHttpFile
+CInternetFile
+CInternetException
+wininet.dll
+CObList
+CPtrList
+CStringList
+CMapPtrToPtr
+CMapPtrToWord
+CMapStringToOb
+CMapStringToPtr
+CMapStringToString
+CMapWordToOb
+CMapWordToPtr
+CSyncObject
+CCriticalSection
+CMutex
+CSemaphore
+CEvent
+CObject
+CSocketFile
+CSocket
+CAsyncSocket
+CWinThread
+CTreeView
+CListView
+CCtrlView
+CSplitterWnd
+CEditView
+CFormView
+CScrollView
+CBitmapButton
+CWnd
+InitCommonControlsEx
+CScrollBar
+CEdit
+CComboBox
+CListBox
+CButton
+CStatic
+CImageList
+CStatusBarCtrl
+CToolBarCtrl
+CListCtrl
+CTreeCtrl
+CTabCtrl
+CHeaderCtrl
+CProgressCtrl
+CSliderCtrl
+CSpinButtonCtrl
+CReBarCtrl
+CControlBar
+CView
+CFrameWnd
+CRgn
+CPalette
+CBitmap
+CFont
+CBrush
+CPen
+CGdiObject
+CPaintDC
+CWindowDC
+CClientDC
+CUserException
+CResourceException
+CMenu
+\WINDOWS
+CCeCommandBar
+CCeDBProp
+CCeDBDatabase
+CPrintDialog
+CCeSocket
+ChooseColor
+commdlg.dll
+CommDlgExtendedError
+PrintDlg
+accept
+winsock.dll
+htons
+inet_addr
+closesocket
+getsockname
+getpeername
+ntohs
+inet_ntoa
+WSAGetLastError
+WSASetLastError
+htonl
+socket
+gethostbyname
+recv
+send
+WSAAsyncSelect
+recvfrom
+sendto
+connect
+bind
+setsockopt
+getsockopt
+ioctlsocket
+listen
+shutdown
+select
+__WSAFDIsSet
+InternetOpenW
+InternetCloseHandle
+InternetOpenUrlW
+InternetReadFile
+InternetWriteFile
+InternetSetStatusCallback
+InternetQueryOptionW
+InternetSetOptionW
+InternetSetOptionExW
+InternetGetLastResponseInfoW
+InternetFindNextFileW
+InternetConnectW
+InternetSetFilePointer
+InternetQueryDataAvailable
+HttpOpenRequestW
+HttpAddRequestHeadersW
+HttpSendRequestW
+HttpQueryInfoW
+InternetErrorDlgW
+InternetCrackUrlW
+InternetCanonicalizeUrlW
+FE2X
+PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD
+5(6L6|>
+1,1P1t1
+242X2|2
+3@3d3
+5$5H5l5
+5,606
+6 7x7
+9@:l:
+$:p:
+2L306
+8(9x9
+<@=X=
+=X>\>`>d>L?P?T?X?\?
+P1T1X1\1`1d1
+5L648
+;h;<?@?D?H?T?`?
+$1(1\1`1
+2D2H2|2
+24383|3
+3$4(4\4`4
+5d5h5
+6l6p6
+7 7d7h7
+7$8(8l8p8
+8L9P9
+9$:(:\:`:
+;d;h;
+;D<H<
+<,=0=
+>T>X>
+? ?|?
+<0@0
+0,1|1
+1@4D4
+>@>D>H>L>X?\?`?d?h?l?p?
+`0d0
+1(181H1X1h1x1
+2(282H2X2h2x2
+3(383H3X3h3x3
+4(484H4X4h4x4
+5(585H5X5h5x5
+6(686H6X6h6x6
+7(787H7X7h7x7
+8(888H8X8h8x8
+9(989H9X9h9x9
+:(:8:H:X:h:x:
+;(;8;H;X;h;x;
+<(<8<H<X<h<x<
+=(=8=H=X=h=x=
+>(>8>H>X>h>x>
+?(?8?H?X?h?x?
+0(080H0X0h0x0
+1(181H1X1h1x1
+2(282H2X2h2x2
+3(383H3X3h3x3
+4(484H4X4h4x4
+5(585H5X5h5x5
+6(6`7d7h7
+8(8D8P8
+;H>L>P>
+;0=4=8=
+1t1x1
+8 >,>
+4,6X6
+6L7X7
+: =t=
+647,;
+6|788D8
+=8=l>
+6t7\8`8d8
+<D=H=
+2P2L3h5
+8$9<9l9p9
+:4:d:h:
+;|;t?
+2 5H6L6P6T6X6
+$000
+;<;L<
+=$>H?
+9p<t<x<|<
+40 5$5(5,5$7\7
+0@3L3
+3@4L4
+<0=t=
+5(=4=|=$?
+40h3l4
+h0P1
+3,989
+>t?x?
+(141x3|306
+<2H2
+2@34686
+4h5l5`6
+0$2(2,202
+;$<(<
+3@7D7
+2 2\2
+3l3x4|4
+0P3\6
+0@0,1X1
+6T6`6l6
+9(?,?
+8D9L9P9T9
+546|6
+<h=T>X>\>
+2P283<3
+5l6$7(7
+<$=|=
+=l>p>4?8?<?
+0,101
+1$2\2h3
+<0=4=8=<=@=p=t=
+344L4
+;p>t>
+40`0x0
+0\142
+2L3P3$4h4
+4P7T7X7
+84:8:
+4 4X4d4
+5,505X5
+6D6P6|6
+70747\7
+; ;|;
+2 2$3(3@3
+4 4P4h4
+5 5,585D5P5\5
+8$909<9
+;$;0;<;H;T;`;l;x;
+<<<T<l<
+=$=0=<=H=T=`=l=x=
+=(>4>`>d>
+?D?P?\?h?t?
+0 0,0h0t0
+1@1D1l1x1
+2 2,282D2t2
+4T4`4
+5H5`5
+6D6P6\6h6t6
+7(747@7L7X7d7p7|7
+8L8X8d8p8|8
+9(949@9x9
+:(:4:l:x:
+;@;L;X;d;p;|;D<(=
+5\6`6
+8d9X:
+0D0t1
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+7 8|8
+ 0$0(0,00040D0L0P0l0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282\2`2d2h2l2p2t2x2|2
+3 3$3(383@3D3H3L3P3T3X3\3`3d3h3x3
+4$4<4T4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5l5
+6,6D6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7L7T7X7p7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8|8
+989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:8:@:D:\:t:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <4<D<H<T<X<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+?(?0?4?L?d?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3,3D3\3t3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5,5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6(60646L6(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989H9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;4;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<p<x<|<
+= =(=8=@=P=X=h=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?8?@?D?H?L?P?T?X?\?`?d?h?x?
+0 0$0(080@0D0H0L0P0T0d0l0|0
+1 1$1(1,1014181<1@1D1H1L1\1d1t1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4p5|5
+6 6(686@6D6\6x6|6
+7$7<7T7l7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9p9t9
+:4:L:d:|:
+;$;<;T;l;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =0=8=<=T=l=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?p?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1$1<1T1l1
+2,2D2\2t2
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5(585@5P5X5d5h5p5
+6(606@6H6L6d6
+7(7,7074787<7L7T7d7l7|7
+848L8d8|8
+9$9<9T9l9
+:,:D:\:t:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+<$<4<<<H<L<T<d<l<|<
+= =$=(=,=0=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>h>l>t>x>
+?$?<?T?l?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+081H1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,20242D2L2\2d2h2l2p2t2x2|2
+303@3H3L3h3l3p3t3x3|3
+4 4$4(4,4044484<4L4X4\4`4d4h4l4p4t4x4|4
+,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5<6H6L6`6l6p6
+6<:@:
+>(>4>8>T>`>d>(?<?
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+### UTF-16LE
+Recent File List
+File%d
+Settings
+PreviewPages
+%s\shell\open\%s
+%s\shell\print\%s
+%s\shell\printto\%s
+%s\DefaultIcon
+%s\ShellNew
+command
+ "%1"
+ /p "%1"
+ /pt "%1" "%2" "%3" "%4"
+ /dde
+ddeexec
+[open("%1")]
+[print("%1")]
+[printto("%1","%2","%3","%4")]
+NullFile
+ftp://
+gopher://
+http://
+AfxWnd42u
+AfxControlBar42u
+AfxMDIFrame42u
+AfxFrameOrView42u
+AfxOleControl42u
+AfxOldWndProc423
+\Software
+Microsoft\MFC_WCE
+afx.ini
+7JTZfghry{
+.INI
+.HTP
+Software\
+software
+ReBarWindow32
+msctls_statusbar32
+ToolbarWindow32
+commdlg_SetRGBColor
+commdlg_help
+commdlg_ColorOK
+commdlg_FileNameOK
+commdlg_ShareViolation
+commdlg_LBSelChangedNotify
+gEdit
+Helv
+MS Sans Serif
+MS Shell Dlg
+g%.*g
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+System
+SysListView32
+SysTreeView32
+#%;/\
+r*.*
+[printto("
+[print("
+[open("
+(NULL)
+0x%X
+NULL
+$%lX
+ %02X
+{%08X-%04X-%04X-%02X%02X-%02X%02X%02X%02X%02X%02X}
+InProcServer32
+CLSID
+\...
+&%d 
+UNLINK
+DELETE
+LINK
+HEAD
+POST
+HTTP/1.0
+Socket Notification Sink
+%*.*f
+%02d
+commdlg_FindReplace
+EDIT
+Lucida Sans Unicode
+commctrl_DragListMsg
+Afx:%x:%x:%x:%x:%x
+Afx:%x:%x
+cSTATIC
+BUTTON
+LISTBOX
+COMBOBOX
+SCROLLBAR
+lmsctls_updown32
+msctls_trackbar32
+msctls_progress32
+SysHeader32
+SysTabControl32
+combobox
+PegHelp.exe
+file:
+Breakpoint at %s, line %d
+\WINDOWS
+%s\%s%5X.tmp
+WCE_
+WCE_FINDDLG
+WCE_REPLACEDLG
+DefaultPrinter
+Printers
+Port
+Printers\
+%02d %02d:%02d:%02d %04d
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 
+Sun Mon Tue Wed Thu Fri Sat 
+WCE_FINDDLG
+WCE_REPLACEDLG
+Find
+Fi&nd What:
+Match &Whole Word Only
+Match &Case
+&Down
+Direction
+&Find Next
+Cancel
+&Help
+Replace
+Fi&nd What:
+Re&place With:
+Match &Whole Word Only
+Match &Case
+&Find Next
+&Replace
+Replace &All
+Cancel
+&Help
+&New 
+Cancel
+&Help
+Printing
+on the
+Cancel
+Create a new document
+Open an existing document
+Open
+Close the active document
+Close
+Save the active document
+Save0Save the active document with a new name
+Save As&Change the printing options
+Page Setup3Change the printer and printing options
+Print Setup
+Print the active document
+Print
+ Display full pages
+Print Preview
+:Send the active document through electronic mail
+Send Mail
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Erase the selection
+Erase
+Erase everything
+Erase All3Copy the selection and put it on the Clipboard
+Copy1Cut the selection and put it on the Clipboard
+Find the specified text
+Find
+Insert Clipboard contents
+Paste=Insert Clipboard contents and a link to its source
+Paste Link4Insert Clipboard contents with options
+Paste Special
+Repeat the last action
+Repeat1Replace specific text with different text
+Replace%Select the entire document
+Select All
+Undo the last action
+Undo&Redo the previously undone action
+Redo
+6Open another window for the active document
+New Window7Arrange icons at the bottom of the window
+Arrange Icons/Arrange windows so they overlap
+Cascade Windows5Arrange windows as non-overlapping tiles
+Tile Windows5Arrange windows as non-overlapping tiles
+Tile Windows(Split the active window into panes
+Split
+?Display program information, version number and copyright
+About4Quit the application; prompts to save documents
+Exit
+List Help topics
+Help Index
+List Help topics
+Help Topics/Display instructions about how to use help
+Help;Display help for clicked on buttons, menus and windows
+Help-Display help for current task or command
+Help
+(Switch to the next window pane
+Next Pane5Switch back to the previous window pane
+Previous Pane
+&Select font for current selection
+Font
+%Insert new embedded object
+New Object
+Edit linked objects
+Edit Links4Convert selected object between types
+Convert Object*Change icon of selected object
+Change Icon
+"Activate embedded or linked object"Activate embedded or linked object"Activate embedded or linked object"Activate embedded or linked object"Activate embedded or linked object"Activate embedded or linked object"Activate embedded or linked object"Activate embedded or linked object"Activate embedded or linked object"Activate embedded or linked object"Activate embedded or linked object"Activate embedded or linked object"Activate embedded or linked object"Activate embedded or linked object"Activate embedded or linked object"Activate embedded or linked object
+SCRL
+KANA
+'Show or hide the toolbar
+Toggle ToolBar,Show or hide the status bar
+Toggle StatusBar
+!Move to first record
+First Record Move to final record
+Last Record
+Move to next record
+Next Record'Move to previous record
+Previous Record
+Change the window size
+Change the window position
+Reduce the window to an icon
+Enlarge the window to full size"Switch to the next document window&Switch to the previous document window9Close the active window and prompts to save the documents
+!Restore the window to normal size
+Activate Task List
+Activate this window
+Open the selected item
+Open
+Save As
+All Files (*.*)
+Untitled
+'Close print preview mode
+Cancel Preview
+an unnamed file
+&Hide
+No error message is available.'An unsupported operation was attempted.$A required resource was unavailable.
+Out of memory.
+An unknown error has occurred.
+on %1
+&One Page
+&Two Page
+Page %u
+Page %u
+Pages %u-%u
+Output.prn1Printer Files (*.prn)|*.prn|All Files (*.*)|*.*||
+Print to File
+to %1
+Invalid filename.
+Failed to open document.
+Failed to save document.
+Save changes to %1? Failed to create empty document.
+The file is too large to open.
+Could not start print job.
+Failed to launch help.
+Internal application error.
+Command failed.)Insufficient memory to perform operation.PSystem registry entries have been removed and the INI file (if any) was deleted.BNot all of the system registry entries (or INI file) were removed.FThis program requires the file %s, which was not found on this system.
+Please enter an integer.
+Please enter a number.*Please enter an integer between %1 and %2.(Please enter a number between %1 and %2.(Please enter no more than %1 characters.
+Please select a button.*Please enter an integer between 0 and 255. Please enter a positive integer. Please enter a date and/or time.
+Please enter a currency.
+Unexpected file format.V%1
+Cannot find this file.
+Please verify that the correct path and file name are given.
+Destination disk drive is full.5Unable to read from %1, it is opened by someone else.AUnable to write to %1, it is read-only or opened by someone else..An unexpected error occurred while reading %1..An unexpected error occurred while writing %1.
+#Unable to read write-only property.#Unable to write read-only property.
+No error occurred.-An unknown error occurred while accessing %1.
+%1 was not found.
+%1 contains an invalid path.=%1 could not be opened because there are too many open files.
+Access to %1 was denied..An invalid file handle was associated with %1.<%1 could not be removed because it is the current directory.6%1 could not be created because the directory is full.
+Seek failed on %15A hardware I/O error was reported while accessing %1.0A sharing violation occurred while accessing %1.0A locking violation occurred while accessing %1.
+Disk full while accessing %1..An attempt was made to access %1 past its end.
+No error occurred.-An unknown error occurred while accessing %1./An attempt was made to write to the reading %1..An attempt was made to access %1 past its end.0An attempt was made to read from the writing %1.
+%1 has a bad format."%1 contained an unexpected object. %1 contains an incorrect schema.
+VS_VERSION_INFO
+StringFileInfo
+040904E4
+CompanyName
+Microsoft Corporation
+FileDescription
+MFCDLL Shared Library - Retail Version
+FileVersion
+6.00.1538
+LegalCopyright
+Copyright (C) Microsoft Corp. 1993-2004
+VarFileInfo
+Translation

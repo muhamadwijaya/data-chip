@@ -1,0 +1,1288 @@
+### ASCII
+EKIM
+640 
+METABASE
+MSFT
+SwMgmt
+ACCESS
+CM_GPRSEntries
+CM_Mappings
+CM_NetEntries
+CM_Networks
+zNone
+@30 sec
+1 mi@nute
+CoeffBandwidthn
+b!kpe:
+4None
+CM_Planneri
+)!a_
+CM_PPPEntries
+CM_ProxyEntries
+CM_VPNEntries
+CMPLANNER
+)!~<
+rzM=
+EMAIL2s
+NetworkPolicy
+Registry
+AreaCoden
+phone-number*
+4Always dial this Area Code
+Y~bbkSS
+(CellBroadcastEnableda
+/T(u
+8CellBroadcastEnableTopicList
+*CellBroadcastLanguage
+Germ
+lish
+ench
+tuguese
+FinT
+1024
+weg3
+2048
+Greek
+Turk
+8192
+ngar
+3276 8
+55@360
+'b)Q8
+a4YR
+sBrt
+CountryCode
+phone-numberh
+0W:S
+S_MR|T
+"InternationalCode
+phone-number
+(InternetCallingLabel
+PhoneNumber1
+phone-numberm
+PhoneNumber2
+phone-numberm
+$Phone number (L2):o
+2):_
+RadioVersion 
+label
+SMSCe
+phone-number
+:Text messages service center:
+wOgRN_a
+|TeQP
+@Off
+When roaming
+All calls
+oneR
+lOff
+nt'l exc
+ept to h ome
+AQA6
+3i:s
+gM!Y
+*TAPI_BARRING_PASSWORD
+ numeric-password
+,Call barring password:
+R[xa0
+,TAPI_FIXEDDIAL_ENABLED
+/T(u
+,TAPI_FIXEDDIAL_NUMBERS/
+*TAPI_INTERNET_CALLING
+*Use Internet Calling:
+( Internet 
+Whenever available
+Except on nights and weekends
+Only if cellular is not available
+Never
+YfT0TgOYr
+,TAPI_NETWORK_AUTOMATICx
+(TAPI_NETWORK_CURRENTQ
+S_MRQ
+>TAPI_NETWORK_FORCE_REGISTRATION
+,TAPI_NETWORK_PREFERRED
+6TAPI_NETWORK_SELECT_CURRENT
+.Select current network:
+TAPI_PIN2
+ numeric-passwordQ
+0Provide my caller ID to:w
+c@ONSSx~
+LEveryone
+No one
+Only my contacts
+2r$@
+bgN"
+DProvide call waiting notifications
+cOTS
+Voicemail1n
+phone-numberi
+Voicemail2n
+phone-numberi
+VNotify me when voice privacy is unavailable
+O[NSue
+VoIPPhoneNumber
+textr
+,Internet phone number:m
+Internet 5
+VoIPVoicemail
+textr
+6Internet voice mail number: Internet 
+Tapis
+I!`@!
+0I!$d!n*!
+5!,L!
+g!rx
+AltDnsAddr
+phone-number
+c0R:
+"DeviceSpecificRAW
+DnsAddr
+phone-number
+0W@W:
+&IpHeaderCompression
+ NDISGPRSAuthType:
+&None
+CHAP
+PasswordH
+*alphanumeric-password
+(RemoteDefaultGatewaye
+*RequireDataEncryption
+$RequireEncryptedPw
+(RequireMsEncryptedPwn
+&SpecificNameServers
+,UseCountryAndAreaCodes*
+(u7b
+!c_I!E.!
+]!!'!}"
+!m$!
+!3Q!#
+c0R:
+c0R:
+$CurrentDTPTNetwork
+L{436EF144-B4FB-4863-A041-8F905A62C572}
+(Internet connection:A
+Internet 
+L{7022E968-5A97-4051-BC1C-C578E2FBA5D9}
+L{A1182988-0D73-439e-87AD-2A5B369F808B}
+L{F28D1F74-72BE-4394-A4A7-4E296219390C}
+,Secure WAP connection:A
+h WAP 
+(PreferredConnectionst
+AreaCoded
+phone-numbere
+CountryCode
+phone-number
+0W:S
+c0R:
+"DeviceSpecificRAW
+&IpHeaderCompression
+Passwordi
+*alphanumeric-password
+Phone
+phone-numbere
+(RemoteDefaultGateway
+*RequireDataEncryption
+$RequireEncryptedPw
+(RequireMsEncryptedPw
+&SpecificNameServers
+,UseCountryAndAreaCodes*
+(u7b
+!c_I!E.!
+!'!}"
+I!m$!
+c0R:
+/T(u
+Passwordi
+*alphanumeric-password
+RhV(
+<HTTP
+WAA2
+Soc ks4
+(u7b
+,Alternate DNS address:m
+( DNS 0@:
+.Alternate WINS address:
+( WINS 0@:
+c0R:
+"DeviceSpecificRAW
+c,g0W5u
+0W@W:
+/T(u
+'^'Y
+~'^:
+0W@W:
+&IpHeaderCompression
+*IPSec authentication:
+IPSec 
+<Certificate
+Pre-Shared Key
+Passwordi
+*alphanumeric-password
+RhV:
+PresharedKey
+*alphanumeric-password
+*IPSec Pre-shared key:
+IPSec 
+(RemoteDefaultGateway:
+*RequireDataEncryption
+Blpenc
+$RequireEncryptedPwp
+(RequireMsEncryptedPws
+:Require MS encrypted password
+B MS 
+R[[x
+DRequire Password Before ConnectingS
+0W@W:
+&SpecificNameServers
+,Specific name servers:
+h:n?
+r[ TygRVq
+0Use software compression 
+&PPTP
+IPSec/L2
+,UseCountryAndAreaCodesT
+4Use country and area codes
+OuV[
+xTSS0
+(u7b
+0W@W:
+c_I!E.!
+!!'!}Ib
+!$m$!
+!3QI!#
+\ConfigMetabase
+\MetabaseLabels
+ \MetabaseOptions
+03!<
+0tvO
+11M\
+Not-Reachable
+Unconditional
+1i!02"
+6BearerInfoConnectionElement
+Transpa
+rent
+Bot*h+
+"BearerInfoService
+Async M
+odem
+PAD 
+Access
+PacketW
+Auto
+300 v21
+ansparen
+385k
+0CompressionInfoDirection
+DNone
+Transmit
+Receive
+Both
+:CompressionInfoMaxDictEntries
+<CompressionInfoMaxStringLength
+.CompressionInfoRequired
+(CompressionInfoValid
+.GPRSInfoAccessPointName
+GPRSInfoAddress
+phone-number
+0W@W:
+.GPRSInfoDataCompression
+penc
+2GPRSInfoHeaderCompression
+,GPRSInfoL2ProtocolType
+0NULL
+ PPP
+2AAD
+0GPRSInfoMinQOSDelayClassn
+Subscri
+Qictive 
+Best
+ Effort
+vRRa
+6GPRSInfoMinQOSMeanThruClass
+zSubscri
+10 0
+a10E
+Don't 
+Care
+20\8
+6GPRSInfoMinQOSPeakThruClass
+Subscri
+102d
+:GPRSInfoMinQOSPrecedenceClass
+DSubscribed
+High
+Normal
+<GPRSInfoMinQOSReliabilityClasso
+|Subscri
+ass 1
+6GPRSInfoMinQOSSettingsValid
+$GPRSInfoParametersa
+(GPRSInfoProtocolTypeg
+0X25
+21HOSa
+PPA4
+*GPRSInfoQOSDelayClass
+Subscri
+Qictive 
+Best
+ Effort
+vRRa
+0GPRSInfoQOSMeanThruClass1
+zSubscri
+10 0
+a10E
+Don't 
+Care
+20\8
+0GPRSInfoQOSPeakThruClass
+Subscri
+102d
+4GPRSInfoQOSPrecedenceClass3
+DSubscribed
+High
+Normal
+6GPRSInfoQOSReliabilityClass
+|Subscri
+ass 1
+0GPRSInfoQOSSettingsValidl
+*RadioLinkInfoAckTimer
+ RadioLinkInfoIwsl
+ RadioLinkInfoMwsT
+8RadioLinkInfoResequenceTimer
+>RadioLinkInfoRetransmitAttempts
+$RadioLinkInfoValidb
+(RadioLinkInfoVersionm
+&DevSpecificCellular
+0k!>#!
+!K5!A
+*!$V,!
+UI!/
+6BearerInfoConnectionElement
+Transpa
+rent
+Bot*h+
+4%(6
+"BearerInfoService
+Async M
+odem
+PAD 
+Access
+PacketW
+Auto
+300 v21
+ansparen
+0CompressionInfoDirectione
+DNone
+Transmit
+Receive
+Both
+:CompressionInfoMaxDictEntries
+<CompressionInfoMaxStringLength
+.CompressionInfoRequired
+(CompressionInfoValid
+.GPRSInfoAccessPointName
+.GPRSInfoDataCompression
+2GPRSInfoHeaderCompression
+,GPRSInfoL2ProtocolType
+0NULL
+ PPP
+2AAD
+0GPRSInfoMinQOSDelayClass
+Subscri
+Qictive 
+Best
+ Effort
+vRRa
+6GPRSInfoMinQOSMeanThruClass
+zSubscri
+10 0
+a10E
+Don't 
+Care
+20\8
+6GPRSInfoMinQOSPeakThruClass
+Subscri
+102d
+:GPRSInfoMinQOSPrecedenceClass
+DSubscribed
+High
+Normal
+<GPRSInfoMinQOSReliabilityClasso
+|Subscri
+ass 1
+6GPRSInfoMinQOSSettingsValid
+$GPRSInfoParametersi
+(GPRSInfoProtocolTypeg
+0X25
+21HOSa
+PPA4
+*GPRSInfoQOSDelayClass
+Subscri
+Qictive 
+Best
+ Effort
+vRRa
+0GPRSInfoQOSMeanThruClass1
+zSubscri
+10 0
+a10E
+Don't 
+Care
+20\8
+0GPRSInfoQOSPeakThruClass
+Subscri
+102d
+4GPRSInfoQOSPrecedenceClass3
+DSubscribed
+High
+Normal
+6GPRSInfoQOSReliabilityClass
+|Subscri
+ass 1
+0GPRSInfoQOSSettingsValidl
+*RadioLinkInfoAckTimer
+ RadioLinkInfoIwsT
+ RadioLinkInfoMwsT
+8RadioLinkInfoResequenceTimer
+>RadioLinkInfoRetransmitAttempts
+$RadioLinkInfoValidn
+(RadioLinkInfoVersionm
+&DevSpecificCellular
+0k!>#!
+!K5!A
+*!$V,!
+UI!/
+bthasplugin.dll
+RapiInvoken
+$no data validation
+rmactivate.dlln
+&AttenuationCategory
+ControlPanele
+:!jI
+1 minut e
+SOFTWARE
+0j$1
+SOFTWARE
+&Windows CE Services
+(TAPI_FORWARD_ADDRESSQ
+phone-number
+*TAPI_FORWARD_ADDRTYPE
+(TAPI_FORWARD_ENABLEDt
+ZEnable call forwarding when the phone is busy
+S~eTuTS
+(TAPI_FORWARD_TIMEOUTn
+5 secon
+(TAPI_FORWARD_ADDRESS
+phone-number
+*TAPI_FORWARD_ADDRTYPE
+(TAPI_FORWARD_ENABLEDt
+HEnable call forwarding when no reply
+YeTuTS
+(TAPI_FORWARD_TIMEOUTn
+5 secon
+(TAPI_FORWARD_ADDRESS
+phone-number
+*TAPI_FORWARD_ADDRTYPE
+(TAPI_FORWARD_ENABLEDt
+NEnable call forwarding when unavailable
+ueTuTS
+(TAPI_FORWARD_TIMEOUTn
+5 secon
+(TAPI_FORWARD_ADDRESS
+phone-number
+FEnable call forwarding of all calls
+(TAPI_FORWARD_TIMEOUTn
+5 secon
+*TAPI_FORWARD_ADDRTYPE
+*TAPI_FORWARD_ADDRTYPE
+1|TX
+*TAPI_FORWARD_ADDRTYPE
+1/2 sec
+dvan@ce
+~W[SO'Y
+n5 secon
+5000
+1R&J
+XWhen cradled, PC sync using this connection:0"
+cQ^^e
+0zU+
+Never
+Aftq 1
+0 second4s
+minu
+5uP[
+N0W@W:
+Telephone
+phone-number
+c,T<
+2 secon@ds
+-1sJ
+alNR
+.CallProgressIdleTimeout
+>f:y 
+0jK^
+>f:y
+1 minut@e
+ h our
+(DefaultActiveProfileo
+SoundCategories
+SoundsR
+Microsoft
+BTimeout between password retries:
+CurrentVersionv
+Microsoft
+I!FZ!
+Action 
+PP1u
+"MenuKeyAssignment
+1/4 sec
+$Disable
+Enable
+Kw"z
+Synchronization
+$SystemCertificatese
+8Off
+5m2s
+Play so
+brate
+0v3w30r
+Pulsing 
+0.2w!57
+MultipTle~
+ thlenV
+rea3
+!c13
+8Off
+5m2s
+InitVol
+invisible
+8Off
+5m2s
+8Off
+BPlay so
+brate
+PulsingB 
+0.2w!5
+Multi
+v3w3
+ and
+8Off
+5m2s
+Play so
+brate
+PulsingB 
+0.2w!5
+Multi
+v3w3
+ and
+@Increa
+dHeX
+8Off
+5m2s
+8Off
+8Off
+5m2s
+Play so
+brate
+0v3w30r
+Pulsing 
+0.2w!57
+MultipTle~
+ thlenV
+rea3
+!c13
+8Off
+502s
+Play so
+brate
+0v3w30r
+Pulsing 
+0.2w!57
+MultipTle~
+ thlenV
+rea3
+!c13
+Ring
+ on@ce
+IQr(eas
+c1ar
+ibrate
+0.2w!5W
+Multipl
+ the
+Silen"t
+qNkR
+"Internet Explorer
+2UserMSN Messenger Service
+ MessengerServicea
+&Windows CE Services
+APIsw
+4External display time out:
+1 secon
+1000
+>Microsoft Application Installer
+"Internet Explorer
+&SignalLevelLowFloor
+&SignalLevelMedFloor
+&Windows CE Services
+bJT:
+/T(u
+ FreqBasedSorting
+/T(u
+`of!j
+`of!j
+`of!j
+`of!j
+`of!j
+`of!j
+:short
+nqmal5
+Hthin
+normal
+thick
+very thick
+1 secon
+1000
+1T.5&
+ever
+vW[&{!j
+vvery sl
+5000
+norm
+fas:t
+:short
+nqmal5
+Hthin
+normal
+thick
+very thick
+1 secon
+1000
+1T.5&
+ever
+vvery sl
+5000
+norm
+fas:t
+PresetMsgs
+*Display Inline Images
+PresetMsgsn
+@Automatically Play After Launch:)
+>:Ma
+!nHe
+dReplace
+ment
+0}7R
+1 secon
+1000
+d>e:
+{^opGr
+,Portrait
+Landscape
+>f:y 
+gqGr:
+ExTAPI
+SIMMgrs
+fAskOptions
+nDynamicDelete
+Supported
+ServiceLocation
+(CumulativeCallTimers
+CurrentVersion
+ CurrentSelection
+8Sending Photo Compress Size:
+Origina
+l size
+Large (
+640 x 48
+ium (32
+Sma@ll (16
+SY\[r
+>f:y
+>f:y
+NibU\
+>f:y
+>f:y
+0<j:z
+*RequestFailureMessage
+*RequestSuccessMessage
+AuthReset
+'!'S!
+Kw"z
+"Internet Settings
+L{50C13377-C66D-400C-889E-C316FC4AB374}
+ExchangeAR
+*MinimumPasswordLength
+lap_pwt
+/!eB
+Enabled
+ZoneMap
+Larg
+x 48
+ium (32
+Sma@ll (16
+SY\[r
+>f:y
+>f:y
+NibU\
+>f:y
+### UTF-16LE
+\ConfigMetabase
+\MetabaseLabels
+\MetabaseOptions
+Vendor
+Network
+DestId
+DestId
+DestId
+AltDnsAddr 
+HKCR
+DestIDt
+CacheTime
+,Idle disconnect after:
+*Bandwidth Coefficient
+CoeffCost
+*Bandwidth Coefficient
+CoeffLatencye
+*Bandwidth Coefficient
+FailoverDefault
+FailoverPromptt
+AltDnsAddr
+RetryCount
+ Redial attempts:
+Databaset
+Proxy
+RAPIy
+Timeout
+Area code:
+AutoAnsMsg
+label
+AutoPrefix
+Enable channels
+(Receive channel lista
+Language:
+Country code:
+$CurrentDefaultLine
+,Current outgoing line:
+IMEIe
+label
+&International code:
+RILVersion
+label
+TAPI_BARRING_IN
+*Block incoming calls:
+ TAPI_BARRING_OUTn
+*Block outgoing calls:
+(Enable fixed dialingD
+$Network selection:I
+(Automatic
+Manual
+ Current network:O
+&Preferred networks:
+Enter PIN2:
+ PIN2 
+ TAPI_SEND_CALLIDI
+TAPI_WAITINGo
+.Voice mail number (L2):
+VoicePrivacyu
+Secondary DNS:p
+ DNS:
+AltWinsAddr
+AreaCoded
+CountryCode
+DestIdy
+Connects to:
+DeviceNameo
+DeviceTypeo
+DialAsLocalCall
+Primary DNS:o
+ DNS:e
+Domainy
+Domain:
+Enabled
+FrameSize
+Framing
+IpAddri
+IP address:
+Named
+Description:
+(Authentication Type:
+Password:
+Phone
+RequirePw
+Scripte
+SpecificIpAddr
+SwCompression
+UserNamer
+User name:A
+WinsAddre
+Network GUIDy
+ GUID
+Pattern
+URL Pattern
+URL 
+Connects to:
+Namee
+Description:
+.My desktop connects to:
+Description:
+invisible
+WAP connection:
+WAP 
+ Work connection:3
+AltWinsAddr
+Area code:
+Country code:
+DestIdy
+Connects to:
+DeviceNameo
+DeviceTypeo
+RapiInvokec
+DialAsLocalCall
+DnsAddr
+Domainr
+Domain:
+Enabled
+FrameSize
+Framing
+IpAddrg
+Namea
+Description:
+Password:
+Phone number:
+RequirePw
+Scripte
+SpecificIpAddr
+SwCompression
+UserNamer
+User name:
+WinsAddre
+Connects to:
+Enablet
+Enabled
+Extrainfo
+Namea
+Description:
+Overridei
+Password:
+Proxy
+$Proxy (name:port):
+SrcId
+Connects from:r
+Typee
+Type:
+UserNameA
+User name:
+AltWinsAddr
+DestIda
+Connects to:
+DeviceNameo
+Device name
+DeviceTypei
+Device type:e
+DialAsLocalCall
+$Dial as local call
+DnsAddr
+DNS address:
+DNS 
+Domaind
+Domain:
+Enabled
+Enabled
+FrameSize
+Frame size:
+Framing
+Framing:
+IpAddrg
+IP Address:
+,Use header compression
+IPSecAuth
+Namei
+Description:
+Password:
+Phone
+Server:
+.Require data encryption
+4Require encrypted password
+RequirePw
+Scripte
+Script:
+SpecificIpAddr
+IP address:
+SrcId
+Connects from:s
+SwCompression
+Types
+VPN type:
+VPN 
+UserNamet
+User name:
+WinsAddre
+WINS Address:
+WINS 
+RapiInvokea
+Windows
+LockTimeout
+HKCU
+DataPathl
+HKLM
+Busyy
+No-Replyi
+BearerInfoSpeed
+BearerInfoValid
+Access point:
+IP address:
+ Data compression
+$Header compressions
+GPRSInfoValid
+BearerInfoSpeed
+BearerInfoValid
+GPRSInfoAddress
+GPRSInfoValid
+CeDrmUtil.dll
+Comm
+InitVol
+"Lock phone after:
+Security
+Comm
+ControlPanel
+Ident
+PGList
+TPSList
+Security
+SystemR
+Phone number:
+.Forward voice calls to:
+Forward after:C
+Phone number:
+.Forward voice calls to:
+Forward after:C
+Phone number:
+.Forward voice calls to:
+Forward after:C
+Phone number:
+(TAPI_FORWARD_ENABLED
+Forward after:I
+"Forward calls to:
+Data
+"Forward calls to:
+.Forward voice calls to:
+Voice
+Securityt
+CharTimeout
+(Multipress time out:,
+FontSizen
+"System font size:
+ Normal
+Large
+SHBoxTimeoutg
+,Confirmation time out:
+Accessibility
+AutoCnct
+CommS
+VisualEffects
+Visual effects:
+Debug
+Timeout
+Time out:
+HomeI
+E-mail
+email
+Email address:l
+Namel
+Name:
+Notes
+text
+Notes:a
+Phone number:
+Owner
+AnyKey
+Any key answer
+AutoAns
+&Automatic Answering
+CallHistoryMaxs
+PlusConversions
+ShowSIM
+"Show SIM contacts
+ SIM 
+Phone
+Display
+"Display time-out:
+Power
+ActiveProfile
+Active Profile:
+Profiles
+InitVol
+Automatic
+&AuthenticationReset
+Security
+TimeOutValue
+Password
+Policy
+Shell
+DefaultTPS
+WTLS
+ Default_CodePage
+Apps
+AEFrequencyType
+ErrorReporting
+Platforml
+MenuHotKeys
+Menu key:
+(Menu key assignment:
+(Open Menu
+Action
+MenuKeyDelayA
+0Press and hold menu key:.
+Softkeysl
+Enabled
+$Customer Feedback:
+Names
+Name:
+Names
+Name:
+Loudg
+Names
+Name:
+Meeting
+Names
+Name:
+NormalS
+Radio Off
+Names
+Name:
+Silenti
+SecureA
+Options
+Directory
+InitVol
+InitVol
+Alarm 1 volume:
+Script1
+Alarm type:
+Alarm
+InitVol
+Alarm 2 volume:
+Alarm2A
+"Call start volume
+CallStart
+InitVol
+In call volume:
+InCallo
+InitVol
+(Notification volume:p
+Script1
+$Notification type:4
+Notificationl
+ Reminder volume:
+Script1
+Reminder type:
+Reminderh
+InitVol
+Ring volume:
+Rings
+InitVol
+(System sound volume:
+Systems
+Category
+Script
+Sound
+Alarm 1 volume:
+Script1
+Alarm 1 type:
+Clock
+InitVol
+Alarm 2 volume:
+Script1
+Alarm 2 type:
+Clock2
+BeepMode
+ScriptI
+KeyPress
+Scripts
+RingTone0
+AirSync
+Inbox
+Photosg
+Order
+Shell
+DialMonitored
+PhoneNumber1
+PhoneNumber2
+RegOverridesSIM
+VMail
+Windows
+Policyo
+Default
+AuxDisplay
+AirSync
+Color
+UrlPrefix
+MSDRM
+CacheLimite
+Shell
+(SignalLevelHighFloor
+ssupdate
+Windows CE
+Windows
+DumpEnabled
+ Error Reporting:
+$Disable
+Enable
+DumpSettings
+(Enable self learning
+E0010804o
+Objects
+Profile Items
+Items
+Profile Items
+Items
+Profile Items
+Items
+Profile Items
+Items
+Profile Items
+Items
+Profile Items
+Items
+AreaHeight
+&Writing area height
+InkWidth0
+Ink thickness
+InsertDelay
+"Auto-insert delay
+ModeSwitcher0
+2Character modes on flyout
+RecoDelay
+Writing speed
+HWRimEA
+AreaHeight
+&Writing area height
+InkWidth0
+Ink thickness
+InsertDelay
+"Auto-insert delay
+RecoDelay
+Writing speed
+HWRimline
+Connection
+NumberOfLogse
+Logging
+WindowSizet
+Settingso
+0=1>2?3@4A5C6D7E8F9G
+autosaveg
+IncludeOriginal
+ReadHTMLMail
+SaveSenty
+ShowDateTime
+SMSUnicode
+SortOrder
+Settingsd
+MaxDeletedMsgs
+SMSText
+DaysToKeepo
+EnableWarning0
+EnableWarning1
+,Play_Background_Sounds
+ZoomSetting
+Mainl
+0V1W2X3Y4Z5[6\7]8^9_
+Sending
+EffectO
+$Transition Effect:1
+Intervale
+(Transition Interval:
+Loopc
+Loop Play:
+Orientation
+,Slideshow Orientation:
+ShowDRM
+$Display DRM Photo:
+ DRM 
+Slideshow
+FileExplorer
+StartMenu
+InitialOrder
+StartMRUu
+CurrentVersionv
+"CodewordFrequency
+&DeviceWipeThreshold
+LASSD
+Default
+ATCmdInt
+ConnAPI
+Default
+ELDrv
+Default
+RILGSMn
+Default
+SIMTKit
+Default
+Default
+WAPDrv
+fAskDest
+Statuso
+International
+UrlSuffix
+smartdialer
+ImageSendSize
+ ShowDateModified
+$Show date modified
+ShowExt
+(Show file extensions
+ShowFileSizet
+Show file size
+ViewAll
+"Show hidden files
+Settingsw
+AllowCookies
+ EnableAutoDetect
+"Internet Settings
+$CryptoProviderNameC
+RequestMessager
+&SetupFailureMessage
+SetupInvalid
+SetupMessageM
+&SetupSuccessMessage
+Timeout
+WaitMessage
+Modep
+$Smartdial setting:
+"Pinyin
+Stroke
+Chinese
+AeDebug
+ClearTypeText
+ AEFrequencyValue
+$CryptoProviderTypeC
+&EncryptionAlgorithm
+HashAlgorithm
+RecoveryMessage
+RecoveryPhone
+"RecoveryPwdLength
+AllowSimplePIN
+ComplexElements
+ ExpirationPeriod
+ LAPHashAlgorithm
+LAPProviderName
+LAPProviderType
+"NumberOfPasswords
+$PasswordComplexity
+Cache
+Zones
+CacheLimitg
+Content
+CacheLimite
+Cookies
+History
+ImageSendSize
+ ShowDateModified
+$Show date modified
+ShowExt
+(Show file extensions
+ShowFileSizet
+Show file size
+ViewAll
+"Show hidden fil

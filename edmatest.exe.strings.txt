@@ -1,0 +1,51 @@
+### ASCII
+!This program cannot be run in DOS mode.
+Rich{
+$!M]
+.text
+`.data
+.pdata
+@.reloc
+$!M]
+RSDS#
+edmatest.pdb
+COREDLL.dll
+= =0=@=l>p>t>x>|>
+>x?|?
+0`1d1h1l1p1t1x1
+1<2@2D2H2d2t2
+3$343D3L3P3T3X3
+H0L0P0T0X0\0`0d0
+0 0(00080@0H0P0X0`0h0p0x0
+### UTF-16LE
+mem to mem test, QDMA trigger, with interrupt
+mem to mem test, QDMA trigger, no interrupt
+mem to mem test, manual trigger, with interrupt, repeat 5000 times
+mem to mem test, manual trigger, with interrupt, two linked channels
+mem to mem test, manual trigger, no interrupt, two linked channels
+mem to mem test, manual trigger, with interrupt
+mem to mem test, manual trigger, no interrupt
+mem to mem test, parameterised
+  and <Instance> is the channel controller instance:
+OR: edmatest 0 <Instance> <QDMA> <Int> <Linked> <Size> <Queue> <Interations>
+  where:
+    <Instance>     - EDMA channel controller instance
+    <QDMA>         - 1 for QDMA, 0 otherwise
+    <Int>          - 1 for interrupt mode, 0 otherwise
+    <Linked>       - 1 for Linked transfer, 0 otherwise
+    <Size>         - Size of transfer to perform (bytes)
+    <Queue>        - Event queue (TC) to use
+    <Interations>  - Number of tranfers to perform
+    %d  - %s
+Usage: edmatest <TestId> <Instance>
+  where <TestId> is:
+edmatest: Invalid test ID: %d
+edmatest: End EDMA test %d, test %s
+FAILED
+successful
+edmatest: Start EDMA test %d, %s
+edmatest: Failed to open EDMA test driver
+EDT1:
+edmatest: Invalid test parameter: 0
+edmatest: Invalid test parameter: %d
+edmatest

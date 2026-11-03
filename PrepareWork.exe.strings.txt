@@ -1,0 +1,170 @@
+### ASCII
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+S1Y%
+bad allocation
+CInvalidArgException
+CNotSupportedException
+CMemoryException
+CException
+COleException
+CFile
+f:\sp\vctools\vc7libsce\ship\atlmfc\src\mfc\filecore.cpp
+Exception thrown in destructor
+CWinApp
+CObject
+CArchiveException
+CGdiObject
+CUserException
+CResourceException
+CWinThread
+CFileException
+CCmdTarget
+CWnd
+CMenu
+CToolBar
+CDialog
+CControlBar
+CFrameWnd
+CDocList
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+=L9o<
+FRSDS
+e:\Projects\2005\AppCourier\AppCourier\SBC_S2416_SDK (ARMV4I)\Release\AppCourier.pdb
+COREDLL.dll
+.PAVCMemoryException@@
+.PAVCSimpleException@@
+.PAVCException@@
+.PAVCObject@@
+.PAX
+.PAVCInvalidArgException@@
+.?AVCMemoryException@@
+.?AVCSimpleException@@
+.?AVCException@@
+.?AVCObject@@
+.?AVCNotSupportedException@@
+.?AVCInvalidArgException@@
+.?AVCOleException@@
+.PAVCOleException@@
+.?AV_AFX_THREAD_STATE@@
+.?AVCNoTrackObject@@
+.?AU_AFX_AYGSHELL_STATE@@
+.?AVCComCtlWrapper@@
+.?AVAFX_MODULE_THREAD_STATE@@
+.?AVAFX_MODULE_STATE@@
+.?AV_AFX_BASE_MODULE_STATE@@
+.?AVCAfxStringMgr@@
+.?AUIAtlStringMgr@ATL@@
+.?AVCFile@@
+.?AVCFileException@@
+.?AVCWinApp@@
+.?AVCWinThread@@
+.?AVCCmdTarget@@
+.?AUCThreadData@@
+.PAVCArchiveException@@
+.?AVCArchiveException@@
+.PAVCResourceException@@
+.PAVCUserException@@
+.?AVCResourceException@@
+.?AVCUserException@@
+.?AVCGdiObject@@
+.?AVCDC@@
+.PAVCFileException@@
+.?AVCCmdUI@@
+.?AV?$CMap@PAXPAXPAXPAX@@
+.?AVCHandleMap@@
+.?AVCWnd@@
+.?AVCTestCmdUI@@
+.?AV?$CList@PAXPAX@@
+.?AVCMenu@@
+.?AV?$CArray@PAUHWND__@@PAU1@@@
+.?AVCFrameWnd@@
+### UTF-16LE
+ 0<Lp
+: SHEEL 
+Open
+: MFC 
+\*.*
+\SDCard\Update
+\NAND\
+PRODUCT_NAME
+\NAND\%s\%s.exe
+LAGAL\System
+PocketPC
+Smartphone
+SHCreateMenuBar
+SHDoneButton
+SHFindMenuBar
+SHInitDialog
+SHRecognizeGesture
+SHSipInfo
+SHSipPreference
+AYGSHELL.DLL
+%s (%s:%d)
+%s (%s:%d)
+Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+NoRun
+NoDrives
+RestrictRun
+NoNetConnectDisconnect
+NoRecentDocsHistory
+NoClose
+Software\Microsoft\Windows\CurrentVersion\Policies\Network
+NoEntireNetwork
+Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32
+NoPlacesBar
+NoBackButton
+NoFileMru
+Control Panel\Desktop\ResourceLocale
+GetSystemDefaultUILanguage
+coredll.dll
+GetUserDefaultUILanguage
+%s.dll
+tDelete
+NoRemove
+ForceRemove
+Software\
+combobox
+AfxWnd80su
+AfxControlBar80su
+AfxMDIFrame80su
+AfxFrameOrView80su
+AfxOleControl80su
+WCE_
+commctrl.dll
+InitCommonControls
+InitCommonControlsEx
+Afx:%p:%x:%p:%p:%p
+Afx:%p:%x
+commdlg_FindReplace
+         (((((                  H
+         h((((                  H
+                                 H
+AppCourier

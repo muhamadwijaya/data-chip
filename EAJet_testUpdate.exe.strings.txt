@@ -1,0 +1,518 @@
+### ASCII
+!This program cannot be run in DOS mode.
+Rich@b
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+v,g0W
+ck(WGS
+g~b0R
+~1Y%
+g~b0R
+CWinApp
+CCmdTarget
+CWinThread
+CDialog
+CProgressCtrl
+CInvalidArgException
+CNotSupportedException
+CMemoryException
+CException
+COleException
+CWnd
+CObject
+CGdiObject
+CPaintDC
+CUserException
+CResourceException
+CFormView
+CCommonDialog
+CMenu
+CToolBar
+CControlBar
+CView
+CFrameWnd
+CDocList
+CArchiveException
+CScrollView
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+=L9o<
+FRSDS
+e:\Projects\TEST\EAJet1.0_AM335\testUpdate\SBC_S2416_SDK (ARMV4I)\Release\testUpdate.pdb
+COREDLL.dll
+.?AVCWinApp@@
+.?AVCWinThread@@
+.?AVCCmdTarget@@
+.?AVCObject@@
+.?AVCCmdUI@@
+.PAVCException@@
+.PAVCMemoryException@@
+.?AVCDialog@@
+.?AVCWnd@@
+.?AVCProgressCtrl@@
+.PAVCSimpleException@@
+.PAVCObject@@
+.PAX
+.PAVCNotSupportedException@@
+.PAVCInvalidArgException@@
+.?AVCMemoryException@@
+.?AVCSimpleException@@
+.?AVCException@@
+.?AVCNotSupportedException@@
+.?AVCInvalidArgException@@
+.?AVCOleException@@
+.PAVCOleException@@
+.?AV_AFX_THREAD_STATE@@
+.?AVCNoTrackObject@@
+.?AU_AFX_AYGSHELL_STATE@@
+.?AVCComCtlWrapper@@
+.?AVAFX_MODULE_THREAD_STATE@@
+.?AVAFX_MODULE_STATE@@
+.?AV_AFX_BASE_MODULE_STATE@@
+.?AVCTestCmdUI@@
+.PAVCUserException@@
+.?AVCAfxStringMgr@@
+.?AUIAtlStringMgr@ATL@@
+.PAVCResourceException@@
+.?AVCResourceException@@
+.?AVCUserException@@
+.?AVCGdiObject@@
+.?AVCDC@@
+.?AVCPaintDC@@
+.?AUCThreadData@@
+.?AV?$CMap@PAXPAXPAXPAX@@
+.?AVCHandleMap@@
+.?AV?$CList@PAXPAX@@
+.?AVCMenu@@
+.?AV?$CArray@PAUHWND__@@PAU1@@@
+.?AVCFrameWnd@@
+.PAVCArchiveException@@
+.?AVCArchiveException@@
+wwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwww
+wwww
+wwwwwwwwwww}
+wwwwwwww
+wwwwwwwwwwwwww
+wwwwwwwwwwwwww
+wwwwwww}
+wwww
+wwwwwww}x
+}wwwwwww}
+wwww
+_`__``_``a`_`_aaaa`
+     !        !     
+i\\\\\\\\[\\\\\\\[\\a///2/////////2/22///
+da2/
+BB<<<<777111,,,*/
+na2/
+RFGHJCDKLL=>>88+/
+[`//"QRT$
+1=>>8+2
+sccy
+\`2/"OQ
+$%=>>*2
+sccy
+\a//"NO
+66**
+L=>(2
+i\]~
+rccy
+\a//"WN
+FTHI*++LL=(/
+h\^|~
+rccs
+\`//'VW
+RFTHJCDKLL)2
+j\]x|~
+rccp~
+\_//'VV
+QRFTHJCDKL(/
+i\^wx|~pcccccb
+\`//'UV
+OQRFGHJCDK(/
+i\]wwx|pcckrss
+\a//0UU
+NOQRSGHIJD(2
+i\^vwwxpccr
+\`///YU
+WNOQRFTHIJ)/
+j\]uvwwmccp
+\`//9YY
+VWNO5;*THI)2
+j\]uuvwmccp
+\a//9XY
+VVWN
+STH)2
+i\]ouuvmccbbbbbs
+\a//@XX0
+RST)/
+i\]oouulefffggkt
+\`/2@ZXX:
+;NPRF(/
+h\]loouuvwwx|~
+\_2/@ZZXXYYUUUVWNOPQ(/
+i\]ffggkkqqqzzz{{{
+\_//?MMMMEEEAAAA3345
+i\\\\\\\\\\\\\\\\\\\`//&&&&&--&&&&-&&&&./
+illlllllll
+]ZZZZZZZZZZZWV-1---------1-
+mV2.AHBC5D;<<(-
+kV2.P:#
+!!+=>(-
+kV239
+$=(-
+kV73@
+0<(-
+kV78@
+OGJKD;*1
+]d}~wca``
+kV78F
+OOGJKD*1
+\dy}rch{
+kV7EF
+MNOGIK/1
+\buyrcj
+kV?EE
+RR.#:I/-
+[btuncfssv
+kV?LE
+9G41
+]_ptqhhhjj
+kV?LTE
+@NO41
+]_mptuy}~
+lV6SUTTQQQRRN91
+[WXXXYXXYXYYWV-)))))))))),,
+F5><<==.
+ECK2LPV.
+E@J3MOU.
+D?H31IT.
+B;G1JKS.(
+E9A011R.&#
+E/4678:."&' 
+NQWhX^XXXe
+t}~]
+djklnoc
+sgba`_f|
+ux||||
+#  #  # 
+#! # 
+#! #! # 
+#  # 
+#gdc 
+#  #! # 
+#  #  # 
+#  # 
+#  # 
+#  #  #  #
+t5! #! #
+lR! #
+mS! #
+lR! #
+lR! #
+lR! #
+lR! #
+lR! #
+lR! #
+lR! #
+lR! #
+lR! #
+lR! #
+lR! #
+lR! #
+lR! #
+lR! #
+lS! #
+lR! #
+lR! #
+b;wi=ua=ua=ua=ua<u`=ua=ua<u`9d[qikunntnntnnunntnnunnunntpwyr
+cVgdc
+nkgdc
+y|~$s
+rcgdc
+4@egdc
+5@fgdc
+5@fgdc
+4@egdc
+5Afgdc
+4@egdc
+5@fgdc
+5@fgdc
+4@egdc
+4@egdc
+5@fgdc
+5Afgdc
+5@egdc
+5@fgdc
+BL@BM@BM@BL@BL@BL@BL@BM@CMABM@BL@BL@ 
+#w\Rv\Rw]Sw\Rw\Rw\Sv\Rv\Rw\Rw]Sw]Sw]StYQ1-/ 
+t6REE 
+F_s-
+t6RDD 
+<_s-
+t5REE 
+=^s,
+t5RDE 
+=_s-
+u6RDD 
+=_s-
+=REE 
+=^s,
+=REE 
+=_s-
+=SEE 
+=_s-
+=REE 
+>w+^
+=^s,
+=REE 
+=_s-
+=SEE 
+<^s,
+=SEE 
+;tcc 
+3ZzWo
+=_s-
+|Xfdc
+Zgec
+Zfdc
+Zfdc
+Zfdc
+Yfdc
+>_s-
+OYu@b
+gCg)R
+### UTF-16LE
+ 0<Lp
+\*.*
+\HDD\update\
+\NAND\EAJet\
+......
+\HDD\update\*.*
+\NAND\EAJet\EAJet.exe
+Open
+Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+NoRun
+NoDrives
+RestrictRun
+NoNetConnectDisconnect
+NoRecentDocsHistory
+NoClose
+Software\Microsoft\Windows\CurrentVersion\Policies\Network
+NoEntireNetwork
+Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32
+NoPlacesBar
+NoBackButton
+NoFileMru
+Control Panel\Desktop\ResourceLocale
+GetSystemDefaultUILanguage
+coredll.dll
+GetUserDefaultUILanguage
+%s.dll
+Software\
+Edit
+MS Shell Dlg
+msctls_progress32
+PocketPC
+Smartphone
+SHCreateMenuBar
+SHDoneButton
+SHFindMenuBar
+SHInitDialog
+SHRecognizeGesture
+SHSipInfo
+SHSipPreference
+AYGSHELL.DLL
+AfxWnd80su
+AfxControlBar80su
+AfxMDIFrame80su
+AfxFrameOrView80su
+AfxOleControl80su
+WCE_
+commctrl.dll
+InitCommonControls
+InitCommonControlsEx
+Afx:%p:%x:%p:%p:%p
+Afx:%p:%x
+tDelete
+NoRemove
+ForceRemove
+combobox
+System
+commdlg_FindReplace
+         (((((                  H
+         h((((                  H
+                                 H
+WCE_FINDDLG_SP
+WCE_REPLACEDLG_SP
+WCE_FINDDLG_PPC
+WCE_REPLACEDLG_PPC
+WCE_FINDREPLACEBAR
+WCE_FINDDLG
+WCE_REPLACEDLG
+MS Shell Dlg
+msctls_progress32
+VS_VERSION_INFO
+StringFileInfo
+080403a8
+CompanyName
+TODO: <
+FileDescription
+TODO: <
+FileVersion
+1.0.0.1
+InternalName
+testUpdate.exe
+LegalCopyright
+TODO: (C) <
+OriginalFilename
+testUpdate.exe
+ProductName
+TODO: <
+ProductVersion
+1.0.0.1
+VarFileInfo
+Translation
+MS Shell Dlg
+&New 
+Cancel
+&Help
+MS Shell Dlg
+Find
+MS Sans Serif
+Find What:
+Match Case
+Match Whole Word Only
+Down
+Direction
+Find
+MS Sans Serif
+Find What:
+Replace With:
+Match Whole Word Only
+Match Case
+Find
+Find What:
+Match Whole Word Only
+Match Case
+Down
+S52+
+Direction
+Find Next
+Cancel
+Help
+SIPPREF
+Replace
+Find What:
+Replace With:
+Match Whole Word Only
+Match Case
+Find Next
+Replace
+Replace All
+Cancel
+Help
+SIPPREF
+Next
+Replace
+Replace All
+Find
+Find What:
+Match Whole Word Only
+Match Case
+Down
+Direction
+Find Next
+Cancel
+Help
+Replace
+Find What:
+Replace With:
+Match Whole Word Only
+Match Case
+Find Next
+Replace
+Replace All
+Cancel
+Help
+Find
+Find Next
+Help
+Find
+Find Next
+Replace
+Replace All
+Help
+Open
+Save As
+All Files (*.*)
+Untitled
+an unnamed file
+&Hide
+No error message is available.'An unsupported operation was attempted.$A required resource was unavailable.
+Out of memory.
+An unknown error has occurred.$An invalid argument was encountered.
+Invalid filename.
+Failed to open document.
+Failed to save document.
+Save changes to %1? Failed to create empty document.
+The file is too large to open.
+Could not start print job.
+Failed to launch help.
+Internal application error.
+Command failed.)Insufficient memory to perform operation.PSystem registry entries have been removed and the INI file (if any) was deleted.BNot all of the system registry entries (or INI file) were removed.FThis program requires the file %s, which was not found on this system.tThis program is linked to the missing export %s in the file %s. This machine may have an incompatible version of %s.
+#Unable to read write-only property.#Unable to write read-only property.
+Unexpected file format.V%1
+Cannot find this file.
+Please verify that the correct path and file name are given.
+Destination disk drive is full.5Unable to read from %1, it is opened by someone else.AUnable to write to %1, it is read-only or opened by someone else..An unexpected error occurred while reading %1..An unexpected error occurred while writing %1.
+Please enter an integer.
+Please enter a number.*Please enter an integer between %1 and %2.(Please enter a number between %1 and %2.(Please enter no more than %1 characters.
+Please select a button.*Please enter an integer between 0 and 255. Please enter a positive integer. Please enter a date and/or time.
+Please enter a currency.
+Please enter a GUID.
+Please enter a time.
+Please enter a date.
+No error occurred.-An unknown error occurred while accessing %1.
+%1 was not found.
+%1 contains an invalid path.=%1 could not be opened because there are too many open files.
+Access to %1 was denied..An invalid file handle was associated with %1.<%1 could not be removed because it is the current directory.6%1 could not be created because the directory is full.
+Seek failed on %15A hardware I/O error was reported while accessing %1.0A sharing violation occurred while accessing %1.0A locking violation occurred while accessing %1.
+Disk full while accessing %1..An attempt was made to access %1 past its end.
+No error occurred.-An unknown error occurred while accessing %1./An attempt was made to write to the reading %1..An attempt was made to access %1 past its end.0An attempt was made to read from the writing %1.
+%1 has a bad format."%1 contained an unexpected object. %1 contains an incorrect schema.
+pixels
+Uncheck
+Check
+Mixed
+All Files|*.*|
+All Folders
+\My Documents Finished searching the document!
+No matching item found!
+Menu
+Cancel

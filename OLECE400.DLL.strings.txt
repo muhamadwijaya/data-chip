@@ -1,0 +1,644 @@
+### ASCII
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+@`B(
+0Td@dt
+?UUUU
+/! 0
+ tt0H0`
+ ttt
+((4H4\
+k7E8
+?connectionMap@CCmdTarget@@1UAFX_CONNECTIONMAP@@B
+?interfaceMap@CCmdTarget@@1UAFX_INTERFACEMAP@@B
+?messageMap@CWnd@@1UAFX_MSGMAP@@B
+?afxData@@3UAUX_DATA@@A
+?classCWnd@CWnd@@2UCRuntimeClass@@B
+?classCWinApp@CWinApp@@2UCRuntimeClass@@B
+?classCDC@CDC@@2UCRuntimeClass@@B
+?classCException@CException@@2UCRuntimeClass@@B
+?messageMap@CDialog@@1UAFX_MSGMAP@@B
+?classCDialog@CDialog@@2UCRuntimeClass@@B
+?dispatchMap@CCmdTarget@@1UAFX_DISPMAP@@B
+?classCMemoryException@CMemoryException@@2UCRuntimeClass@@B
+?classCCmdTarget@CCmdTarget@@2UCRuntimeClass@@B
+?classCNotSupportedException@CNotSupportedException@@2UCRuntimeClass@@B
+?classCFile@CFile@@2UCRuntimeClass@@B
+mfcce400.dll
+COREDLL.dll
+olece400.dll
+?_afxAmbientCache@@3V?$CThreadLocal@V_AFXCTL_AMBIENT_CACHE@@@@A
+?classCOleControl@COleControl@@2UCRuntimeClass@@B
+?classCOleControlModule@COleControlModule@@2UCRuntimeClass@@B
+?classCOleDispatchException@COleDispatchException@@2UCRuntimeClass@@B
+?classCOleException@COleException@@2UCRuntimeClass@@B
+?classCOleObjectFactory@COleObjectFactory@@2UCRuntimeClass@@B
+?classCOlePropertyPage@COlePropertyPage@@2UCRuntimeClass@@B
+?classCOleStreamFile@COleStreamFile@@2UCRuntimeClass@@B
+?connectionMap@COleControl@@1UAFX_CONNECTIONMAP@@B
+?eventMap@COleControl@@1UAFX_EVENTMAP@@B
+?interfaceMap@COleControl@@1UAFX_INTERFACEMAP@@B
+?interfaceMap@COleDataSource@@1UAFX_INTERFACEMAP@@B
+?interfaceMap@COleObjectFactory@@1UAFX_INTERFACEMAP@@B
+?interfaceMap@COlePropertyPage@@1UAFX_INTERFACEMAP@@B
+?messageMap@CControlFrameWnd@@1UAFX_MSGMAP@@B
+?messageMap@COleControl@@1UAFX_MSGMAP@@B
+?messageMap@COlePropertyPage@@1UAFX_MSGMAP@@B
+NB10
+D:\evt\EVT_Dev\Projects\WCE430\MFC_ATL\mfcdev\src\obj\armv4i\oledll\olece400.pdb
+COleControl
+COleControlModule
+CWindowlessDC
+COlePropertyPage
+MFCCE400.DLL
+COleDispatchException
+COleObjectFactory
+COleException
+COleStreamFile
+CMonthCalCtrl
+CDateTimeCtrl
+SysFreeString
+oleaut32.dll
+SysAllocStringByteLen
+VariantCopy
+VariantClear
+VariantChangeType
+SysAllocStringLen
+SysStringLen
+SysReAllocStringLen
+SysAllocString
+SysStringByteLen
+VarCyFromStr
+VarBstrFromCy
+VarDateFromStr
+VarBstrFromDate
+LoadTypeLib
+LoadRegTypeLib
+RegisterTypeLib
+DosDateTimeToVariantTime
+SafeArrayCreate
+SafeArrayRedim
+SafeArrayAccessData
+SafeArrayUnaccessData
+SafeArrayGetUBound
+SafeArrayGetLBound
+SafeArrayGetElemsize
+SafeArrayGetDim
+SafeArrayCopy
+SafeArrayAllocData
+SafeArrayAllocDescriptor
+SafeArrayGetElement
+SafeArrayPutElement
+SafeArrayLock
+SafeArrayUnlock
+SafeArrayDestroy
+SafeArrayDestroyData
+SafeArrayDestroyDescriptor
+SafeArrayPtrOfIndex
+ReadFmtUserTypeStg
+ole32.dll
+ReadClassStg
+CreateFileMoniker
+StgIsStorageFile
+StgOpenStorage
+DoDragDrop
+CoLockObjectExternal
+RegisterDragDrop
+OleRegGetUserType
+StgCreateDocfile
+RevokeDragDrop
+CoRegisterClassObject
+CoRevokeClassObject
+OleTranslateAccelerator
+IsAccelerator
+OleCreateMenuDescriptor
+OleDestroyMenuDescriptor
+GetRunningObjectTable
+WriteClassStg
+OleQueryLinkFromData
+CoRegisterMessageFilter
+CoCreateInstance
+CreateBindCtx
+StringFromCLSID
+CoDisconnectObject
+OleRegEnumVerbs
+OleUninitialize
+CreateOleAdviseHolder
+CreateDataAdviseHolder
+OleGetAutoConvert
+CoGetClassObject
+OleCreateDefaultHandler
+ReadClassStm
+OleLoadFromStream
+StringFromGUID2
+CoUninitialize
+CoInitialize
+CoInitializeEx
+CoFreeUnusedLibraries
+OleCreateFromData
+OleSetContainedObject
+OleLockRunning
+CoTaskMemAlloc
+CLSIDFromString
+CLSIDFromProgID
+OleIsCurrentClipboard
+OleFlushClipboard
+OleSetClipboard
+OleIsRunning
+OleRun
+OleGetClipboard
+CoTreatAsClass
+OleQueryCreateFromData
+OleSetMenuDescriptor
+CreateItemMoniker
+CreateGenericComposite
+CreateStreamOnHGlobal
+OleSaveToStream
+WriteClassStm
+CoTaskMemFree
+OleGetIconOfClass
+ReleaseStgMedium
+GetHGlobalFromILockBytes
+StgOpenStorageOnILockBytes
+CreateILockBytesOnHGlobal
+StgCreateDocfileOnILockBytes
+OleSave
+OleLoad
+OleCreate
+OleCreateLinkToFile
+OleCreateFromFile
+OleCreateStaticFromData
+OleCreateLinkFromData
+SetConvertStg
+OleDuplicateData
+WriteFmtUserTypeStg
+OleRegGetMiscStatus
+CoGetMalloc
+StgIsStorageILockBytes
+FE2X
+PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGX
+0,080
+1L2@3d4
+7 8D8h8
+9@9d9
+:<:`:
+;8;\;
+<4<X<p<
+;`<d<
+@0L0
+2|3H4L4
+`2d2h2
+3P7|7
+7$8p8@<D<
+508`8$; >$>(>
+5d8h8l8L:T;X;8<@=D=$>(?,?
+9D;H;L;P;h;\<p=T>\?
+T0x1H2
+5X6(7
+8d;,=
+,1014181<1@1D1H1L1P1t5x5t6
+0X1@3H3P3
+;H<P=l>
+406h6h9
+9H;L;P;T;X;\;`;
+0p2t2
+<`=H>L>P>T>
+1d3h3x6|6
+: :X;\;`;d;h;l;
+\0T7
+:$:0:
+;(;L;p;
+0D2H2
+5,5P5t5
+6(6L6t7x7|7
+3X586
+:@>D>
+<1@1D1@2D2
+5X7\7
+:P=`=l=
+9<:P;
+2@3t4
+7D=H=L=
+X0\0d0h0l0
+4L5T5
+6 6,6
+6d7h7t7
+8<9x:|:
+2,2T2|2
+3D3l3
+848X8h8t8
+0$1D5
+X2\2`2d2h2l2
+2L3P3T3X3\3`3d3
+>h?l?
+ 0$0
+1 1x1
+4$4l4
+4L6P6
+t0x0|0
+00141p1t1
+182<2p2t2
+2(3,3x3|3
+30444
+40545x5|5
+6H6L6
+7P7T7
+888<8x8|8
+9@9D9x9|9
+9 :$:h:l:
+:(;,;h;l;
+<X<\<
+<(=,=x=|=
+>H>L>
+> ?$?X?\?
+0P0T0
+00141p1t1
+2P2T2
+2@3D3
+4@4D4x4|4
+4X5\5
+6`6d6
+7@7D7x7|7
+7(8,8`8d8
+9P9T9
+:P:T:
+;x;|;
+<X<\<
+>p>t>
+> ?$?h?l?
+80<0p0t0$1(1
+3 3$3(3,30343
+4$444D4T4d4t4
+5$545D5T5d5t5
+6$646D6T6d6t6
+7$747D7T7d7t7
+8$848D8T8d8t8
+9$949D9T9d9t9
+:$:4:D:T:d:t:
+;$;4;D;T;d;t;
+<$<4<D<T<d<t<
+=$=4=D=T=d=t=
+>$>4>D>T>d>t>
+?$?4?D?T?d?t?
+0$040D0T0d0t0
+1$141D1T1d1t1
+2$242D2T2d2t2
+3$343D3T3d3t3
+4$444D4T4d4t4
+5$545D5T5d5t5
+6$646D6T6d6t6
+7$747D7T7d7t7
+8$848D8T8d8t8
+9$949D9T9d9t9
+:$:4:D:T:d:t:
+;$;4;D;T;d;t;
+<$<4<D<T<d<t<
+=$=4=D=T=d=t=
+>$>4>D>T>d>t>
+?$?4?D?T?d?t?
+0$040D0T0d0t0
+1$141D1T1d1t1
+1(242\2
+6$6<6
+707`7x7
+:$:D:P:
+:4;X;|;T=d=p=
+=`>d>h>l>p>t>x>|>
+1 101<1\2d2h2
+< =x?
+4080
+5d6h6l6
+D0<9H9\9
+9P;T;X;
+`6h6l6
+0 0$040D0L0P0l0
+1,1D1\1t1
+242L2d2|2
+3$3<3T3l3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+><>X>\>t>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?t?|?
+0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+181<1@1H1X1\1`1d1h1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+4 4$4(4,4044484<4D4H4L4P4T4X4\4`4d4l4p4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6p6t6x6|6
+7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+4 4$4(4,4044484@4D4H4L4P4T4\4`4d4h4l4t4x4
+5 5$5(5,5054585H5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:
+1 1(1,14181@1D1L1P1
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+### UTF-16LE
+$$XXX
+$$TTT
+\pHp
+,h<THThhhp
+  ,h
+P 0@
+@ 08,
+%2\CLSID
+%2\Insertable
+%2\protocol\StdFileEditing\verb\0
+&Edit
+%2\protocol\StdFileEditing\server
+CLSID\%1
+CLSID\%1\ProgID
+CLSID\%1\InprocHandler32
+ole32.dll
+CLSID\%1\LocalServer32
+CLSID\%1\Verb\0
+&Edit,0,2
+CLSID\%1\Verb\1
+&Open,0,2
+CLSID\%1\Insertable
+CLSID\%1\AuxUserType\2
+CLSID\%1\AuxUserType\3
+CLSID\%1\DefaultIcon
+%3,%7
+CLSID\%1\MiscStatus
+CLSID\%1\InProcServer32
+CLSID\%1\DocObject
+%2\DocObject
+CLSID\%1\Printable
+CLSID\%1\DefaultExtension
+%9, %8
+)789;<=>?@ABCDUZ
+lAfxOleControl42u
+{%08lX-%04X-%04X-%02X%02X-%02X%02X%02X%02X%02X%02X}
+ComboBox
+ListBox
+Edit
+Tahoma
+AfxWnd42u
+listbox
+combobox
+button
+edit
+Helv
+MS Sans Serif
+MS Shell Dlg
+EDIT
+Appearance
+Enabled
+BorderStyle
+Font
+BackColor
+ForeColor
+Text
+Caption
+_StockProps
+_ExtentY
+_ExtentX
+_Version
+FontStrikethru
+FontUnderline
+FontItalic
+FontBold
+FontSize
+FontName
+Contents
+Both
+Apartment
+Apartment
+InprocServer32
+Version
+TypeLib
+Control
+MiscStatus\1
+MiscStatus
+ToolboxBitmap32
+%3, %4
+InprocServer32
+ProgID
+CLSID
+Interface\
+win32
+win16
+FLAGS
+HELPDIR
+TYPELIB\%s
+ThreadingModel
+InprocServer32
+Insertable
+CLSID\%s
+%d.%d
+ToolboxBitmap32
+CLSID\%s\%s
+InprocServer
+RichEdit Text and Objects
+Rich Text Format
+FileNameW
+FileName
+Link Source Descriptor
+Object Descriptor
+Link Source
+Embed Source
+Embedded Object
+ObjectLink
+OwnerLink
+Native
+Embedding
+Automation
+Unspecified
+CLSID
+<unknown verb>
+SysDateTimePick32
+SysMonthCal32
+OLECE_Charset
+Charset
+OLECE_Weight
+Weight
+OLECE_Strikethrough
+Strikethrough
+OLECE_Underline
+Underline
+OLECE_Italic
+Italic
+OLECE_Bold
+Bold
+OLECE_Size
+Size
+OLECE_Name
+Name
+static
+OLECE_Signature
+\MiscStatus\1
+%1 in %2
+%1 - %2
+Save Copy As
+&Update %1
+E&xit && Return to %1
+Updating ActiveX objects
+Picture (Metafile)
+a picture5Device Independent Bitmap
+a device independent bitmap
+Bitmap
+a bitmap
+7Rich Text (RTF)
+text with font and paragraph formatting,Unformatted Text
+text without any formatting
+Invalid Currency.
+Invalid DateTime.
+Invalid DateTimeSpan.
+)Can not activate a static ActiveX object.&Failed to connect.
+Link may be broken.'Unable to process command, server busy.#Failed to perform server operation.
+$Failed to launch server application.
+Update %1 before proceeding?
+Could not update client.;Failed to register. ActiveX features may not work properly.?Failed to update the system registry.
+Please try using REGEDIT.!Failed to convert ActiveX object.
+QActiveX objects cannot be saved while exiting Windows!
+Discard all changes to %1?VFailed to create object.  Make sure the application is entered in the system registry.
+(Font)
+(Color)
+(Picture - %s)
+Unknown
+None
+Bitmap
+Metafile
+Icon
+0 - None
+1 - Fixed Single
+&Edit
+&Properties...
+Illegal function call
+Overflow
+Out of memory
+Division by zero
+Out of string space
+Out of stack space
+Bad file name or number
+File not found
+Bad file mode
+File already open
+Device I/O error
+File already exists
+Bad record length
+Disk full
+Bad record number
+Bad file name
+Too many files
+Device unavailable
+Permission denied
+Disk not ready
+Path/File access error
+Path not found
+Invalid pattern string
+Invalid use of null
+Invalid file format
+Invalid property value
+Invalid array index"Property cannot be set at run time
+Property is read-only2Must specify array index when using property array&Property cannot be set on this control#Property cannot be read at run time
+Property is write-only
+Property not found
+Invalid clipboard format
+Invalid picture
+Printer error.Cannot create temporary file necessary to save
+Search text not found
+Replacement text too long
+VS_VERSION_INFO
+StringFileInfo
+040904E4
+CompanyName
+Microsoft Corporation
+FileDescription
+MFCOLE Shared Library - Retail Version
+FileVersion
+6.00.1538
+LegalCopyright
+Copyright (C) Microsoft Corp. 1993-2004
+VarFileInfo
+Translation

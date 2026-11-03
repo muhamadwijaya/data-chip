@@ -1,0 +1,207 @@
+### ASCII
+!This program cannot be run in DOS mode.
+Rich{U
+"!M]
+.text
+`.data
+.pdata
+@.reloc
+"!M]
+RSDSj
+usbstat.pdb
+COREDLL.dll
+7p7t7
+< <$<4<D<T<d<t<
+=T>X>
+X0h0x0
+1(181
+0 0(00080@0H0P0X0`0h0p0x0
+### UTF-16LE
+USBSTAT: %s
+HD %9u/%9u;
+Tx %08X %9u/%9u; Rx %08X %9u/%9u
+m_EDUsage %9u; m_TDUsage  %9u;
+m_pProcessEDIn[%02d] %08X;  m_pProcessEDOut[%02d] %08X; 
+OTG%d  %2d  %08X    %s
+OTG%d  %2d  %s    %s
+USBSTAT('%s') rc = %d; returned %d
+OTG:
+Can't open %s: device driver!
+OTG2:
+OTG1:
+Command %d is not implemented
+HCD2:
+HCD1:
+%11u %3d-%s
+Failed to read Ecc type
+USBSTAT <command>
+        hcddma1 - get stats for HCD1: dma
+        hcddma2 - get stats for HCD2: dma
+        irqcnt  - get SA Irq counters
+        otg1    - get OTG1 state
+        otg2    - get OTG2 state
+        hcd1    - get HCD1 info
+        hcd2    - get HCD2 info
+hcd2
+hcd1
+otg2
+otg1
+irqcnt
+hcddma2
+hcddma1
+USBSTAT
+m_UsbOtgInput
+m_UsbOtgInternal
+m_UsbOtgOutputValues
+m_UsbOtgState
+m_UsbOtgMode
+m_UsbOtgTimers.a_wait_vrise_tmr
+m_UsbOtgTimers.a_wait_bcon_tmr
+m_UsbOtgTimers.a_aidl_bdis_tmr
+m_UsbOtgTimers.b_ase0_brst_tmr
+m_UsbOtgTimers.b_srp_fail_tmr
+m_UsbOtgTimers.b_srp_fail_count
+m_bEnablePolling
+m_bFunctionMode
+m_InFunctionModeFn
+m_bHostMode
+states_unknown
+a_idle
+a_wait_vrise
+a_wait_bcon
+a_host
+a_suspend
+a_peripheral
+a_wait_vfall
+a_vbus_err
+b_idle
+b_srp_init
+b_peripheral
+b_wait_acon
+b_host
+IRQ_EMUINT
+IRQ_COMMTX
+IRQ_COMMRX
+IRQ_BENCH
+IRQ_ELM
+IRQ_SSM_WFI
+IRQ_SSM
+IRQ_NMI
+IRQ_SEC_EVNT
+IRQ_L3DEBUG
+IRQ_L3APPINT
+IRQ_PRCMINT
+IRQ_EDMACOMPINIT
+IRQ_EDMAMPERR
+IRQ_EDMAERRINT
+IRQ_WDTINT0
+IRQ_ADC_TSC_GENINT
+IRQ_USBSSINT
+IRQ_USBINT0
+IRQ_USBINT1
+IRQ_PRUSS1_EVTOUT0
+IRQ_PRUSS1_EVTOUT1
+IRQ_PRUSS1_EVTOUT2
+IRQ_PRUSS1_EVTOUT3
+IRQ_PRUSS1_EVTOUT4
+IRQ_PRUSS1_EVTOUT5
+IRQ_PRUSS1_EVTOUT6
+IRQ_PRUSS1_EVTOUT7
+IRQ_SDINT1
+IRQ_SDINT2
+IRQ_I2CINT2
+IRQ_ECAP0
+IRQ_GPIO2A
+IRQ_GPIO2B
+IRQ_USBWAKEUP
+IRQ_PCIWAKEUP
+IRQ_LCDCINT
+IRQ_GFXINT
+IRQ_2DHWA
+IRQ_EPWM2
+IRQ_3PGSWRXTHR0
+IRQ_3PGSWRXINT0
+IRQ_3PGSWTXINT0
+IRQ_3PGSWMISC0
+IRQ_UART3INT
+IRQ_UART4INT
+IRQ_UART5INT
+IRQ_ECAP1
+IRQ_PCIINT0
+IRQ_PCIINT1
+IRQ_PCIINT2
+IRQ_PCIINT3
+IRQ_DCAN0_INT0
+IRQ_DCAN0_INT1
+IRQ_DCAN0_PARITY
+IRQ_DCAN1_INT0
+IRQ_DCAN1_INT1
+IRQ_DCAN1_PARITY
+IRQ_EPWM0_TZ
+IRQ_EPWM1_TZ
+IRQ_EPWM2_TZ
+IRQ_ECAP2
+IRQ_GPIO3A
+IRQ_GPIO3B
+IRQ_SDINT0
+IRQ_SPI0INT
+IRQ_TIMER0
+IRQ_TIMER1MS
+IRQ_TIMER2
+IRQ_TIMER3
+IRQ_I2CINT0
+IRQ_I2CINT1
+IRQ_UART0INT
+IRQ_UART1INT
+IRQ_UART2INT
+IRQ_RTCINT
+IRQ_RTCALARM
+IRQ_MBINT
+IRQ_M3_TXEV
+IRQ_EQEP0
+IRQ_MCA0TX
+IRQ_MCA0RX
+IRQ_MCA1TX
+IRQ_MCA1RX
+IRQ_MCA2TX
+IRQ_MCA2RX
+IRQ_EPWM0
+IRQ_EPWM1
+IRQ_EQEP1
+IRQ_EQEP2
+IRQ_DMA_INT_PIN2
+IRQ_WDT1
+IRQ_TIMER4
+IRQ_TIMER5
+IRQ_TIMER6
+IRQ_TIMER7
+IRQ_GPIO0A
+IRQ_GPIO0B
+IRQ_GPIO1A
+IRQ_GPIO1B
+IRQ_GPMC
+IRQ_DDRERR0
+IRQ_AES0_S
+IRQ_AES0_P
+IRQ_AES1_S
+IRQ_AES1_P
+IRQ_DES_S
+IRQ_DES_P
+IRQ_SHA_S
+IRQ_SHA_P
+IRQ_FPKA_SINTREQUEST
+IRQ_RNG
+IRQ_TCERR0
+IRQ_TCERR1
+IRQ_TCERR2
+IRQ_ADC_TSC_PEND
+IRQ_CDMA0
+IRQ_CDMA1
+IRQ_CDMA2
+IRQ_CDMA3
+IRQ_SMRFLX_ARM
+IRQ_SMRFLX_CORE
+IRQ_SYSMMU
+IRQ_DMA_INT_PIN0IRQ_DMA_INT_PIN1IRQ_SPI1INT
+IRQ_SPI2INT
+IRQ_SPI3INT

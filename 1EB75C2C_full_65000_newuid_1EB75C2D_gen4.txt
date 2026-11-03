@@ -1,0 +1,7 @@
+# Script Proxmark3 - GTInk
+# Backend: gen4
+# Clone : 1EB75C2C_full_65000_newuid_1EB75C2D.bin
+# Jalankan dari client Proxmark3, contoh:
+#   proxmark3 -p COM11 -s "1EB75C2C_full_65000_newuid_1EB75C2D_gen4.txt"
+
+hf mf gload -f "O:/tij gt 1000/clones/diagnostik/1EB75C2C_full_65000_newuid_1EB75C2D.bin" --1k

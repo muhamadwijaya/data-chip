@@ -1,0 +1,122 @@
+### ASCII
+!This program cannot be run in DOS mode.
+RichO1G
+O}%7
+.text
+`.data
+.pdata
+@.rsrc
+O}%7
+O}%7
+dBH@
+COREDLL.dll
+commctrl.dll
+ffff
+`ff`
+`fof
+ffff
+{{{{{x
+{{{{p
+{{{{{x
+{{{{{
+{{{{{x
+e:\jupapps\public\hpc\oak\target\ARM\SA1100\CE\retail\pregedit.exe
+NB10
+e:\jupapps\public\hpc\oak\target\ARM\SA1100\CE\retail\pregedit.pdb
+### UTF-16LE
+PRegEdit.MainWnd
+Pocket RegEdit
+Pocket RegEdit
+SOFTWARE\Microsoft\PRegEdit
+LastKey
+SplitterPos
+NameColWidth
+DataColWidth
+(Default)
+Are you sure you want to delete the selected key?
+Are you sure you want to delete the selected value?
+Confirm
+Save changes?
+Could not delete the value.
+Could not delete the key.
+Could not save the value to the Registry.
+Pocket RegEdit does not currently support editing this data type.
+The number that you entered is not valid, please try again.
+Not enough memory currently available to complete the operation.
+(Unknown/unsupported value type!)
+"%s"
+%02x 
+(zero length binary value)
+0x%08x  (%u)
+(value not set)
+Default
+(not enough memory available)
+Edit REG_SZ Value
+Edit REG_BINARY Value
+Edit REG_DWORD Value
+HKEY_USERS
+HKEY_LOCAL_MACHINE
+HKEY_CURRENT_USER
+HKEY_CLASSES_ROOT
+Data
+Name
+SysListView32
+Listview
+SysTreeView32
+Treeview
+New Value
+New Key
+Failed loading common controls
+Error
+InitCommonControls
+commctrl.dll
+PRegEdit.BinEditor
+RegEdit_HexData
+%04X
+%02X
+Courier
+Edit Value
+MS Sans Serif
+Value &name:
+&Value data:
+Edit Value
+MS Sans Serif
+Value &name:
+&Value data:
+PRegEdit.BinEditor
+&Registry
+kNew &String
+(Alt-S)
+jNew &DWORD
+(Alt-D)
+tNew &Binary
+(Alt-B)
+lNew &Key
+(Alt-K)
+oDelete &Value
+(Del)
+nDelete Ke&y
+(Alt-Del)
+mR&efresh
+(Alt-E)
+iE&xit
+(Alt-X)
+&Registry
+kNew &String
+jNew &DWORD
+tNew &Binary
+lNew &Key
+nDelete Ke&y
+&Registry
+qModify
+kNew &String
+jNew &DWORD
+tNew &Binary
+lNew &Key
+oDelete &Value
+p&Rename
+Cu&t
+&Copy
+&Paste
+.&Delete
+Select &All
