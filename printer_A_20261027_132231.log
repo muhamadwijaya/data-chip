@@ -1,0 +1,15 @@
+[=] Session log O:/tij gt 1000/.proxmark3/logs/log_20261027062231.txt
+[=] pm3dir...... resources/
+[=] Searching... O:/tij gt 1000/.proxmark3/preferences.json
+[#] Searching implicit relative paths
+[=] Found O:/tij gt 1000/.proxmark3/preferences.json
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] execute command from commandline: hf 14a simaid -t 4 -u FE7EA17E --ats 107880900220900000000000FE7EA17E --aid 45414A4554 --selectaid_response 9e9f9ebfbfbfd81765f0bdfdbd529e979f971f1f9e8f0f96bfbfbfbf9e8fbfbf0f96bfbf1f96bfbf9fbfbfbf1e8fbfbf979ebfbf9e1e161f169e97bfbfbfbfbf1f1ebfbf1e1e979f97979f8fb5359bce13869f5716928b292a35ca81c3915348a442dca99e9f1e9f9e961f9f9f9f9f9e0f0f0f9f0f9f961f0f8f17161617179f9e9eed0fdded2da43d0f2ded0f1f17749eed74eda4a49e9e9e17bfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfa0a633333430343430381800323033303236323337313732342020202020757ddb05 --getdata_response 3368d89983278d9f75f0e5d3b70f83877b01ed14f70f12254f94456a05a78f9f40824db244a8a01837e1dd063368d89983278d9f75f0e5d3b70f83877b01ed14f70f12254f94456a05a78f9f40824db244a8a01854e832b6
+
+[+] Using UART port COM11
+[+] Communicating with PM3 over USB-CDC
+[+] Max frame size: 624 bytes
+[+] Emulator memory: 8192 bytes
+[usb|script] pm3 --> hf 14a simaid -t 4 -u FE7EA17E --ats 107880900220900000000000FE7EA17E --aid 45414A4554 --selectaid_response 9e9f9ebfbfbfd81765f0bdfdbd529e979f971f1f9e8f0f96bfbfbfbf9e8fbfbf0f96bfbf1f96bfbf9fbfbfbf1e8fbfbf979ebfbf9e1e161f169e97bfbfbfbfbf1f1ebfbf1e1e979f97979f8fb5359bce13869f5716928b292a35ca81c3915348a442dca99e9f1e9f9e961f9f9f9f9f9e0f0f0f9f0f9f961f0f8f17161617179f9e9eed0fdded2da43d0f2ded0f1f17749eed74eda4a49e9e9e17bfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfa0a633333430343430381800323033303236323337313732342020202020757ddb05 --getdata_response 3368d89983278d9f75f0e5d3b70f83877b01ed14f70f12254f94456a05a78f9f40824db244a8a01837e1dd063368d89983278d9f75f0e5d3b70f83877b01ed14f70f12254f94456a05a78f9f40824db244a8a01854e832b6
+[+] Emulating ISO/IEC 14443 type A tag with 4 byte UID (FE 7E A1 7E )
+[=] Press pm3 button to abort simulation

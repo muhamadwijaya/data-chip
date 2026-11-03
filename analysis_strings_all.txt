@@ -1,0 +1,596 @@
+
+===== DARI WINDOWS\EAJet\uiRes.dll (1280512) =====
+   10554 A WriteClassStm
+   10590 A ReadClassStm
+  548754 A k%RF
+  561195 A B3B3B1FRF
+  590649 A BTFRFc
+  599361 A B3B3B1FRF
+  599639 A BTBRFj%
+  623147 A ZRF1B
+  625287 A BTFRF
+  625557 A BTFRF
+  630709 A BRJRFc
+  636435 A BRJRF
+  663169 A BTBRF
+  670229 A B3BTFRFc
+  672683 A B3B3B1FRF
+  689855 A B3B4BtRF(
+  765093 A B1FsRF(%$&$&$F$F(F(g(g(g(g(
+  796565 A )RFtJ
+  797873 A ZRFRF
+  798145 A ZRFRF
+  798417 A ZRF0>sN
+  879415 A 1tNRFRF
+  879647 A BTFRFc
+  882377 A B1FRF
+  882649 A B3BTFRF
+  909653 A B3BTFRF
+  915625 A B3B3BRJRFc
+  919175 A B4BRF
+  919723 A BTFRF
+  920541 A B3B3BsNRF
+  921089 A B3B3B1FRF
+  943521 A 91BRF
+  943769 A VRFk%
+  946554 A RFRJ3B3B
+  949486 A RFRFRFRFRFRFRFRFRFRFRFRFRFRF
+  950249 A B3B3BRJRFc
+  956245 A B3BTBRF
+  958165 A BRJRF
+ 1004619 A %RFtJ
+ 1042781 A )RFtJ
+ 1044089 A ZRFRF
+ 1044361 A ZRFRF
+ 1044633 A ZRF0>sN
+ 1078727 A ZRFk
+ 1079853 A )RFsN
+ 1089305 A NRFQBPB
+ 1115525 A ZRFk
+   15418 U FileVersion
+   15718 U ProductVersion
+
+===== DARI WINDOWS\EAJet\__EAJet.exe (2283520) =====
+ 1315816 A CInkCalcDialog
+ 1325996 A MANU_DATE
+ 1326072 A EEPROM_SN
+ 1326084 A AGENTS_NO
+ 1326096 A DATE_USED
+ 1326108 A DATE_LIMIT
+ 1326120 A NUM_PRINTED
+ 1326132 A INKNUM_USED
+ 1326144 A COMPNUM_PRINTED
+ 1326160 A COMPINKNUM_USED
+ 1326176 A EEPROM_SNVERI
+ 1359932 A CWaitDlgThread
+ 1428024 A CMyMessageBox
+ 1522092 A CWinThread
+ 1523896 A CComboBox
+ 1523908 A CListBox
+ 1557832 A type error in hetero_stack
+ 1578230 A BCSet_QR_Version
+ 1578372 A BCCheck
+ 1605688 A .?AVlength_error@std@@
+ 1605720 A .?AVlogic_error@std@@
+ 1802520 A .?AVCWinThread@@
+ 1802840 A .?AVCListBox@@
+ 1802864 A .?AVCComboBox@@
+ 1804352 A .?AUCThreadData@@
+ 1804596 A .?AUIDispatch@@
+ 1804804 A .?AVXEventSink@COleControlSite@@
+ 1804848 A .?AUIPropertyNotifySink@@
+ 1804916 A .?AVXPropertyNotifySink@COleControlSite@@
+ 1807832 A .?AVtype_error@?$hetero_stack@$03$00$0A@$0CA@$0A@@regex@@
+ 1898730 A RFGHJCDKLL=>>88+/
+ 1898975 A RFTHJCDKLL)2
+ 1899023 A QRFTHJCDKL(/
+ 1899071 A OQRFGHJCDK(/
+ 1899167 A WNOQRFTHIJ)/
+ 1899364 A ;NPRF(/
+ 1982765 A Linked UCC/EAN-128
+ 1982882 A 0-Error Detection Only
+ 1983099 A Reader Programming
+ 1296224 U CHICKBOX1
+ 1296244 U CHICKBOX2
+ 1296264 U CHICKBOX4
+ 1296820 U INKTYPE
+ 1296888 U CUSTOM_INK
+ 1297068 U BOX_LEN_GROUP
+ 1297096 U BOX_LEN_ENABLE
+ 1297128 U BOX_LEN
+ 1297880 U CHECK1
+ 1298804 U COM%d:
+ 1298820 U COM3:
+ 1300736 U IDC_STATIC_COMMUNICATE
+ 1300928 U LOW_INK_THRESHOLD
+ 1301936 U LOW_INK_THRESHOLD_RANGE
+ 1302892 U IDC_SOFTWAREUPDATE
+ 1302932 U IDC_HARDWAREUPDATE
+ 1303040 U IDC_BTN_SW_UPDATE
+ 1303076 U IDC_BTN_HW_UPDATE
+ 1303624 U  MyCopyThread SendUpdateARMData failed! nTotalPacks :%d,nCurPackNum:%d,nRead:%d
+ 1303784 U srcfile.Open failed
+ 1303824 U  MyCopyThread before SendUpdateARMData! nSize:%d, nTotalPacks :%d,nCurPackNum:%d,nRead:%d
+ 1305984 U COMMON
+ 1310548 U COMMU_TEST
+ 1315888 U INK_TYPE
+ 1316828 U INKCALC
+ 1318636 U COM2:
+ 1318736 U CleanInkBox=%d
+ 1326764 U EEPROM_SNVERI
+ 1326792 U COMPINKNUM_USED
+ 1326824 U COMPNUM_PRINTED
+ 1326856 U INKNUM_USED
+ 1326880 U NUM_PRINTED
+ 1326904 U DATE_LIMIT
+ 1326928 U DATE_USED
+ 1326948 U AGENTS_NO
+ 1326968 U EEPROM_SN
+ 1327104 U MANU_DATE
+ 1327460 U COMMAND
+ 1327476 U LGPRINTCOMMANDSTART
+ 1327896 U LGPRINTCOMMANDEND
+ 1328684 U Com_ReadCloseEvent
+ 1328784 U Error with InsertPage
+ 1328928 U CHECK_SET_ZERO_BY_CHANGE
+ 1331576 U SETUP_DATE_YMD
+ 1331656 U SETUP_BOX_LENGTH
+ 1332584 U %s Init Failed!
+ 1349140 U CreateMutex error: %d
+ 1349860 U SetMainBoard Failed
+ 1349984 U MainBoard StartPrint Failed
+ 1350092 U MainBoard StopPrint Failed
+ 1350196 U MainBoard SendTestCmd Failed
+ 1350652 U [%d]StartPrint failed!
+ 1350796 U StopPrint failed!
+ 1350920 U FinishPrint failed!
+ 1351052 U ClearPrintBuffer failed!
+ 1351208 U QueryRecvPrintDataReady failed!
+ 1351272 U QueryRecvPrintDataReady=%d
+ 1351388 U HeaderAttentation failed!
+ 1351544 U HeaderSelfTest failed!
+ 1351760 U SetHeaderSet failed!
+ 1351896 U FlashPrintInk failed!
+ 1351940 U FlashPrintInk=%d
+ 1352036 U CleanInkBox failed!
+ 1352136 U QueryHeaderVer failed!
+ 1352304 U GetLastExecCMD failed!
+ 1352460 U TestCmd failed!
+ 1352680 U succeed = %d,failed=%d
+ 1352728 U QueryMachineStatus failed!
+ 1353236 U OK= %d,failed=%d Echo0=%d
+ 1353352 U MainBoard Get Version cmd Failed!
+ 1353560 U MainBoard GetLastExecCmd Failed
+ 1354028 U Fail No:%d: %d ms
+ 1354304 U COMMAND_FAIL
+ 1354500 U COMMAND_ONGOING
+ 1354532 U COMMAND_SUCCESS
+ 1354564 U header[%d] SelfTest failed!
+ 1354728 U sendThreadStatus =%d
+ 1354916 U ch[%d].echo index error =%d
+ 1354972 U ch[%d].sendThreadStatus =%d
+ 1355176 U ch[%d].maxWriteFile =%.3f/min=%.3f 
+ 1355688 U ch[%d].nQuryLn=%d nReadLn=%d purgeCt=%d/ex=%d
+ 1356172 U DATE_USED = %c%c%c%c%c%c
+ 1356328 U set DATE_USED = %c%c%c%c%c%c
+ 1356520 U SetPrintInfo failed!
+ 1356708 U CH:%d,GetPrintInfo failed!
+ 1356968 U Setdeviceinfo failed!
+ 1357108 U ReInit failed!
+ 1357360 U header[%d] succeed = %d,failed=%d
+ 1357696 U HEAD_DATE_USED
+ 1357728 U *INKUSED /0 ? 
+ 1357760 U *INKUSED
+ 1358080 U PRINTER_AGENTS_NO6
+ 1358120 U PRINTER_AGENTS_NO5
+ 1358160 U PRINTER_AGENTS_NO4
+ 1358200 U PRINTER_AGENTS_NO3
+ 1358240 U PRINTER_AGENTS_NO2
+ 1358280 U PRINTER_AGENTS_NO1
+ 1358320 U PRINTER_AGENTS_NO
+ 1358368 U IC_DATE_MANUL
+ 1358472 U header[%d] OK= %d,failed=%d Echo0=%d
+ 1362744 U COM_CLOSE_FAILED
+ 1364376 U PAGENUM_PRINTED
+ 1370128 U CheckPositionCoverd collaps!
+ 1378184 U Serialize collaps!
+ 1378292 U DATE
+ 1385380 U BCCheck eCode:%x.
+ 1385480 U BCCHECK_FAILED_CODE
+ 1404056 U INKSLETYPE
+ 1404080 U InkNumIndex
+ 1405128 U DPBox1
+ 1405712 U SnSetupDPBoxNO
+ 1405744 U UpgradeDPBoxNO
+ 1405796 U SensorSelDPBoxNo
+ 1405832 U PMOperateADVSelDPBoxNo
+ 1406152 U PMOperateBaseSelDPBoxNo
+ 1406896 U LOW_INK_THRESHOLD_UPVALUE
+ 1419100 U RULERNUM16
+ 1419124 U RULERNUM12
+ 1419236 U EXPDATE
+ 1420096 U comboBoxitem%d
+ 1420372 U ComboBox.ini
+ 1434520 U G_INKVALUE
+ 1435372 U CheckBarCodeType collaps!
+ 1441544 U ERR_HEAD_COMM_NO_REPLY
+ 1441616 U ERR_HEAD_COMM_IRRELEVANT_ANSWER
+ 1441696 U LESSINKBOX
+ 1441720 U NOINKBOX
+ 1447184 U CheckDevicePrintStateAbnormal collaps!
+ 1448620 U INK_EMPTY
+ 1449336 U COMMUTE_ERR_RECV_LESS_THAN_6_BIT
+ 1451348 U INK_HUNGRY
+ 1451744 U UpdateInkFirst collaps!
+ 1452368 U catch break! <<<<<<<------- PreSendPrintDataThread nTmpIndex=%d 
+ 1467060 U CHECK_PRVENT_SAME_POS
+ 1467188 U BTN_MGRFROMEDIT
+ 1472604 U BTN_CALC_UESED_INK
+ 1480016 U cp %s to %s failure
+ 1482836 U ui\ckboxCkD.bmp
+ 1482868 U ui\ckboxD.bmp
+ 1482896 U ui\CkBoxPush.bmp
+ 1482932 U ui\ckboxCk.bmp
+ 1482964 U ui\ckbox.bmp
+ 1524684 U LISTBOX
+ 1524992 U COMBOBOX
+ 1528544 U Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+ 1528824 U Software\Microsoft\Windows\CurrentVersion\Policies\Network
+ 1528976 U Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32
+ 1534872 U combobox
+ 1543492 U OwnerLink
+ 1543512 U ObjectLink
+ 1543596 U Link Source
+ 1543656 U Link Source Descriptor
+ 1930674 U InkCalc
+ 1935682 U Error Level:
+ 1939294 U Error Correction Level:
+ 1942050 U Error Level:
+ 1942102 U Version:
+ 1952286 U COMM
+ 1981858 U FileVersion
+ 1982182 U ProductVersion
+ 2277586 U No error message is available.'An unsupported operation was attempted.$A required resource was unavailable.
+ 2277832 U An unknown error has occurred.$An invalid argument was encountered.
+ 2278026 U Failed to open document.
+ 2278076 U Failed to save document.
+ 2278126 U Save changes to %1? Failed to create empty document.
+ 2278348 U Failed to launch help.
+ 2278394 U Internal application error.
+ 2278450 U Command failed.)Insufficient memory to perform operation.PSystem registry entries have been removed and the INI file (if any) was deleted.BNot all of the system registry entries (or INI file) were removed.FThis program requires the file %s, which was not found on this system.tThis program is linked to the missing export %s in the file %s. This machine may have an incompatible version of %s.
+ 2279264 U #Unable to read write-only property.#Unable to write read-only property.
+ 2279636 U Destination disk drive is full.5Unable to read from %1, it is opened by someone else.AUnable to write to %1, it is read-only or opened by someone else..An unexpected error occurred while reading %1..An unexpected error occurred while writing %1.
+ 2280808 U Please enter a GUID.
+ 2280942 U No error occurred.-An unknown error occurred while accessing %1.
+ 2281666 U Seek failed on %15A hardware I/O error was reported while accessing %1.0A sharing violation occurred while accessing %1.0A locking violation occurred while accessing %1.
+ 2282162 U No error occurred.-An unknown error occurred while accessing %1./An attempt was made to write to the reading %1..An attempt was made to access %1 past its end.0An attempt was made to read from the writing %1.
+ 2282820 U Uncheck
+ 2282836 U Check
+
+===== DARI WINDOWS\EAJet\EAJet.exe (92672) =====
+   70112 A CWinThread
+   84028 A .?AVCWinThread@@
+   84136 A .?AUCThreadData@@
+   67672 U Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+   67952 U Software\Microsoft\Windows\CurrentVersion\Policies\Network
+   68104 U Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32
+   72208 U combobox
+
+===== DARI WINDOWS\EAJet\testUpdate.exe (150016) =====
+   87972 A CWinThread
+  105892 A .?AVCWinThread@@
+  107916 A .?AUCThreadData@@
+  121962 A RFGHJCDKLL=>>88+/
+  122207 A RFTHJCDKLL)2
+  122255 A QRFTHJCDKL(/
+  122303 A OQRFGHJCDK(/
+  122399 A WNOQRFTHIJ)/
+  122596 A ;NPRF(/
+   86520 U Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+   86800 U Software\Microsoft\Windows\CurrentVersion\Policies\Network
+   86952 U Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32
+   95060 U combobox
+  140102 U FileVersion
+  140426 U ProductVersion
+  144162 U No error message is available.'An unsupported operation was attempted.$A required resource was unavailable.
+  144408 U An unknown error has occurred.$An invalid argument was encountered.
+  144602 U Failed to open document.
+  144652 U Failed to save document.
+  144702 U Save changes to %1? Failed to create empty document.
+  144924 U Failed to launch help.
+  144970 U Internal application error.
+  145026 U Command failed.)Insufficient memory to perform operation.PSystem registry entries have been removed and the INI file (if any) was deleted.BNot all of the system registry entries (or INI file) were removed.FThis program requires the file %s, which was not found on this system.tThis program is linked to the missing export %s in the file %s. This machine may have an incompatible version of %s.
+  145840 U #Unable to read write-only property.#Unable to write read-only property.
+  146212 U Destination disk drive is full.5Unable to read from %1, it is opened by someone else.AUnable to write to %1, it is read-only or opened by someone else..An unexpected error occurred while reading %1..An unexpected error occurred while writing %1.
+  147384 U Please enter a GUID.
+  147518 U No error occurred.-An unknown error occurred while accessing %1.
+  148242 U Seek failed on %15A hardware I/O error was reported while accessing %1.0A sharing violation occurred while accessing %1.0A locking violation occurred while accessing %1.
+  148738 U No error occurred.-An unknown error occurred while accessing %1./An attempt was made to write to the reading %1..An attempt was made to access %1 past its end.0An attempt was made to read from the writing %1.
+  149396 U Uncheck
+  149412 U Check
+
+===== DARI WINDOWS\PrepareWork.exe (115200) =====
+   91216 A CWinThread
+  106476 A .?AVCWinThread@@
+  106532 A .?AUCThreadData@@
+   86032 U \SDCard\Update
+   88520 U Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+   88800 U Software\Microsoft\Windows\CurrentVersion\Policies\Network
+   88952 U Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32
+   92476 U combobox
+
+===== DARI WINDOWS\EAJet\Video.dll (14336) =====
+    8926 A GetCurrentThreadId
+   11932 A <assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+   12048 A       <assemblyIdentity type="win32" name="Microsoft.VC80.CRT" version="8.0.50727.762" processorArchitecture="x86" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+   12302 A       <assemblyIdentity type="win32" name="Microsoft.VC80.MFC" version="8.0.50727.762" processorArchitecture="x86" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+   11510 U FileVersion
+   11818 U ProductVersion
+
+===== Update\uiRes.dll (1280512) =====
+   10554 A WriteClassStm
+   10590 A ReadClassStm
+  548754 A k%RF
+  561195 A B3B3B1FRF
+  590649 A BTFRFc
+  599361 A B3B3B1FRF
+  599639 A BTBRFj%
+  623147 A ZRF1B
+  625287 A BTFRF
+  625557 A BTFRF
+  630709 A BRJRFc
+  636435 A BRJRF
+  663169 A BTBRF
+  670229 A B3BTFRFc
+  672683 A B3B3B1FRF
+  689855 A B3B4BtRF(
+  765093 A B1FsRF(%$&$&$F$F(F(g(g(g(g(
+  796565 A )RFtJ
+  797873 A ZRFRF
+  798145 A ZRFRF
+  798417 A ZRF0>sN
+  879415 A 1tNRFRF
+  879647 A BTFRFc
+  882377 A B1FRF
+  882649 A B3BTFRF
+  909653 A B3BTFRF
+  915625 A B3B3BRJRFc
+  919175 A B4BRF
+  919723 A BTFRF
+  920541 A B3B3BsNRF
+  921089 A B3B3B1FRF
+  943521 A 91BRF
+  943769 A VRFk%
+  946554 A RFRJ3B3B
+  949486 A RFRFRFRFRFRFRFRFRFRFRFRFRFRF
+  950249 A B3B3BRJRFc
+  956245 A B3BTBRF
+  958165 A BRJRF
+ 1004619 A %RFtJ
+ 1042781 A )RFtJ
+ 1044089 A ZRFRF
+ 1044361 A ZRFRF
+ 1044633 A ZRF0>sN
+ 1078727 A ZRFk
+ 1079853 A )RFsN
+ 1089305 A NRFQBPB
+ 1115525 A ZRFk
+   15418 U FileVersion
+   15718 U ProductVersion
+
+===== Update\__EAJet.exe (2283520) =====
+ 1315816 A CInkCalcDialog
+ 1325996 A MANU_DATE
+ 1326072 A EEPROM_SN
+ 1326084 A AGENTS_NO
+ 1326096 A DATE_USED
+ 1326108 A DATE_LIMIT
+ 1326120 A NUM_PRINTED
+ 1326132 A INKNUM_USED
+ 1326144 A COMPNUM_PRINTED
+ 1326160 A COMPINKNUM_USED
+ 1326176 A EEPROM_SNVERI
+ 1359932 A CWaitDlgThread
+ 1428024 A CMyMessageBox
+ 1522092 A CWinThread
+ 1523896 A CComboBox
+ 1523908 A CListBox
+ 1557832 A type error in hetero_stack
+ 1578230 A BCSet_QR_Version
+ 1578372 A BCCheck
+ 1605688 A .?AVlength_error@std@@
+ 1605720 A .?AVlogic_error@std@@
+ 1802520 A .?AVCWinThread@@
+ 1802840 A .?AVCListBox@@
+ 1802864 A .?AVCComboBox@@
+ 1804352 A .?AUCThreadData@@
+ 1804596 A .?AUIDispatch@@
+ 1804804 A .?AVXEventSink@COleControlSite@@
+ 1804848 A .?AUIPropertyNotifySink@@
+ 1804916 A .?AVXPropertyNotifySink@COleControlSite@@
+ 1807832 A .?AVtype_error@?$hetero_stack@$03$00$0A@$0CA@$0A@@regex@@
+ 1898730 A RFGHJCDKLL=>>88+/
+ 1898975 A RFTHJCDKLL)2
+ 1899023 A QRFTHJCDKL(/
+ 1899071 A OQRFGHJCDK(/
+ 1899167 A WNOQRFTHIJ)/
+ 1899364 A ;NPRF(/
+ 1982765 A Linked UCC/EAN-128
+ 1982882 A 0-Error Detection Only
+ 1983099 A Reader Programming
+ 1296224 U CHICKBOX1
+ 1296244 U CHICKBOX2
+ 1296264 U CHICKBOX4
+ 1296820 U INKTYPE
+ 1296888 U CUSTOM_INK
+ 1297068 U BOX_LEN_GROUP
+ 1297096 U BOX_LEN_ENABLE
+ 1297128 U BOX_LEN
+ 1297880 U CHECK1
+ 1298804 U COM%d:
+ 1298820 U COM3:
+ 1300736 U IDC_STATIC_COMMUNICATE
+ 1300928 U LOW_INK_THRESHOLD
+ 1301936 U LOW_INK_THRESHOLD_RANGE
+ 1302892 U IDC_SOFTWAREUPDATE
+ 1302932 U IDC_HARDWAREUPDATE
+ 1303040 U IDC_BTN_SW_UPDATE
+ 1303076 U IDC_BTN_HW_UPDATE
+ 1303624 U  MyCopyThread SendUpdateARMData failed! nTotalPacks :%d,nCurPackNum:%d,nRead:%d
+ 1303784 U srcfile.Open failed
+ 1303824 U  MyCopyThread before SendUpdateARMData! nSize:%d, nTotalPacks :%d,nCurPackNum:%d,nRead:%d
+ 1305984 U COMMON
+ 1310548 U COMMU_TEST
+ 1315888 U INK_TYPE
+ 1316828 U INKCALC
+ 1318636 U COM2:
+ 1318736 U CleanInkBox=%d
+ 1326764 U EEPROM_SNVERI
+ 1326792 U COMPINKNUM_USED
+ 1326824 U COMPNUM_PRINTED
+ 1326856 U INKNUM_USED
+ 1326880 U NUM_PRINTED
+ 1326904 U DATE_LIMIT
+ 1326928 U DATE_USED
+ 1326948 U AGENTS_NO
+ 1326968 U EEPROM_SN
+ 1327104 U MANU_DATE
+ 1327460 U COMMAND
+ 1327476 U LGPRINTCOMMANDSTART
+ 1327896 U LGPRINTCOMMANDEND
+ 1328684 U Com_ReadCloseEvent
+ 1328784 U Error with InsertPage
+ 1328928 U CHECK_SET_ZERO_BY_CHANGE
+ 1331576 U SETUP_DATE_YMD
+ 1331656 U SETUP_BOX_LENGTH
+ 1332584 U %s Init Failed!
+ 1349140 U CreateMutex error: %d
+ 1349860 U SetMainBoard Failed
+ 1349984 U MainBoard StartPrint Failed
+ 1350092 U MainBoard StopPrint Failed
+ 1350196 U MainBoard SendTestCmd Failed
+ 1350652 U [%d]StartPrint failed!
+ 1350796 U StopPrint failed!
+ 1350920 U FinishPrint failed!
+ 1351052 U ClearPrintBuffer failed!
+ 1351208 U QueryRecvPrintDataReady failed!
+ 1351272 U QueryRecvPrintDataReady=%d
+ 1351388 U HeaderAttentation failed!
+ 1351544 U HeaderSelfTest failed!
+ 1351760 U SetHeaderSet failed!
+ 1351896 U FlashPrintInk failed!
+ 1351940 U FlashPrintInk=%d
+ 1352036 U CleanInkBox failed!
+ 1352136 U QueryHeaderVer failed!
+ 1352304 U GetLastExecCMD failed!
+ 1352460 U TestCmd failed!
+ 1352680 U succeed = %d,failed=%d
+ 1352728 U QueryMachineStatus failed!
+ 1353236 U OK= %d,failed=%d Echo0=%d
+ 1353352 U MainBoard Get Version cmd Failed!
+ 1353560 U MainBoard GetLastExecCmd Failed
+ 1354028 U Fail No:%d: %d ms
+ 1354304 U COMMAND_FAIL
+ 1354500 U COMMAND_ONGOING
+ 1354532 U COMMAND_SUCCESS
+ 1354564 U header[%d] SelfTest failed!
+ 1354728 U sendThreadStatus =%d
+ 1354916 U ch[%d].echo index error =%d
+ 1354972 U ch[%d].sendThreadStatus =%d
+ 1355176 U ch[%d].maxWriteFile =%.3f/min=%.3f 
+ 1355688 U ch[%d].nQuryLn=%d nReadLn=%d purgeCt=%d/ex=%d
+ 1356172 U DATE_USED = %c%c%c%c%c%c
+ 1356328 U set DATE_USED = %c%c%c%c%c%c
+ 1356520 U SetPrintInfo failed!
+ 1356708 U CH:%d,GetPrintInfo failed!
+ 1356968 U Setdeviceinfo failed!
+ 1357108 U ReInit failed!
+ 1357360 U header[%d] succeed = %d,failed=%d
+ 1357696 U HEAD_DATE_USED
+ 1357728 U *INKUSED /0 ? 
+ 1357760 U *INKUSED
+ 1358080 U PRINTER_AGENTS_NO6
+ 1358120 U PRINTER_AGENTS_NO5
+ 1358160 U PRINTER_AGENTS_NO4
+ 1358200 U PRINTER_AGENTS_NO3
+ 1358240 U PRINTER_AGENTS_NO2
+ 1358280 U PRINTER_AGENTS_NO1
+ 1358320 U PRINTER_AGENTS_NO
+ 1358368 U IC_DATE_MANUL
+ 1358472 U header[%d] OK= %d,failed=%d Echo0=%d
+ 1362744 U COM_CLOSE_FAILED
+ 1364376 U PAGENUM_PRINTED
+ 1370128 U CheckPositionCoverd collaps!
+ 1378184 U Serialize collaps!
+ 1378292 U DATE
+ 1385380 U BCCheck eCode:%x.
+ 1385480 U BCCHECK_FAILED_CODE
+ 1404056 U INKSLETYPE
+ 1404080 U InkNumIndex
+ 1405128 U DPBox1
+ 1405712 U SnSetupDPBoxNO
+ 1405744 U UpgradeDPBoxNO
+ 1405796 U SensorSelDPBoxNo
+ 1405832 U PMOperateADVSelDPBoxNo
+ 1406152 U PMOperateBaseSelDPBoxNo
+ 1406896 U LOW_INK_THRESHOLD_UPVALUE
+ 1419100 U RULERNUM16
+ 1419124 U RULERNUM12
+ 1419236 U EXPDATE
+ 1420096 U comboBoxitem%d
+ 1420372 U ComboBox.ini
+ 1434520 U G_INKVALUE
+ 1435372 U CheckBarCodeType collaps!
+ 1441544 U ERR_HEAD_COMM_NO_REPLY
+ 1441616 U ERR_HEAD_COMM_IRRELEVANT_ANSWER
+ 1441696 U LESSINKBOX
+ 1441720 U NOINKBOX
+ 1447184 U CheckDevicePrintStateAbnormal collaps!
+ 1448620 U INK_EMPTY
+ 1449336 U COMMUTE_ERR_RECV_LESS_THAN_6_BIT
+ 1451348 U INK_HUNGRY
+ 1451744 U UpdateInkFirst collaps!
+ 1452368 U catch break! <<<<<<<------- PreSendPrintDataThread nTmpIndex=%d 
+ 1467060 U CHECK_PRVENT_SAME_POS
+ 1467188 U BTN_MGRFROMEDIT
+ 1472604 U BTN_CALC_UESED_INK
+ 1480016 U cp %s to %s failure
+ 1482836 U ui\ckboxCkD.bmp
+ 1482868 U ui\ckboxD.bmp
+ 1482896 U ui\CkBoxPush.bmp
+ 1482932 U ui\ckboxCk.bmp
+ 1482964 U ui\ckbox.bmp
+ 1524684 U LISTBOX
+ 1524992 U COMBOBOX
+ 1528544 U Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+ 1528824 U Software\Microsoft\Windows\CurrentVersion\Policies\Network
+ 1528976 U Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32
+ 1534872 U combobox
+ 1543492 U OwnerLink
+ 1543512 U ObjectLink
+ 1543596 U Link Source
+ 1543656 U Link Source Descriptor
+ 1930674 U InkCalc
+ 1935682 U Error Level:
+ 1939294 U Error Correction Level:
+ 1942050 U Error Level:
+ 1942102 U Version:
+ 1952286 U COMM
+ 1981858 U FileVersion
+ 1982182 U ProductVersion
+ 2277586 U No error message is available.'An unsupported operation was attempted.$A required resource was unavailable.
+ 2277832 U An unknown error has occurred.$An invalid argument was encountered.
+ 2278026 U Failed to open document.
+ 2278076 U Failed to save document.
+ 2278126 U Save changes to %1? Failed to create empty document.
+ 2278348 U Failed to launch help.
+ 2278394 U Internal application error.
+ 2278450 U Command failed.)Insufficient memory to perform operation.PSystem registry entries have been removed and the INI file (if any) was deleted.BNot all of the system registry entries (or INI file) were removed.FThis program requires the file %s, which was not found on this system.tThis program is linked to the missing export %s in the file %s. This machine may have an incompatible version of %s.
+ 2279264 U #Unable to read write-only property.#Unable to write read-only property.
+ 2279636 U Destination disk drive is full.5Unable to read from %1, it is opened by someone else.AUnable to write to %1, it is read-only or opened by someone else..An unexpected error occurred while reading %1..An unexpected error occurred while writing %1.
+ 2280808 U Please enter a GUID.
+ 2280942 U No error occurred.-An unknown error occurred while accessing %1.
+ 2281666 U Seek failed on %15A hardware I/O error was reported while accessing %1.0A sharing violation occurred while accessing %1.0A locking violation occurred while accessing %1.
+ 2282162 U No error occurred.-An unknown error occurred while accessing %1./An attempt was made to write to the reading %1..An attempt was made to access %1 past its end.0An attempt was made to read from the writing %1.
+ 2282820 U Uncheck
+ 2282836 U Check

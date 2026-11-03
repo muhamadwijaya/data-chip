@@ -1,0 +1,4 @@
+hf 14a apdu -skt -d 00A40000023F00
+hf 14a apdu -kt -d 00A40000023F01
+hf 14a apdu -kt -d 00A40000020004
+hf 14a apdu -kt -d 00B0000030

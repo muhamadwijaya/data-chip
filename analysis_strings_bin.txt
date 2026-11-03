@@ -1,0 +1,51 @@
+== DARI WINDOWS\ceconfig.h (19472)
+  INK@11241: OOLTIPS 1..#define COMMCTRL_FE 1..#define COMMCTRL_ANIMATE 1..#define COMMCTRL_LINK 1..#define COMMCTRL_SHAPIS 1..#define NOTIFY_NOTIFPUB 1..#define NOTIFY_NOTIFUI 1..#define WINSOCK_SSLSOCK 1..#defin
+  IC@1439: ne CE_MODULES_HTTPLITE 1..#define CE_MODULES_ASYNCMAC 1..#define CE_MODULES_SERVICESFILTER 1..#define CE_MODULES_SERVICESSTART 1..#define CE_MODULES_SERVICESENUM 1..#define CE_MODULES_SERVICES 1..#def
+== DARI WINDOWS\DWCEImeR.dll (493056)
+  IC@430800: .....................?AUIUnknown@@...........?AVMyClassFactory@@.............?AUIClassFactory@@..........?AUIInputMethod@@...........?AVMyIInputMethod@@..........$.. ........$.. ..d....O...........?AV
+== DARI WINDOWS\DWCEImeR.ini (3848)
+  IC@1351: B_CHARSET           130..;; #define HEBREW_CHARSET          177..;; #define ARABIC_CHARSET          178..;; #define GREEK_CHARSET           161..;; #define TURKISH_CHARSET         162..;; #define VIET
+== DARI WINDOWS\dwkorean.bin (178179)
+  M1@178149: G1.!...f91.!...gN1.!...hW1.!...jS1.!...kO1.!...lc1.!...zK1.!...xL1.!...cJ1.!...vM1.!...b`1.!...n\1.!...ma1spl.
+== DARI WINDOWS\dwzhuyin.bin (2195952)
+  Card@1215821: ifLd}v.s...F.a.xBcKCd...o..F.a.nBOzCdlQ-...F.a.bjvrjd.Ub...G.q.BjdvrOf,..T.E.Q.eCardn.=....E.Q.rfBtd.yMO...G.q.yrOcLjd..X..F.a.edyrjd..Ik..E.Q.AjLjd.Sb....E.Q.vjfLf;.Z....F.a.bidzNd.N.U..E.Q.vhbCg.Z.v
+  card@1062854: cnEc.S/n..G.q.JBOfJBd..eQ.E.Q.zBKBO.u.....F.a.eudHjd...d..G.q.KBjdGCg.{.N.F.a.zNcardKb....G.q.orudGrd.v.R.F.a.zNcatdKb....F.a.FjdzNd...U..F.a.phbrjc.]....F.a.KdvrDd.[.^..F.a.FBdnid......E.Q.IrHBf.nVn.
+  M1@1577842: dnBsd..N..H ..Grjfbrjdo...F.a.Irhdqd.N....F.a.HBumNf.f-...E.Q.FEdFO>e.....C.1.zLM1Y.}.G.q.lrdorOd.P\..F.a.wrMpOfOc.b..E.Q.rdbrd.f0W...E.Q.efbCf.v._...G.q.rEcIrOd..'`.F.a.zjdLOd.d(u..G.q.eBjdmNg..-..E.
+== DARI WINDOWS\mxip_system.vol (139264)
+  ink@72653: .f.o.V.a.l.i.d................0X...................<@:...R...R.@.RP..R0..*RadioLinkInfoAckTimer.................................0..P...................4@3...R...R.@.RP..R0.. RadioLinkInfoIwsl.........
+  IC@39279: Yr..bg.NT.NN..0..\.......s...........@@>...R...R...R0@.RP .,TAPI_NETWORK_AUTOMATICx........ ..............?.......0......P.......t...........8.8...........R.$.N.e.t.w.o.r.k. .s.e.l.e.c.t.i.o.n.:.I...Q
+== DARI WINDOWS\EAJet\DWCEImeR.ini (3718)
+  IC@1351: B_CHARSET           130..;; #define HEBREW_CHARSET          177..;; #define ARABIC_CHARSET          178..;; #define GREEK_CHARSET           161..;; #define TURKISH_CHARSET         162..;; #define VIET
+== DARI WINDOWS\EAJet\MFC80U.DLL (784544)
+  ink@552005: .%|h"%|.=&|.<&|$.*|..'|0.&|..&|t.%|h"%|.%&|.7&|$.*|.;&|.<&|$.*|$.*|...|H.,|CDynLinkLibrary.@.-|@.............(|........M.F.C.8.0.%.s...D.L.L.......X..|p.,|..,|h"%|h"%|..(|X.(|.7&|$.*|$.*|$.*|..(|(.(|4
+  IC@654360: XClassFactory@COleObjectFactory@@.....,|.....?AVCOleObjectFactory@@...,|.....?AUIClassFactory2@@......,|.....?AUIClassFactory@@...,|.....?AVCOleException@@...,|.....?AVCOleStreamFile@@......,|.....?AV
+== DARI WINDOWS\EAJet\MFCCE400.DLL (432128)
+  INK@350362: DISPMAP@@B.?dwStyleDefault@CEditView@@2KB.?eventsinkMap@CCmdTarget@@1UAFX_EVENTSINKMAP@@B.?g_bUseDST@@3HA.?interfaceMap@CCmdTarget@@1UAFX_INTERFACEMAP@@B.?messageMap@CCmdTarget@@1UAFX_MSGMAP@@B.?messa
+  ink@346222: te@@2UCRuntimeClass@@B.?classCDocument@CDocument@@2UCRuntimeClass@@B.?classCDynLinkLibrary@CDynLinkLibrary@@2UCRuntimeClass@@B.?classCEdit@CEdit@@2UCRuntimeClass@@B.?classCEditView@CEditView@@2UCRunti
+== DARI WINDOWS\EAJet\OLECE400.DLL (282624)
+  ink@246081: or.OleDestroyMenuDescriptor....GetRunningObjectTable...WriteClassStg...OleQueryLinkFromData....CoRegisterMessageFilter.CoCreateInstance....CreateBindCtx...StringFromCLSID.CoDisconnectObject..OleRegEnu
+== DARI WINDOWS\EAJet\TBarCode11.dll (594944)
+  Check@480908: cCD.BCCalcCDExtA.BCCalcCDExtW.BCCalcStructApp_ParityA.BCCalcStructApp_ParityW.BCCheck.BCClone.BCCreate.BCDeInit.BCDetach.BCDraw.BCDrawCB.BCFree.BCGet2DCompositeComponent.BCGet2D_XCols.BCGet2D_XRows.BC
+  check@466442: ......Invalid number of input characters in combination with Composite....Wrong check digit...Credit Card (wrong number)..Credit Card (exact 16 digits)...System Error Code: %08lx....Invalid base numbe
+  Card@466463: of input characters in combination with Composite....Wrong check digit...Credit Card (wrong number)..Credit Card (exact 16 digits)...System Error Code: %08lx....Invalid base number.BCCreate must be ca
+  M1@454565: 31) 141 x 141..(32) 145 x 145..(33) 149 x 149..(34) 153 x 153..(35) 157 x 157..(M1) 11 x 11....(M2) 13 x 13....(M3) 15 x 15....(M4) 17 x 17..........rN.....{Q/........=........:E.....ahdaa...aabbeada.
+  IC@460062: de....DotCode.~RESERVED~..PZN8....QR-Code 2005....HIBC PAS Codablock-F....HIBC LIC Codablock-F....HIBC PAS Micro PDF417...HIBC LIC Micro PDF417...HIBC PAS PDF417.HIBC LIC PDF417.HIBC PAS QR-Code....HI
+  reader@454753: ...aabbeada....aaaaa...Aa..aA..aaaaaaaaaaA.aaaaaaaaaAaaa...Aztec Rune..27  x 27 reader.23  x 23 reader.19  x 19 reader.151 x 151...147 x 147...143 x 143...139 x 139...135 x 135...131 x 131...125 x 125
+== DARI WINDOWS\EAJet\TBarCode9.dll (491520)
+  Check@402995: cCD.BCCalcCDExtA.BCCalcCDExtW.BCCalcStructApp_ParityA.BCCalcStructApp_ParityW.BCCheck.BCCreate.BCDeInit.BCDetach.BCDraw.BCDrawCB.BCFree.BCGet2DCompositeComponent.BCGet2D_XCols.BCGet2D_XRows.BCGetAutoC
+  check@391218: ......Invalid number of input characters in combination with Composite....Wrong check digit...System Error Code: %08lx....External library is missing.Not implemented (reserved for future use)...Barcod
+  M1@380333: 31) 141 x 141..(32) 145 x 145..(33) 149 x 149..(34) 153 x 153..(35) 157 x 157..(M1) 11 x 11....(M2) 13 x 13....(M3) 15 x 15....(M4) 17 x 17.........0... ... ... ... .......0... ... ... ... ...........
+  IC@383778: .......0... ... ... ... .......0... ... ... ... ..HIBC PAS Codablock-F....HIBC LIC Codablock-F....HIBC PAS MicroPDF417....HIBC LIC MicroPDF417....HIBC PAS PDF417.HIBC LIC PDF417.HIBC PAS QR-Code....HI
+  reader@381033: 002....1112....2221....3002....13.......0... ... ... ... ..Aztec Rune..27  x 27 reader.23  x 23 reader.19  x 19 reader.151 x 151...147 x 147...143 x 143...139 x 139...135 x 135...131 x 131...125 x 125
+== DARI WINDOWS\EAJet\uiRes.dll (1280512)
+  Smart@10241: .L.o.a.d.F.r.o.m.S.t.r.e.a.m..................FRSDS?..9..V@......r.....e:\Wince\SmartJet\bin\binCE\uiRes.pdb.......L...X...p...\...........\.......`............6.......... 7..\@...6..........,7...@...
+== DARI WINDOWS\EAJet\__EAJet.exe (2283520)
+  Ink@1315817: ...T!..........s...s...4...............s...s...4...............................CInkCalcDialog...#..(............1..........N.O.T.E.....L.B._.D.P.I.....I.N.K._.T.Y.P.E.....P.R.I.C.E...F.I.N.A.L._.C.O.S
+  INK@1326132: ....INF_RESERVED2...EEPROM_SN...AGENTS_NO...DATE_USED...DATE_LIMIT..NUM_PRINTED.INKNUM_USED.COMPNUM_PRINTED.COMPINKNUM_USED.EEPROM_SNVERI...INF_RESERVED4...!!!!....????........T..."........L..........
+  ink@1804815: eControlSite@@............?AVXAmbientProps@COleControlSite@@..........?AVXEventSink@COleControlSite@@.............?AUIPropertyNotifySink@@............?AVCOleControlSite@@............?AVXPropertyNotify
+  Check@1578374: omDC..B.BCSetDPI..m.BCSetRotation.-.BCGetBarcodeHeight....BCGet_PDF417_Rows...BCCheck...BCCreate..p.BCSetTextAlignment..Z.BCSetLogFont..9.BCSetCDMethod.&.BCSet2DCompositeComponent.).BCSetBCType.l.BCSe
+  IC@55224: .!........-...K.YC........-...K.UC........-.5.K.QC........-...K.MC........-...K.IC......p...............p........(......0@-..@...P..............G.......0................X-.......M..@..4!..,...(.K.....
+  Reader@1983099: .........UCC/EAN/GS1.........Industry.........Macro 05.........Macro 06.........Reader Programming.}.......Default.}.......10*10.}.......12*12.}.......14*14.}.......16*16.}.......18*18.}.......20*20.}
+  smart@1807454: ?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@detail@regex@@..............?AU?$smart_iter@V?$_String_const_iterator@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@detail@regex@@..............?AV?$
+== DARI WINDOWS\EAJet\UI\ADDT\Thumbs.db (45056)
+  IC@10028: ......t.$.k......d..]g......d[X[.s3.U.@.....F.......Zd....H..rA.*...h%.....C.i..IC>..X}.#z..(.f.7%.b...5...VnF....=....8HA...Mt!H.K....5:^W>.n;..K.y_...;...).R.....:...q.Y....7R.....a.G.......>......)

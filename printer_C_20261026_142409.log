@@ -1,0 +1,63 @@
+[=] Session log O:/tij gt 1000/.proxmark3/logs/log_20261026072409.txt
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] execute command from commandline: hf 14a simaid -t 4 -u FE7EA17E --ats 107880900220900000000000FE7EA17E --aid 45414A4554 --selectaid_response 9e9f9ebfbfbfd81765f0bdfdbd529e979f971f1f9e8f0f96bfbfbfbf9e8fbfbf0f96bfbf1f96bfbf9fbfbfbf1e8fbfbf979ebfbf9e171f969e971ebfbfbfbfbf1f97bfbf1e1e979f97979f8fb5359bce13869f5716928b292a35ca81c3915348a442dca99e9f1e9f9e961f9f9f9f9f9e0f0f0f9f0f9f961f0f8f17161617179f9e9eed0fdded2da43d0f2ded0f1f17749eed74eda4a49e9e9e17bfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfa1a633333430343430381800323033303236323531363234332020202020757dd805 --getdata_response 3368d89983278d9f75f0e5d3b70f83877b01ed14f70f1226499e317af4a78f9f40824dba44a820185e327b973368d89983278d9f75f0e5d3b70f83877b01ed14f70f1226499e317af4a78f9f40824dba44a820187a4854ff
+
+[+] Using UART port COM11
+[+] Communicating with PM3 over USB-CDC
+[+] Max frame size: 624 bytes
+[+] Emulator memory: 8192 bytes
+[usb|script] pm3 --> hf 14a simaid -t 4 -u FE7EA17E --ats 107880900220900000000000FE7EA17E --aid 45414A4554 --selectaid_response 9e9f9ebfbfbfd81765f0bdfdbd529e979f971f1f9e8f0f96bfbfbfbf9e8fbfbf0f96bfbf1f96bfbf9fbfbfbf1e8fbfbf979ebfbf9e171f969e971ebfbfbfbfbf1f97bfbf1e1e979f97979f8fb5359bce13869f5716928b292a35ca81c3915348a442dca99e9f1e9f9e961f9f9f9f9f9e0f0f0f9f0f9f961f0f8f17161617179f9e9eed0fdded2da43d0f2ded0f1f17749eed74eda4a49e9e9e17bfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfa1a633333430343430381800323033303236323531363234332020202020757dd805 --getdata_response 3368d89983278d9f75f0e5d3b70f83877b01ed14f70f1226499e317af4a78f9f40824dba44a820185e327b973368d89983278d9f75f0e5d3b70f83877b01ed14f70f1226499e317af4a78f9f40824dba44a820187a4854ff
+[+] Emulating ISO/IEC 14443 type A tag with 4 byte UID (FE 7E A1 7E )
+[=] Press pm3 button to abort simulation
+[#] EAJet RF WUPA
+[#] EAJet RF ANTICOLL 93
+[#] EAJet RF SELECT 93
+[#] EAJet RATS
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 20 00 01 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0004 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0004 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0004 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0004 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0005 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0005 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0005 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0005 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD 7F8483E7
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD 7F8483E7
+
+[!] Communicating with Proxmark3 device failed
+
+# 2026-10-26 14:24:09
+# port=COM11 debug=False
+# cmd=hf 14a simaid -t 4 -u FE7EA17E --ats 107880900220900000000000FE7EA17E --aid 45414A4554 --selectaid_response 9e9f9ebfbfbfd81765f0bdfdbd529e979f971f1f9e8f0f96bfbfbfbf9e8fbfbf0f96bfbf1f96bfbf9fbfbfbf1e8fbfbf979ebfbf9e171f969e971ebfbfbfbfbf1f97bfbf1e1e979f97979f8fb5359bce13869f5716928b292a35ca81c3915348a442dca99e9f1e9f9e961f9f9f9f9f9e0f0f0f9f0f9f961f0f8f17161617179f9e9eed0fdded2da43d0f2ded0f1f17749eed74eda4a49e9e9e17bfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfa1a633333430343430381800323033303236323531363234332020202020757dd805 --getdata_response 3368d89983278d9f75f0e5d3b70f83877b01ed14f70f1226499e317af4a78f9f40824dba44a820185e327b973368d89983278d9f75f0e5d3b70f83877b01ed14f70f1226499e317af4a78f9f40824dba44a820187a4854ff
+
+
+# [timeout, client dihentikan]
