@@ -1,0 +1,2039 @@
+[=] Session log O:/tij gt 1000/.proxmark3/logs/log_20261027093906.txt
+[=] pm3dir...... resources/
+[=] Searching... O:/tij gt 1000/.proxmark3/preferences.json
+[#] Searching implicit relative paths
+[=] Found O:/tij gt 1000/.proxmark3/preferences.json
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] execute command from commandline: hf 14a simaid -t 4 -u FE7EA17E --ats 107880900220900000000000FE7EA17E --aid 45414A4554 --selectaid_response 9e9f9ebfbfbfd81765f0bdfdbd529e979f971f1f9e8f0f96bfbfbfbf9e8fbfbf0f96bfbf1f96bfbf9fbfbfbf1e8fbfbf979ebfbf9e9f8f97170f1f16bfbfbfbf1f8fbfbf1e1e979f97979f8fb5359bce13869f5716928b292a35ca81c3915348a442dca99e9f1e9f9e961f9f9f9f9f9e0f0f0f9f0f9f961f0f8f17161617179f9e9eed0fdded2da43d0f2ded0f1f17749eed74eda4a49e9e9e17bfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbf672633333430343430381800323033303236323038343539313720202020757df505 --getdata_response 3368d89983278d9f75f0e5d3b70f83877b01ed14f70f12a3509a3da2d48a8f9f40824dda44a86818cda9f6663368d89983278d9f75f0e5d3b70f83877b01ed14f70f12a3509a3da2d48a8f9f40824dda44a86818f6706da004
+
+[+] Using UART port COM11
+[#] Emulator stopped. Trace length: 25676 
+[+] Communicating with PM3 over USB-CDC
+[+] Max frame size: 624 bytes
+[+] Emulator memory: 8192 bytes
+[usb|script] pm3 --> hf 14a simaid -t 4 -u FE7EA17E --ats 107880900220900000000000FE7EA17E --aid 45414A4554 --selectaid_response 9e9f9ebfbfbfd81765f0bdfdbd529e979f971f1f9e8f0f96bfbfbfbf9e8fbfbf0f96bfbf1f96bfbf9fbfbfbf1e8fbfbf979ebfbf9e9f8f97170f1f16bfbfbfbf1f8fbfbf1e1e979f97979f8fb5359bce13869f5716928b292a35ca81c3915348a442dca99e9f1e9f9e961f9f9f9f9f9e0f0f0f9f0f9f961f0f8f17161617179f9e9eed0fdded2da43d0f2ded0f1f17749eed74eda4a49e9e9e17bfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbf672633333430343430381800323033303236323038343539313720202020757df505 --getdata_response 3368d89983278d9f75f0e5d3b70f83877b01ed14f70f12a3509a3da2d48a8f9f40824dda44a86818cda9f6663368d89983278d9f75f0e5d3b70f83877b01ed14f70f12a3509a3da2d48a8f9f40824dda44a86818f6706da004
+[+] Emulating ISO/IEC 14443 type A tag with 4 byte UID (FE 7E A1 7E )
+[=] Press pm3 button to abort simulation
+[#] EAJet MODE 4
+[#] EAJet RF WUPA
+[#] EAJet RF ANTICOLL 93
+[#] EAJet RF SELECT 93
+[#] EAJet RATS
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F01
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F01 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 20 00 01 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0004
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0004 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0004 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0004 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0004 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0005
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0005 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0005 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0005 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0005 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0007
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0007 set=E ch=41A9AEFB
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0007 cmd=E3863F54
+[#] EAJet SECREAD resp file=0007 set=E mac=F6706DA0
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F0F
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F0F set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 04 len=13
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F0F set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 0C len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0003
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0003 off=0000 le=32
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 001D
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=001D off=0000 le=32
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F01
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F01 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 20 00 01 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0004
+[#] EAJet APDU 00 D6 00 00 len=45
+[#] EAJet APDU 00 D6 00 28 len=45
+[#] EAJet APDU 00 D6 00 50 len=45
+[#] EAJet APDU 00 D6 00 78 len=45
+[#] EAJet APDU 00 D6 00 A0 len=33
+[#] EAJet WR4 end tail=E626 found=-1 mode=4
+[#] EAJet WR4 stored unknown (mode=4)
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0004 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0004 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0004 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0004 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0005
+[#] EAJet APDU 00 D6 00 00 len=45
+[#] EAJet APDU 00 D6 00 28 len=45
+[#] EAJet APDU 00 D6 00 50 len=45
+[#] EAJet APDU 00 D6 00 78 len=45
+[#] EAJet APDU 00 D6 00 A0 len=33
+[#] EAJet WR4 end tail=E626 found=-1 mode=4
+[#] EAJet WR4 stored unknown (mode=4)
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0005 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0005 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0005 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0005 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A3509A3DA2D48A8F9F40824DE244A8A818
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A3509A3DA2D48A8F9F40824DE244A8A818
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A3509A3DA2D48A8F9F40824DE244A8A818
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A3509A3DA2D48A8F9F40824DE244A8A818
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A3509A3DA2D48A8F9F40824DE244A8A818
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A3509A3DA2D48A8F9F40824DE244A8A818
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A3509A3DA2D48A8F9F40824DE244A8A818
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A3509A3DA2D48A8F9F40824DE244A8A818
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A3509A3DA2D48A8F9F40824DE244A8A818
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A3509A3DA2D48A8F9F40824DE244A8A818
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F01
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F01 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 20 00 01 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0004
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0004 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0004 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0004 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0004 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0005
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0005 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0005 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0005 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0005 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0007
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0007 set=E ch=41A9AEFB
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0007 cmd=E3863F54
+[#] EAJet SECREAD resp file=0007 set=E mac=F6706DA0
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F0F
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F0F set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 04 len=13
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F0F set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 0C len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0003
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0003 off=0000 le=32
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 001D
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=001D off=0000 le=32
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F01
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F01 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 20 00 01 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0004
+[#] EAJet APDU 00 D6 00 00 len=45
+[#] EAJet APDU 00 D6 00 28 len=45
+[#] EAJet APDU 00 D6 00 50 len=45
+[#] EAJet APDU 00 D6 00 78 len=45
+[#] EAJet APDU 00 D6 00 A0 len=33
+[#] EAJet WR4 end tail=FE26 found=-1 mode=4
+[#] EAJet WR4 stored unknown (mode=4)
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0004 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0004 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0004 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0004 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0005
+[#] EAJet APDU 00 D6 00 00 len=45
+[#] EAJet APDU 00 D6 00 28 len=45
+[#] EAJet APDU 00 D6 00 50 len=45
+[#] EAJet APDU 00 D6 00 78 len=45
+[#] EAJet APDU 00 D6 00 A0 len=33
+[#] EAJet WR4 end tail=FE26 found=-1 mode=4
+[#] EAJet WR4 stored unknown (mode=4)
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0005 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0005 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0005 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0005 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DDA44A8A518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DDA44A8A518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DDA44A8A518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DDA44A8A518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DDA44A8A518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DDA44A8A518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DDA44A8A518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DDA44A8A518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DDA44A8A518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DDA44A8A518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F01
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F01 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 20 00 01 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0004
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0004 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0004 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0004 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0004 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0005
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0005 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0005 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0005 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0005 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0007
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0007 set=E ch=41A9AEFB
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0007 cmd=E3863F54
+[#] EAJet SECREAD resp file=0007 set=E mac=F6706DA0
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F0F
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F0F set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 14 len=13
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F0F set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 0C len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0003
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0003 off=0000 le=32
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 001D
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=001D off=0000 le=32
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F01
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F01 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 20 00 01 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0004
+[#] EAJet APDU 00 D6 00 00 len=45
+[#] EAJet APDU 00 D6 00 28 len=45
+[#] EAJet APDU 00 D6 00 50 len=45
+[#] EAJet APDU 00 D6 00 78 len=45
+[#] EAJet APDU 00 D6 00 A0 len=33
+[#] EAJet WR4 end tail=7E26 found=-1 mode=4
+[#] EAJet WR4 stored unknown (mode=4)
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0004 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0004 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0004 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0004 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0005
+[#] EAJet APDU 00 D6 00 00 len=45
+[#] EAJet APDU 00 D6 00 28 len=45
+[#] EAJet APDU 00 D6 00 50 len=45
+[#] EAJet APDU 00 D6 00 78 len=45
+[#] EAJet APDU 00 D6 00 A0 len=33
+[#] EAJet WR4 end tail=7E26 found=-1 mode=4
+[#] EAJet WR4 stored unknown (mode=4)
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0005 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0005 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0005 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0005 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F01
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F01 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 20 00 01 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0004
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0004 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0004 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0004 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0004 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0005
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0005 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0005 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0005 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0005 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0007
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0007 set=E ch=41A9AEFB
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0007 cmd=E3863F54
+[#] EAJet SECREAD resp file=0007 set=E mac=F6706DA0
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F0F
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F0F set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 14 len=13
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F0F set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 0C len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0003
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0003 off=0000 le=32
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 001D
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=001D off=0000 le=32
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F01
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F01 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 20 00 01 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0004
+[#] EAJet APDU 00 D6 00 00 len=45
+[#] EAJet APDU 00 D6 00 28 len=45
+[#] EAJet APDU 00 D6 00 50 len=45
+[#] EAJet APDU 00 D6 00 78 len=45
+[#] EAJet APDU 00 D6 00 A0 len=33
+[#] EAJet WR4 end tail=7E26 found=-1 mode=4
+[#] EAJet WR4 stored unknown (mode=4)
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0004 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0004 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0004 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0004 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0005
+[#] EAJet APDU 00 D6 00 00 len=45
+[#] EAJet APDU 00 D6 00 28 len=45
+[#] EAJet APDU 00 D6 00 50 len=45
+[#] EAJet APDU 00 D6 00 78 len=45
+[#] EAJet APDU 00 D6 00 A0 len=33
+[#] EAJet WR4 end tail=7E26 found=-1 mode=4
+[#] EAJet WR4 stored unknown (mode=4)
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0005 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0005 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0005 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0005 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F01
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F01 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 20 00 01 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0004
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0004 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0004 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0004 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0004 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0005
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0005 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0005 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0005 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0005 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0007
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0007 set=E ch=41A9AEFB
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0007 cmd=E3863F54
+[#] EAJet SECREAD resp file=0007 set=E mac=F6706DA0
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F0F
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F0F set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 14 len=13
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F0F set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 0C len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0003
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0003 off=0000 le=32
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 001D
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=001D off=0000 le=32
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F01
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F01 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 20 00 01 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0004
+[#] EAJet APDU 00 D6 00 00 len=45
+[#] EAJet APDU 00 D6 00 28 len=45
+[#] EAJet APDU 00 D6 00 50 len=45
+[#] EAJet APDU 00 D6 00 78 len=45
+[#] EAJet APDU 00 D6 00 A0 len=33
+[#] EAJet WR4 end tail=7E26 found=-1 mode=4
+[#] EAJet WR4 stored unknown (mode=4)
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0004 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0004 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0004 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0004 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0005
+[#] EAJet APDU 00 D6 00 00 len=45
+[#] EAJet APDU 00 D6 00 28 len=45
+[#] EAJet APDU 00 D6 00 50 len=45
+[#] EAJet APDU 00 D6 00 78 len=45
+[#] EAJet APDU 00 D6 00 A0 len=33
+[#] EAJet WR4 end tail=7E26 found=-1 mode=4
+[#] EAJet WR4 stored unknown (mode=4)
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0005 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0005 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0005 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0005 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F00 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 00 len=29
+[#] EAJet SECUPD file=0006 off=0000 n=20 found=-1 set=E mode=4 data=3368D89983278D9F75F0E5D3B70F83877B01ED14
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 D6 00 14 len=29
+[#] EAJet SECUPD ignored unknown (mode=4)
+[#] EAJet SECUPD file=0006 off=0014 n=20 found=-1 set=E mode=4 data=F70F12A4499E397AE42A8F9F40824DE244A8E518
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F01
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F01 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 20 00 01 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0004
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0004 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0004 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0004 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0004 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0005
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0005 off=0000 le=48
+[#] EAJet APDU 00 B0 00 30 len=5
+[#] EAJet READ file=0005 off=0030 le=48
+[#] EAJet APDU 00 B0 00 60 len=5
+[#] EAJet READ file=0005 off=0060 le=48
+[#] EAJet APDU 00 B0 00 90 len=5
+[#] EAJet READ file=0005 off=0090 le=44
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F02
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F02 set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 00 len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0006
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0006 set=E ch=5CE27F48
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0006 cmd=AF2F1BFE
+[#] EAJet SECREAD resp file=0006 set=E mac=CDA9F666
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0007
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=0007 set=E ch=41A9AEFB
+[#] EAJet APDU 04 B0 00 00 len=10
+[#] EAJet SECREAD file=0007 cmd=E3863F54
+[#] EAJet SECREAD resp file=0007 set=E mac=F6706DA0
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F00
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 3F0F
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F0F set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 14 len=13
+[#] EAJet APDU 00 84 00 00 len=5
+[#] EAJet GC file=3F0F set=E ch=F26A574A
+[#] EAJet APDU 00 82 00 0C len=13
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 0003
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=0003 off=0000 le=32
+[#] EAJet APDU 00 A4 00 00 len=7
+[#] EAJet SEL 001D
+[#] EAJet APDU 00 B0 00 00 len=5
+[#] EAJet READ file=001D off=0000 le=32
+# 2026-10-27 16:39:06
+# port=COM11 debug=True
+# cmd=hf 14a simaid -t 4 -u FE7EA17E --ats 107880900220900000000000FE7EA17E --aid 45414A4554 --selectaid_response 9e9f9ebfbfbfd81765f0bdfdbd529e979f971f1f9e8f0f96bfbfbfbf9e8fbfbf0f96bfbf1f96bfbf9fbfbfbf1e8fbfbf979ebfbf9e9f8f97170f1f16bfbfbfbf1f8fbfbf1e1e979f97979f8fb5359bce13869f5716928b292a35ca81c3915348a442dca99e9f1e9f9e961f9f9f9f9f9e0f0f0f9f0f9f961f0f8f17161617179f9e9eed0fdded2da43d0f2ded0f1f17749eed74eda4a49e9e9e17bfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbfbf672633333430343430381800323033303236323038343539313720202020757df505 --getdata_response 3368d89983278d9f75f0e5d3b70f83877b01ed14f70f12a3509a3da2d48a8f9f40824dda44a86818cda9f6663368d89983278d9f75f0e5d3b70f83877b01ed14f70f12a3509a3da2d48a8f9f40824dda44a86818f6706da004
+
+
+# [timeout, client dihentikan]

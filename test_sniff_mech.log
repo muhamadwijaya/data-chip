@@ -1,0 +1,31 @@
+[=] Session log O:/tij gt 1000/.proxmark3/logs/log_20261027091029.txt
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] Using UART port COM11
+[#] trace len = 11235
+[+] Communicating with PM3 over USB-CDC
+[+] Max frame size: 624 bytes
+[+] Emulator memory: 8192 bytes
+[usb|script] pm3 --> hf 14a sniff -r -c
+[=] Press pm3 button to abort sniffing
+[usb|script] pm3 --> hw ping
+[=] Ping sent with payload len... 32
+[#] trace len = 77
+[+] Ping response received in 19 ms and content ( ok )
+[usb|script] pm3 --> hf 14a list
+[+] Recorded activity ( 77 bytes )
+[=] start = start of start frame. end = end of frame. src = source of transfer.
+[=] ISO14443A - all times are in carrier periods (1/13.56MHz)
+
+      Start |        End | Src | Data (! denotes parity error)                                           | CRC | Annotation
+------------+------------+-----+-------------------------------------------------------------------------+-----+--------------------
+          0 |       2368 | Tag |04  00                                                                   |     | 
+      10924 |      13388 | Rdr |93  20                                                                   |     | ANTICOLL
+      14576 |      20400 | Tag |FE  7E  A1  7E  5F                                                       |     | 
+      48624 |      52144 | Tag |28 [B4  FC]                                                              |  ok | 
+     106976 |     127776 | Tag |10  78  80  90  02  20  90  00  00  00  00  00  FE  7E  A1  7E [0F  22]  |  ok | 
+[usb|script] pm3 --> trace save -f O:\tij gt 1000\traces\test_sniff_mech
+trace save: unexpected argument "gt"
+trace save: unexpected argument "1000\traces\test_sniff_mech"
+[!] Try 'trace save --help' for more information.
+
+[usb|script] pm3 --> quit

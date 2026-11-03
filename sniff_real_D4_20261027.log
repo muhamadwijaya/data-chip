@@ -1,0 +1,75 @@
+[=] Session log O:/tij gt 1000/.proxmark3/logs/log_20261027091246.txt
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] Using UART port COM11
+[+] Communicating with PM3 over USB-CDC
+[+] Max frame size: 624 bytes
+[+] Emulator memory: 8192 bytes
+[usb|script] pm3 --> hf 14a sniff -r -c
+[=] Press pm3 button to abort sniffing
+[usb|script] pm3 --> hw ping
+[=] Ping sent with payload len... 32
+[#] trace len = 849
+[+] Ping response received in 45 ms and content ( ok )
+[usb|script] pm3 --> hf 14a list
+[+] Recorded activity ( 849 bytes )
+[=] start = start of start frame. end = end of frame. src = source of transfer.
+[=] ISO14443A - all times are in carrier periods (1/13.56MHz)
+
+      Start |        End | Src | Data (! denotes parity error)                                           | CRC | Annotation
+------------+------------+-----+-------------------------------------------------------------------------+-----+--------------------
+          0 |       2368 | Tag |04  00                                                                   |     | 
+      14576 |      20400 | Tag |FE  7E  A1  7E  5F                                                       |     | 
+      48624 |      52144 | Tag |28 [B4  FC]                                                              |  ok | 
+     106976 |     127776 | Tag |10  78  80  90  02  20  90  00  00  00  00  00  FE  7E  A1  7E [0F  22]  |  ok | 
+  131069952 |  131072320 | Tag |04  00                                                                   |     | 
+  131080876 |  131083340 | Rdr |93  20                                                                   |     | ANTICOLL
+  131084528 |  131090352 | Tag |FE  7E  A1  7E  5F                                                       |     | 
+  131118576 |  131122096 | Tag |28 [B4  FC]                                                              |  ok | 
+  131176928 |  131197728 | Tag |10  78  80  90  02  20  90  00  00  00  00  00  FE  7E  A1  7E [0F  22]  |  ok | 
+  262139552 |  262141920 | Tag |04  00                                                                   |     | 
+  262154144 |  262159968 | Tag |FE  7E  A1  7E  5F                                                       |     | 
+  262188176 |  262191696 | Tag |28 [B4  FC]                                                              |  ok | 
+  262203836 |  262208540 | Rdr |E0  50 [BC  A5]                                                          |  ok | RATS - FSDI=5 (FSD=64), CID=0
+  262246528 |  262267328 | Tag |10  78  80  90  02  20  90  00  00  00  00  00  FE  7E  A1  7E [0F  22]  |  ok | 
+  393209536 |  393211904 | Tag |04  00                                                                   |     | 
+  393224112 |  393229936 | Tag |FE  7E  A1  7E  5F                                                       |     | 
+  393258144 |  393261664 | Tag |28 [B4  FC]                                                              |  ok | 
+  393316512 |  393337312 | Tag |10  78  80  90  02  20  90  00  00  00  00  00  FE  7E  A1  7E [0F  22]  |  ok | 
+  524279584 |  524281952 | Tag |04  00                                                                   |     | 
+  524294176 |  524300000 | Tag |FE  7E  A1  7E  5F                                                       |     | 
+  524328208 |  524331728 | Tag |28 [B4  FC]                                                              |  ok | 
+  524386560 |  524407360 | Tag |10  78  80  90  02  20  90  00  00  00  00  00  FE  7E  A1  7E [0F  22]  |  ok | 
+  655349232 |  655351600 | Tag |04  00                                                                   |     | 
+  655363808 |  655369632 | Tag |FE  7E  A1  7E  5F                                                       |     | 
+  655397856 |  655401376 | Tag |28 [B4  FC]                                                              |  ok | 
+  655456208 |  655477008 | Tag |10  78  80  90  02  20  90  00  00  00  00  00  FE  7E  A1  7E [0F  22]  |  ok | 
+  786419152 |  786421520 | Tag |04  00                                                                   |     | 
+  786433744 |  786439568 | Tag |FE  7E  A1  7E  5F                                                       |     | 
+  786467776 |  786471296 | Tag |28 [B4  FC]                                                              |  ok | 
+  786526128 |  786546928 | Tag |10  78  80  90  02  20  90  00  00  00  00  00  FE  7E  A1  7E [0F  22]  |  ok | 
+  917489200 |  917491568 | Tag |04  00                                                                   |     | 
+  917503776 |  917509600 | Tag |FE  7E  A1  7E  5F                                                       |     | 
+  917537824 |  917541344 | Tag |28 [B4  FC]                                                              |  ok | 
+  917596176 |  917616976 | Tag |10  78  80  90  02  20  90  00  00  00  00  00  FE  7E  A1  7E [0F  22]  |  ok | 
+ 1048558832 | 1048561200 | Tag |04  00                                                                   |     | 
+ 1048573424 | 1048579248 | Tag |FE  7E  A1  7E  5F                                                       |     | 
+ 1048607456 | 1048610976 | Tag |28 [B4  FC]                                                              |  ok | 
+ 1048623116 | 1048627820 | Rdr |E0  50 [BC  A5]                                                          |  ok | RATS - FSDI=5 (FSD=64), CID=0
+ 1048665808 | 1048686608 | Tag |10  78  80  90  02  20  90  00  00  00  00  00  FE  7E  A1  7E [0F  22]  |  ok | 
+ 1179626556 | 1179627548 | Rdr |52(7)                                                                    |     | WUPA
+ 1179628800 | 1179631168 | Tag |04  00                                                                   |     | 
+ 1179643392 | 1179649216 | Tag |FE  7E  A1  7E  5F                                                       |     | 
+ 1179677424 | 1179680944 | Tag |28 [B4  FC]                                                              |  ok | 
+ 1179735776 | 1179756576 | Tag |10  78  80  90  02  20  90  00  00  00  00  00  FE  7E  A1  7E [0F  22]  |  ok | 
+ 1310698800 | 1310701168 | Tag |04  00                                                                   |     | 
+ 1310713376 | 1310719200 | Tag |FE  7E  A1  7E  5F                                                       |     | 
+ 1310747424 | 1310750944 | Tag |28 [B4  FC]                                                              |  ok | 
+ 1310805776 | 1310826576 | Tag |10  78  80  90  02  20  90  00  00  00  00  00  FE  7E  A1  7E [0F  22]  |  ok | 
+ 1441766108 | 1441767100 | Rdr |52(7)                                                                    |     | WUPA
+ 1441768352 | 1441770720 | Tag |04  00                                                                   |     | 
+ 1441782944 | 1441788768 | Tag |FE  7E  A1  7E  5F                                                       |     | 
+ 1441816976 | 1441820496 | Tag |28 [B4  FC]                                                              |  ok | 
+ 1441875344 | 1441896144 | Tag |10  78  80  90  02  20  90  00  00  00  00  00  FE  7E  A1  7E [0F  22]  |  ok | 
+[usb|script] pm3 --> trace save -f "O:\tij gt 1000\traces\real_D4_20261027"
+[+] Saved 849 bytes to binary file `O:\tij gt 1000\traces\real_D4_20261027.trace`
+[usb|script] pm3 --> quit

@@ -1,0 +1,375 @@
+=== 1. big files (>200k), file type ===
+/mnt/rfs/lost+found/#1003: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1009: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#100:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1010: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#101:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#102:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#103:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#105:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1060: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1062: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1068: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1104: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1105: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1106: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1107: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1108: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1109: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#110:  data
+/mnt/rfs/lost+found/#1110: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1111: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1112: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1113: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1115: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1158: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1161: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1186: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1187: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1190: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#11:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1235: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1236: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1243: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1269: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1284: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1328: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1365: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1370: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1377: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1405: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1472: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1476: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#149:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1513: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1524: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1525: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1526: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1527: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1528: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1530: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1542: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1581: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#158:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#159:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1603: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1610: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1687: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1688: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1689: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1690: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1691: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1692: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1693: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1694: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1695: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1696: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1697: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1698: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1699: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1700: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1701: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1702: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1703: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1704: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1705: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1706: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1707: ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1715: data
+/mnt/rfs/lost+found/#1725: data
+/mnt/rfs/lost+found/#1730: data
+/mnt/rfs/lost+found/#1746: data
+/mnt/rfs/lost+found/#1749: data
+/mnt/rfs/lost+found/#1769: data
+/mnt/rfs/lost+found/#1776: data
+/mnt/rfs/lost+found/#1777: data
+/mnt/rfs/lost+found/#1782: data
+/mnt/rfs/lost+found/#1783: data
+/mnt/rfs/lost+found/#1789: data
+/mnt/rfs/lost+found/#1790: data
+/mnt/rfs/lost+found/#1791: data
+/mnt/rfs/lost+found/#1809: data
+/mnt/rfs/lost+found/#1810: data
+/mnt/rfs/lost+found/#1817: data
+/mnt/rfs/lost+found/#1820: data
+/mnt/rfs/lost+found/#1826: data
+/mnt/rfs/lost+found/#183:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1844: data
+/mnt/rfs/lost+found/#184:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#1857: data
+/mnt/rfs/lost+found/#1867: data
+/mnt/rfs/lost+found/#1869: data
+/mnt/rfs/lost+found/#1888: data
+/mnt/rfs/lost+found/#1895: data
+/mnt/rfs/lost+found/#1901: data
+/mnt/rfs/lost+found/#1907: data
+/mnt/rfs/lost+found/#1910: data
+/mnt/rfs/lost+found/#1913: data
+/mnt/rfs/lost+found/#1919: data
+/mnt/rfs/lost+found/#1925: data
+/mnt/rfs/lost+found/#1931: data
+/mnt/rfs/lost+found/#1937: data
+/mnt/rfs/lost+found/#1940: data
+/mnt/rfs/lost+found/#1943: data
+/mnt/rfs/lost+found/#1956: data
+/mnt/rfs/lost+found/#2001: data
+/mnt/rfs/lost+found/#2004: data
+/mnt/rfs/lost+found/#2010: data
+/mnt/rfs/lost+found/#2012: data
+/mnt/rfs/lost+found/#2037: data
+/mnt/rfs/lost+found/#2042: data
+/mnt/rfs/lost+found/#2060: data
+/mnt/rfs/lost+found/#2070: data
+/mnt/rfs/lost+found/#2084: data
+/mnt/rfs/lost+found/#2087: data
+/mnt/rfs/lost+found/#2090: data
+/mnt/rfs/lost+found/#2102: data
+/mnt/rfs/lost+found/#2112: data
+/mnt/rfs/lost+found/#2124: data
+/mnt/rfs/lost+found/#2126: data
+/mnt/rfs/lost+found/#2129: data
+/mnt/rfs/lost+found/#2130: data
+/mnt/rfs/lost+found/#2135: data
+/mnt/rfs/lost+found/#2141: data
+/mnt/rfs/lost+found/#2147: data
+/mnt/rfs/lost+found/#2153: data
+/mnt/rfs/lost+found/#2154: data
+/mnt/rfs/lost+found/#2168: data
+/mnt/rfs/lost+found/#2173: data
+/mnt/rfs/lost+found/#2182: data
+/mnt/rfs/lost+found/#2187: data
+/mnt/rfs/lost+found/#2188: data
+/mnt/rfs/lost+found/#2191: data
+/mnt/rfs/lost+found/#2198: data
+/mnt/rfs/lost+found/#2212: data
+/mnt/rfs/lost+found/#222:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#2239: data
+/mnt/rfs/lost+found/#2247: data
+/mnt/rfs/lost+found/#2250: data
+/mnt/rfs/lost+found/#2256: data
+/mnt/rfs/lost+found/#2260: data
+/mnt/rfs/lost+found/#2261: data
+/mnt/rfs/lost+found/#2316: data
+/mnt/rfs/lost+found/#2395: data
+/mnt/rfs/lost+found/#2396: data
+/mnt/rfs/lost+found/#2526: data
+/mnt/rfs/lost+found/#2705: data
+/mnt/rfs/lost+found/#2706: data
+/mnt/rfs/lost+found/#2798: data
+/mnt/rfs/lost+found/#28:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#2920: data
+/mnt/rfs/lost+found/#2921: data
+/mnt/rfs/lost+found/#2922: data
+/mnt/rfs/lost+found/#2929: data
+/mnt/rfs/lost+found/#2933: data
+/mnt/rfs/lost+found/#2934: data
+/mnt/rfs/lost+found/#2938: data
+/mnt/rfs/lost+found/#2941: data
+/mnt/rfs/lost+found/#29:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#30:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#31:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#3336: data
+/mnt/rfs/lost+found/#3356: data
+/mnt/rfs/lost+found/#3387: data
+/mnt/rfs/lost+found/#3395: data
+/mnt/rfs/lost+found/#3400: data
+/mnt/rfs/lost+found/#3401: data
+/mnt/rfs/lost+found/#3423: data
+/mnt/rfs/lost+found/#3436: data
+/mnt/rfs/lost+found/#3592: data
+/mnt/rfs/lost+found/#3593: data
+/mnt/rfs/lost+found/#3595: data
+/mnt/rfs/lost+found/#3596: data
+/mnt/rfs/lost+found/#3598: data
+/mnt/rfs/lost+found/#3601: data
+/mnt/rfs/lost+found/#3602: data
+/mnt/rfs/lost+found/#3680: data
+/mnt/rfs/lost+found/#3687: data
+/mnt/rfs/lost+found/#3690: data
+/mnt/rfs/lost+found/#3810: data
+/mnt/rfs/lost+found/#3811: data
+/mnt/rfs/lost+found/#3816: data
+/mnt/rfs/lost+found/#3827: data
+/mnt/rfs/lost+found/#3833: data
+/mnt/rfs/lost+found/#3834: data
+/mnt/rfs/lost+found/#3866: data
+/mnt/rfs/lost+found/#3867: data
+/mnt/rfs/lost+found/#3873: data
+/mnt/rfs/lost+found/#3874: data
+/mnt/rfs/lost+found/#3877: data
+/mnt/rfs/lost+found/#3878: data
+/mnt/rfs/lost+found/#3880: data
+/mnt/rfs/lost+found/#3881: data
+/mnt/rfs/lost+found/#3882: data
+/mnt/rfs/lost+found/#3883: data
+/mnt/rfs/lost+found/#3885: data
+/mnt/rfs/lost+found/#3886: data
+/mnt/rfs/lost+found/#3887: data
+/mnt/rfs/lost+found/#3888: data
+/mnt/rfs/lost+found/#3889: data
+/mnt/rfs/lost+found/#3890: data
+/mnt/rfs/lost+found/#3891: data
+/mnt/rfs/lost+found/#3892: data
+/mnt/rfs/lost+found/#3893: data
+/mnt/rfs/lost+found/#3895: data
+/mnt/rfs/lost+found/#3900: data
+/mnt/rfs/lost+found/#3905: data
+/mnt/rfs/lost+found/#3910: data
+/mnt/rfs/lost+found/#3915: data
+/mnt/rfs/lost+found/#3955: data
+/mnt/rfs/lost+found/#3961: data
+/mnt/rfs/lost+found/#3967: data
+/mnt/rfs/lost+found/#3977: data
+/mnt/rfs/lost+found/#3982: data
+/mnt/rfs/lost+found/#3987: data
+/mnt/rfs/lost+found/#3993: data
+/mnt/rfs/lost+found/#4007: data
+/mnt/rfs/lost+found/#4012: data
+/mnt/rfs/lost+found/#4018: data
+/mnt/rfs/lost+found/#4023: data
+/mnt/rfs/lost+found/#4038: data
+/mnt/rfs/lost+found/#4048: data
+/mnt/rfs/lost+found/#4053: data
+/mnt/rfs/lost+found/#4060: data
+/mnt/rfs/lost+found/#4065: data
+/mnt/rfs/lost+found/#4075: data
+/mnt/rfs/lost+found/#4081: data
+/mnt/rfs/lost+found/#4091: data
+/mnt/rfs/lost+found/#4096: data
+/mnt/rfs/lost+found/#4111: data
+/mnt/rfs/lost+found/#4116: data
+/mnt/rfs/lost+found/#4121: data
+/mnt/rfs/lost+found/#4126: data
+/mnt/rfs/lost+found/#4131: data
+/mnt/rfs/lost+found/#4136: data
+/mnt/rfs/lost+found/#4147: data
+/mnt/rfs/lost+found/#4152: data
+/mnt/rfs/lost+found/#4157: data
+/mnt/rfs/lost+found/#4179: data
+/mnt/rfs/lost+found/#4189: data
+/mnt/rfs/lost+found/#4279: data
+/mnt/rfs/lost+found/#4280: data
+/mnt/rfs/lost+found/#4287: data
+/mnt/rfs/lost+found/#4290: data
+/mnt/rfs/lost+found/#4292: data
+/mnt/rfs/lost+found/#4297: data
+/mnt/rfs/lost+found/#4300: data
+/mnt/rfs/lost+found/#4302: data
+/mnt/rfs/lost+found/#4303: data
+/mnt/rfs/lost+found/#4304: data
+/mnt/rfs/lost+found/#4323: data
+/mnt/rfs/lost+found/#4376: data
+/mnt/rfs/lost+found/#4384: data
+/mnt/rfs/lost+found/#4441: data
+/mnt/rfs/lost+found/#4461: data
+/mnt/rfs/lost+found/#4513: data
+/mnt/rfs/lost+found/#4699: data
+/mnt/rfs/lost+found/#4712: data
+/mnt/rfs/lost+found/#482:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#502:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#507:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#511:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#5131: data
+/mnt/rfs/lost+found/#5252: data
+/mnt/rfs/lost+found/#5255: data
+/mnt/rfs/lost+found/#5276: data
+/mnt/rfs/lost+found/#5285: data
+/mnt/rfs/lost+found/#53:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#5486: data
+/mnt/rfs/lost+found/#5490: data
+/mnt/rfs/lost+found/#5496: data
+/mnt/rfs/lost+found/#54:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#5501: data
+/mnt/rfs/lost+found/#5506: data
+/mnt/rfs/lost+found/#5527: data
+/mnt/rfs/lost+found/#5555: data
+/mnt/rfs/lost+found/#5586: data
+/mnt/rfs/lost+found/#5592: data
+/mnt/rfs/lost+found/#5593: data
+/mnt/rfs/lost+found/#55:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#5627: data
+/mnt/rfs/lost+found/#5631: data
+/mnt/rfs/lost+found/#5661: data
+/mnt/rfs/lost+found/#5664: data
+/mnt/rfs/lost+found/#6017: data
+/mnt/rfs/lost+found/#6020: data
+/mnt/rfs/lost+found/#6158: data
+/mnt/rfs/lost+found/#6160: data
+/mnt/rfs/lost+found/#6166: data
+/mnt/rfs/lost+found/#6167: data
+/mnt/rfs/lost+found/#6168: data
+/mnt/rfs/lost+found/#6169: data
+/mnt/rfs/lost+found/#6170: data
+/mnt/rfs/lost+found/#6283: data
+/mnt/rfs/lost+found/#6288: data
+/mnt/rfs/lost+found/#6396: data
+/mnt/rfs/lost+found/#681:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#685:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#689:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#703:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#710:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#711:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#714:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#722:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#723:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#725:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#726:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#729:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#730:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#734:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#738:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#7391: data
+/mnt/rfs/lost+found/#740:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#7442: data
+/mnt/rfs/lost+found/#7465: data
+/mnt/rfs/lost+found/#747:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#749:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#759:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#760:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#761:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#762:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#763:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#7673: data
+/mnt/rfs/lost+found/#7676: data
+/mnt/rfs/lost+found/#771:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#773:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#776:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#777:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#778:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#779:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#781:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#782:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#79:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#83:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#84:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#87:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#88:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#90:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#91:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#92:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#93:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#953:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#954:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#95:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#96:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#978:  ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#97:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#98:   ISO-8859 text, with very long lines (65536), with no line terminators
+/mnt/rfs/lost+found/#99:   ISO-8859 text, with very long lines (65536), with no line terminators
+
+=== 2. files referencing System.mky ===
+
+=== 3. files referencing .mky ===
+
+=== 4. files referencing LOOGAL ===
+
+=== 5. files referencing cartridge/Cartridge ===
+
+=== 6. files referencing RFID/NFC/14443/Mifare/FMCOS ===
+
+=== 7. ELF executables/shared objects ===
+
+=== 8. ARM ELF big files ===
+
+=== 9. files with EAN in name impossible; strings EAN nearby ===
+DONE

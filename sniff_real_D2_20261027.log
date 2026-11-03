@@ -1,0 +1,9 @@
+[=] Session log O:/tij gt 1000/.proxmark3/logs/log_20261027090421.txt
+[+] loaded `O:/tij gt 1000/.proxmark3/preferences.json`
+[+] Using UART port COM11
+[!] UART error while setting com state
+
+
+[!] ERROR: invalid serial port COM11
+
+[?] Hint: Try the shell script ``./pm3 --list` to get a list of possible serial ports
